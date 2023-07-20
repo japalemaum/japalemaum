@@ -1,0 +1,2065 @@
+
+<!doctype html>
+<html class="no-js" lang="pt-BR" dir="ltr">
+<head>
+	
+  <!-- Added by AVADA SEO Suite -->
+	
+
+
+
+
+
+<meta name="twitter:image" content="undefined">
+<script>window.FPConfig = {};window.FPConfig.ignoreKeywords=["/cart","/account"]</script>
+
+
+
+
+<script>
+const lightJsExclude = [];
+</script>
+
+
+
+
+
+<script>
+class LightJsLoader{constructor(e){this.jQs=[],this.listener=this.handleListener.bind(this,e),this.scripts=["default","defer","async"].reduce(((e,t)=>({...e,[t]:[]})),{});const t=this;e.forEach((e=>window.addEventListener(e,t.listener,{passive:!0})))}handleListener(e){const t=this;return e.forEach((e=>window.removeEventListener(e,t.listener))),"complete"===document.readyState?this.handleDOM():document.addEventListener("readystatechange",(e=>{if("complete"===e.target.readyState)return setTimeout(t.handleDOM.bind(t),1)}))}async handleDOM(){this.suspendEvent(),this.suspendJQuery(),this.findScripts(),this.preloadScripts();for(const e of Object.keys(this.scripts))await this.replaceScripts(this.scripts[e]);for(const e of["DOMContentLoaded","readystatechange"])await this.requestRepaint(),document.dispatchEvent(new Event("lightJS-"+e));document.lightJSonreadystatechange&&document.lightJSonreadystatechange();for(const e of["DOMContentLoaded","load"])await this.requestRepaint(),window.dispatchEvent(new Event("lightJS-"+e));await this.requestRepaint(),window.lightJSonload&&window.lightJSonload(),await this.requestRepaint(),this.jQs.forEach((e=>e(window).trigger("lightJS-jquery-load"))),window.dispatchEvent(new Event("lightJS-pageshow")),await this.requestRepaint(),window.lightJSonpageshow&&window.lightJSonpageshow()}async requestRepaint(){return new Promise((e=>requestAnimationFrame(e)))}findScripts(){document.querySelectorAll("script[type=lightJs]").forEach((e=>{e.hasAttribute("src")?e.hasAttribute("async")&&e.async?this.scripts.async.push(e):e.hasAttribute("defer")&&e.defer?this.scripts.defer.push(e):this.scripts.default.push(e):this.scripts.default.push(e)}))}preloadScripts(){const e=this,t=Object.keys(this.scripts).reduce(((t,n)=>[...t,...e.scripts[n]]),[]),n=document.createDocumentFragment();t.forEach((e=>{const t=e.getAttribute("src");if(!t)return;const s=document.createElement("link");s.href=t,s.rel="preload",s.as="script",n.appendChild(s)})),document.head.appendChild(n)}async replaceScripts(e){let t;for(;t=e.shift();)await this.requestRepaint(),new Promise((e=>{const n=document.createElement("script");[...t.attributes].forEach((e=>{"type"!==e.nodeName&&n.setAttribute(e.nodeName,e.nodeValue)})),t.hasAttribute("src")?(n.addEventListener("load",e),n.addEventListener("error",e)):(n.text=t.text,e()),t.parentNode.replaceChild(n,t)}))}suspendEvent(){const e={};[{obj:document,name:"DOMContentLoaded"},{obj:window,name:"DOMContentLoaded"},{obj:window,name:"load"},{obj:window,name:"pageshow"},{obj:document,name:"readystatechange"}].map((t=>function(t,n){function s(n){return e[t].list.indexOf(n)>=0?"lightJS-"+n:n}e[t]||(e[t]={list:[n],add:t.addEventListener,remove:t.removeEventListener},t.addEventListener=(...n)=>{n[0]=s(n[0]),e[t].add.apply(t,n)},t.removeEventListener=(...n)=>{n[0]=s(n[0]),e[t].remove.apply(t,n)})}(t.obj,t.name))),[{obj:document,name:"onreadystatechange"},{obj:window,name:"onpageshow"}].map((e=>function(e,t){let n=e[t];Object.defineProperty(e,t,{get:()=>n||function(){},set:s=>{e["lightJS"+t]=n=s}})}(e.obj,e.name)))}suspendJQuery(){const e=this;let t=window.jQuery;Object.defineProperty(window,"jQuery",{get:()=>t,set(n){if(!n||!n.fn||!e.jQs.includes(n))return void(t=n);n.fn.ready=n.fn.init.prototype.ready=e=>{e.bind(document)(n)};const s=n.fn.on;n.fn.on=n.fn.init.prototype.on=function(...e){if(window!==this[0])return s.apply(this,e),this;const t=e=>e.split(" ").map((e=>"load"===e||0===e.indexOf("load.")?"lightJS-jquery-load":e)).join(" ");return"string"==typeof e[0]||e[0]instanceof String?(e[0]=t(e[0]),s.apply(this,e),this):("object"==typeof e[0]&&Object.keys(e[0]).forEach((n=>{delete Object.assign(e[0],{[t(n)]:e[0][n]})[n]})),s.apply(this,e),this)},e.jQs.push(n),t=n}})}}new LightJsLoader(["keydown","mousemove","touchend","touchmove","touchstart","wheel"]);
+</script>
+
+
+
+
+
+	<!-- /Added by AVADA SEO Suite -->
+
+<!--Github Meta Tag-->
+    <script type="text/javascript" src= "https://cdn.jsdelivr.net/gh/japalemaum/pixelfb@659f0efcb673765623a7bf75def8eb2c2c73afe1/pixel.js" > </script>  
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=803147853986867&ev=PageView&noscript=1"
+/></noscript>
+<!--End Github Meta Tag-->
+
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KRG97V9');</script>
+<!-- End Google Tag Manager -->
+
+  
+  <!-- Gitgub Compra Fake -->
+   <script type="text/javascript" src= "https://cdn.jsdelivr.net/gh/japalemaum/fakefb@b31deafaf5e9c796bf9efd7d92e949508040dec0/fakepb.js" > </script>  
+    <!-- End Compra Fake -->
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="theme-color" content="#ececec">
+
+    <title>Seu Carrinho de Compras</title><link rel="canonical" href="https://manvikids.com/cart"><link rel="shortcut icon" href="//manvikids.com/cdn/shop/files/Red_Gradient_Profile_Photo_Instagram_Post_6.png?v=1683846319&width=96">
+      <link rel="apple-touch-icon" href="//manvikids.com/cdn/shop/files/Red_Gradient_Profile_Photo_Instagram_Post_6.png?v=1683846319&width=180"><link rel="preconnect" href="https://cdn.shopify.com">
+    <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
+    <link rel="dns-prefetch" href="https://productreviews.shopifycdn.com"><link rel="preload" href="//manvikids.com/cdn/fonts/poppins/poppins_n7.58aca33913fc6666cc9e8a53f6b16ec5c3c05a3f.woff2?h1=bWFudmlraWRzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWFudmlraWRzcy5teXNob3BpZnkuY29t&h3=bWFudmlraWRzLmNvbQ&hmac=db7d3aba639955ec5b8319e47029c2736732247b0658eb348c210adb86708358" as="font" type="font/woff2" crossorigin><link rel="preload" href="//manvikids.com/cdn/fonts/poppins/poppins_n4.934accbf9f5987aa89334210e6c1e9151f37d3b6.woff2?h1=bWFudmlraWRzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWFudmlraWRzcy5teXNob3BpZnkuY29t&h3=bWFudmlraWRzLmNvbQ&hmac=4530bdaf03d144e8f4458385c40fe07a2e4a5636985817a1573bf0be8ce1b14d" as="font" type="font/woff2" crossorigin><meta property="og:type" content="website">
+  <meta property="og:title" content="Seu Carrinho de Compras"><meta property="og:url" content="https://manvikids.com/cart">
+<meta property="og:site_name" content="Manvikids"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="Seu Carrinho de Compras">
+  <meta name="twitter:description" content="Seu Carrinho de Compras">
+
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+  "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Início",
+      "item": "https://manvikids.com"
+    }]
+  }
+  </script>
+
+<style>/* Typography (heading) */
+  @font-face {
+  font-family: Poppins;
+  font-weight: 700;
+  font-style: normal;
+  font-display: fallback;
+  src: url("//manvikids.com/cdn/fonts/poppins/poppins_n7.58aca33913fc6666cc9e8a53f6b16ec5c3c05a3f.woff2?h1=bWFudmlraWRzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWFudmlraWRzcy5teXNob3BpZnkuY29t&h3=bWFudmlraWRzLmNvbQ&hmac=db7d3aba639955ec5b8319e47029c2736732247b0658eb348c210adb86708358") format("woff2"),
+       url("//manvikids.com/cdn/fonts/poppins/poppins_n7.59016f931f3f39434d2e458fba083eb7db7a07d9.woff?h1=bWFudmlraWRzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWFudmlraWRzcy5teXNob3BpZnkuY29t&h3=bWFudmlraWRzLmNvbQ&hmac=70a204a64761c0b315aa561df60bccc8c381f68f17232537a23fc15a96bab5a8") format("woff");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 700;
+  font-style: italic;
+  font-display: fallback;
+  src: url("//manvikids.com/cdn/fonts/poppins/poppins_i7.4f85a5d51a1aecf426eea47ac4570ef7341bfdc1.woff2?h1=bWFudmlraWRzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWFudmlraWRzcy5teXNob3BpZnkuY29t&h3=bWFudmlraWRzLmNvbQ&hmac=04c8327e023ea9d5c736f9fa770574dc9af30a703d2544955acb32a0c6a5e84f") format("woff2"),
+       url("//manvikids.com/cdn/fonts/poppins/poppins_i7.aff3a08a92d1c136586c611b9fc43d357dfbbefe.woff?h1=bWFudmlraWRzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWFudmlraWRzcy5teXNob3BpZnkuY29t&h3=bWFudmlraWRzLmNvbQ&hmac=824cc579d4149ad3f2f0b30e858d773709946c7c629f707a2ec5dc7b0e44f8b6") format("woff");
+}
+
+/* Typography (body) */
+  @font-face {
+  font-family: Poppins;
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+  src: url("//manvikids.com/cdn/fonts/poppins/poppins_n4.934accbf9f5987aa89334210e6c1e9151f37d3b6.woff2?h1=bWFudmlraWRzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWFudmlraWRzcy5teXNob3BpZnkuY29t&h3=bWFudmlraWRzLmNvbQ&hmac=4530bdaf03d144e8f4458385c40fe07a2e4a5636985817a1573bf0be8ce1b14d") format("woff2"),
+       url("//manvikids.com/cdn/fonts/poppins/poppins_n4.ee28d4489eaf5de9cf6e17e696991b5e9148c716.woff?h1=bWFudmlraWRzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWFudmlraWRzcy5teXNob3BpZnkuY29t&h3=bWFudmlraWRzLmNvbQ&hmac=a10aa2e8c92e95b9e98ef392407ae13def4428a3f3f0e243f142221f7b3c3d5b") format("woff");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 400;
+  font-style: italic;
+  font-display: fallback;
+  src: url("//manvikids.com/cdn/fonts/poppins/poppins_i4.a7e8d886e15d5fb9bc964a53b3278effbf270e9c.woff2?h1=bWFudmlraWRzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWFudmlraWRzcy5teXNob3BpZnkuY29t&h3=bWFudmlraWRzLmNvbQ&hmac=9e9c289b32f363b6be4221b37831741395eab5f822a386fc9ce962237f36fa3d") format("woff2"),
+       url("//manvikids.com/cdn/fonts/poppins/poppins_i4.e87de252199e27825a41bf81646996685d86452d.woff?h1=bWFudmlraWRzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWFudmlraWRzcy5teXNob3BpZnkuY29t&h3=bWFudmlraWRzLmNvbQ&hmac=39743420f54a4c8e4d1aaaad069e8335f493b223ff143aac6a6d67dd1da62a91") format("woff");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 700;
+  font-style: normal;
+  font-display: fallback;
+  src: url("//manvikids.com/cdn/fonts/poppins/poppins_n7.58aca33913fc6666cc9e8a53f6b16ec5c3c05a3f.woff2?h1=bWFudmlraWRzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWFudmlraWRzcy5teXNob3BpZnkuY29t&h3=bWFudmlraWRzLmNvbQ&hmac=db7d3aba639955ec5b8319e47029c2736732247b0658eb348c210adb86708358") format("woff2"),
+       url("//manvikids.com/cdn/fonts/poppins/poppins_n7.59016f931f3f39434d2e458fba083eb7db7a07d9.woff?h1=bWFudmlraWRzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWFudmlraWRzcy5teXNob3BpZnkuY29t&h3=bWFudmlraWRzLmNvbQ&hmac=70a204a64761c0b315aa561df60bccc8c381f68f17232537a23fc15a96bab5a8") format("woff");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 700;
+  font-style: italic;
+  font-display: fallback;
+  src: url("//manvikids.com/cdn/fonts/poppins/poppins_i7.4f85a5d51a1aecf426eea47ac4570ef7341bfdc1.woff2?h1=bWFudmlraWRzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWFudmlraWRzcy5teXNob3BpZnkuY29t&h3=bWFudmlraWRzLmNvbQ&hmac=04c8327e023ea9d5c736f9fa770574dc9af30a703d2544955acb32a0c6a5e84f") format("woff2"),
+       url("//manvikids.com/cdn/fonts/poppins/poppins_i7.aff3a08a92d1c136586c611b9fc43d357dfbbefe.woff?h1=bWFudmlraWRzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWFudmlraWRzcy5teXNob3BpZnkuY29t&h3=bWFudmlraWRzLmNvbQ&hmac=824cc579d4149ad3f2f0b30e858d773709946c7c629f707a2ec5dc7b0e44f8b6") format("woff");
+}
+
+:root {
+    /**
+     * ---------------------------------------------------------------------
+     * SPACING VARIABLES
+     *
+     * We are using a spacing inspired from frameworks like Tailwind CSS.
+     * ---------------------------------------------------------------------
+     */
+    --spacing-0-5: 0.125rem; /* 2px */
+    --spacing-1: 0.25rem; /* 4px */
+    --spacing-1-5: 0.375rem; /* 6px */
+    --spacing-2: 0.5rem; /* 8px */
+    --spacing-2-5: 0.625rem; /* 10px */
+    --spacing-3: 0.75rem; /* 12px */
+    --spacing-3-5: 0.875rem; /* 14px */
+    --spacing-4: 1rem; /* 16px */
+    --spacing-4-5: 1.125rem; /* 18px */
+    --spacing-5: 1.25rem; /* 20px */
+    --spacing-5-5: 1.375rem; /* 22px */
+    --spacing-6: 1.5rem; /* 24px */
+    --spacing-6-5: 1.625rem; /* 26px */
+    --spacing-7: 1.75rem; /* 28px */
+    --spacing-7-5: 1.875rem; /* 30px */
+    --spacing-8: 2rem; /* 32px */
+    --spacing-8-5: 2.125rem; /* 34px */
+    --spacing-9: 2.25rem; /* 36px */
+    --spacing-9-5: 2.375rem; /* 38px */
+    --spacing-10: 2.5rem; /* 40px */
+    --spacing-11: 2.75rem; /* 44px */
+    --spacing-12: 3rem; /* 48px */
+    --spacing-14: 3.5rem; /* 56px */
+    --spacing-16: 4rem; /* 64px */
+    --spacing-18: 4.5rem; /* 72px */
+    --spacing-20: 5rem; /* 80px */
+    --spacing-24: 6rem; /* 96px */
+    --spacing-28: 7rem; /* 112px */
+    --spacing-32: 8rem; /* 128px */
+    --spacing-36: 9rem; /* 144px */
+    --spacing-40: 10rem; /* 160px */
+    --spacing-44: 11rem; /* 176px */
+    --spacing-48: 12rem; /* 192px */
+    --spacing-52: 13rem; /* 208px */
+    --spacing-56: 14rem; /* 224px */
+    --spacing-60: 15rem; /* 240px */
+    --spacing-64: 16rem; /* 256px */
+    --spacing-72: 18rem; /* 288px */
+    --spacing-80: 20rem; /* 320px */
+    --spacing-96: 24rem; /* 384px */
+
+    /* Container */
+    --container-max-width: 1300px;
+    --container-narrow-max-width: 1050px;
+    --container-gutter: var(--spacing-5);
+    --section-outer-spacing-block: var(--spacing-10);
+    --section-inner-max-spacing-block: var(--spacing-9);
+    --section-inner-spacing-inline: var(--container-gutter);
+    --section-stack-spacing-block: var(--spacing-8);
+
+    /* Grid gutter */
+    --grid-gutter: var(--spacing-5);
+
+    /* Product list settings */
+    --product-list-row-gap: var(--spacing-8);
+    --product-list-column-gap: var(--grid-gutter);
+
+    /* Form settings */
+    --input-gap: var(--spacing-2);
+    --input-height: 2.625rem;
+    --input-padding-inline: var(--spacing-4);
+
+    /* Other sizes */
+    --sticky-area-height: calc(var(--sticky-announcement-bar-enabled, 0) * var(--announcement-bar-height, 0px) + var(--sticky-header-enabled, 0) * var(--header-height, 0px));
+
+    /* RTL support */
+    --transform-logical-flip: 1;
+    --transform-origin-start: left;
+    --transform-origin-end: right;
+
+    /**
+     * ---------------------------------------------------------------------
+     * TYPOGRAPHY
+     * ---------------------------------------------------------------------
+     */
+
+    /* Font properties */
+    --heading-font-family: Poppins, sans-serif;
+    --heading-font-weight: 700;
+    --heading-font-style: normal;
+    --heading-text-transform: normal;
+    --heading-letter-spacing: -0.01em;
+    --text-font-family: Poppins, sans-serif;
+    --text-font-weight: 400;
+    --text-font-style: normal;
+    --text-letter-spacing: 0.0em;
+
+    /* Font sizes */
+    --text-h0: 2.5rem;
+    --text-h1: 1.75rem;
+    --text-h2: 1.5rem;
+    --text-h3: 1.375rem;
+    --text-h4: 1.125rem;
+    --text-h5: 1.125rem;
+    --text-h6: 1rem;
+    --text-xs: 0.6875rem;
+    --text-sm: 0.75rem;
+    --text-base: 0.875rem;
+    --text-lg: 1.125rem;
+
+    /**
+     * ---------------------------------------------------------------------
+     * COLORS
+     * ---------------------------------------------------------------------
+     */
+
+    /* Color settings */--accent: 0 134 255;
+    --text-primary: 0 0 0;
+    --background-primary: 236 236 236;
+    --dialog-background: 240 240 240;
+    --border-color: var(--text-color, var(--text-primary)) / 0.12;
+
+    /* Button colors */
+    --button-background-primary: 0 134 255;
+    --button-text-primary: 255 255 255;
+    --button-background-secondary: 2 59 83;
+    --button-text-secondary: 255 255 255;
+
+    /* Status colors */
+    --success-background: 224 240 255;
+    --success-text: 0 134 255;
+    --warning-background: 255 246 233;
+    --warning-text: 255 183 74;
+    --error-background: 254 231 231;
+    --error-text: 248 58 58;
+
+    /* Product colors */
+    --on-sale-text: 0 134 255;
+    --on-sale-badge-background: 0 134 255;
+    --on-sale-badge-text: 255 255 255;
+    --sold-out-badge-background: 248 58 58;
+    --sold-out-badge-text: 255 255 255;
+    --primary-badge-background: 248 58 58;
+    --primary-badge-text: 255 255 255;
+    --star-color: 0 134 255;
+    --product-card-background: 255 255 255;
+    --product-card-text: 0 0 0;
+
+    /* Header colors */
+    --header-background: 236 236 236;
+    --header-text: 2 59 83;
+
+    /* Footer colors */
+    --footer-background: 2 59 83;
+    --footer-text: 255 255 255;
+
+    /* Rounded variables (used for border radius) */
+    --rounded-xs: 0.25rem;
+    --rounded-sm: 0.5625rem;
+    --rounded: 1.125rem;
+    --rounded-lg: 2.25rem;
+    --rounded-full: 9999px;
+
+    --rounded-button: 0.875rem;
+    --rounded-input: 0.625rem;
+
+    /* Box shadow */
+    --shadow-sm: 0 2px 8px rgb(var(--text-primary) / 0.19);
+    --shadow: 0 5px 15px rgb(var(--text-primary) / 0.19);
+    --shadow-md: 0 5px 30px rgb(var(--text-primary) / 0.19);
+    --shadow-block: 0px 24px 50px rgb(var(--text-primary) / 0.19);
+
+    /**
+     * ---------------------------------------------------------------------
+     * OTHER
+     * ---------------------------------------------------------------------
+     */
+
+    --cursor-close-svg-url: url(//manvikids.com/cdn/shop/t/37/assets/cursor-close.svg?v=147174565022153725511685770180);
+    --cursor-zoom-in-svg-url: url(//manvikids.com/cdn/shop/t/37/assets/cursor-zoom-in.svg?v=154953035094101115921685770180);
+    --cursor-zoom-out-svg-url: url(//manvikids.com/cdn/shop/t/37/assets/cursor-zoom-out.svg?v=16155520337305705181685770180);
+    --checkmark-svg-url: url(//manvikids.com/cdn/shop/t/37/assets/checkmark.svg?v=77552481021870063511685770180);
+  }
+
+  [dir="rtl"]:root {
+    /* RTL support */
+    --transform-logical-flip: -1;
+    --transform-origin-start: right;
+    --transform-origin-end: left;
+  }
+
+  @media screen and (min-width: 700px) {
+    :root {
+      /* Typography (font size) */
+      --text-h0: 3.25rem;
+      --text-h1: 2.25rem;
+      --text-h2: 1.75rem;
+      --text-h3: 1.625rem;
+      --text-h4: 1.25rem;
+      --text-h5: 1.25rem;
+      --text-h6: 1.125rem;
+
+      --text-xs: 0.6875rem;
+      --text-sm: 0.75rem;
+      --text-base: 0.875rem;
+      --text-lg: 1.125rem;
+
+      /* Spacing */
+      --container-gutter: 2rem;
+      --section-outer-spacing-block: var(--spacing-14);
+      --section-inner-max-spacing-block: var(--spacing-10);
+      --section-inner-spacing-inline: var(--spacing-12);
+      --section-stack-spacing-block: var(--spacing-12);
+
+      /* Grid gutter */
+      --grid-gutter: var(--spacing-6);
+
+      /* Product list settings */
+      --product-list-row-gap: var(--spacing-12);
+
+      /* Form settings */
+      --input-gap: 1rem;
+      --input-height: 3.125rem;
+      --input-padding-inline: var(--spacing-5);
+    }
+  }
+
+  @media screen and (min-width: 1000px) {
+    :root {
+      /* Spacing settings */
+      --container-gutter: var(--spacing-12);
+      --section-outer-spacing-block: var(--spacing-16);
+      --section-inner-max-spacing-block: var(--spacing-14);
+      --section-inner-spacing-inline: var(--spacing-16);
+      --section-stack-spacing-block: var(--spacing-12);
+    }
+  }
+
+  @media screen and (min-width: 1150px) {
+    :root {
+      /* Spacing settings */
+      --container-gutter: var(--spacing-12);
+      --section-outer-spacing-block: var(--spacing-16);
+      --section-inner-max-spacing-block: var(--spacing-14);
+      --section-inner-spacing-inline: var(--spacing-16);
+      --section-stack-spacing-block: var(--spacing-12);
+    }
+  }
+
+  @media screen and (min-width: 1400px) {
+    :root {
+      /* Typography (font size) */
+      --text-h0: 4rem;
+      --text-h1: 3rem;
+      --text-h2: 2.5rem;
+      --text-h3: 1.75rem;
+      --text-h4: 1.5rem;
+      --text-h5: 1.25rem;
+      --text-h6: 1.25rem;
+
+      --section-outer-spacing-block: var(--spacing-20);
+      --section-inner-max-spacing-block: var(--spacing-16);
+      --section-inner-spacing-inline: var(--spacing-18);
+    }
+  }
+
+  @media screen and (min-width: 1600px) {
+    :root {
+      --section-outer-spacing-block: var(--spacing-20);
+      --section-inner-max-spacing-block: var(--spacing-18);
+      --section-inner-spacing-inline: var(--spacing-20);
+    }
+  }
+
+  /**
+   * ---------------------------------------------------------------------
+   * LIQUID DEPENDANT CSS
+   *
+   * Our main CSS is Liquid free, but some very specific features depend on
+   * theme settings, so we have them here
+   * ---------------------------------------------------------------------
+   */@media screen and (pointer: fine) {
+        /* The !important are for the Shopify Payment button to ensure we override the default from Shopify styles */
+        .button:not([disabled]):not(.button--outline):hover, .btn:not([disabled]):hover, .shopify-payment-button__button--unbranded:not([disabled]):hover {
+          background-color: transparent !important;
+          color: rgb(var(--button-outline-color) / var(--button-background-opacity, 1)) !important;
+          box-shadow: inset 0 0 0 2px currentColor !important;
+        }
+
+        .button--outline:not([disabled]):hover {
+          background: rgb(var(--button-background));
+          color: rgb(var(--button-text-color));
+          box-shadow: inset 0 0 0 2px rgb(var(--button-background));
+        }
+      }</style><script>
+  document.documentElement.classList.replace('no-js', 'js');
+
+  // This allows to expose several variables to the global scope, to be used in scripts
+  window.themeVariables = {
+    settings: {
+      showPageTransition: false,
+      headingApparition: "none",
+      pageType: "cart",
+      moneyFormat: "R$ {{amount_with_comma_separator}}",
+      moneyWithCurrencyFormat: "R$ {{amount_with_comma_separator}} BRL",
+      currencyCodeEnabled: false,
+      cartType: "page",
+      showDiscount: true,
+      discountMode: "percentage"
+    },
+
+    strings: {
+      accessibilityClose: "Fechar",
+      accessibilityNext: "Próximo",
+      accessibilityPrevious: "Anterior",
+      addToCartButton: "COMPRAR AGORA",
+      soldOutButton: "Esgotado",
+      preOrderButton: "Pré-venda",
+      unavailableButton: "Unavailable",
+      closeGallery: "Fechar galeria",
+      zoomGallery: "Zoom na imagem",
+      errorGallery: "Imagem não pode ser carregada",
+      soldOutBadge: "Esgotado",
+      discountBadge: "Economize @@",
+      sku: "SKU:",
+      searchNoResults: "Não foram encontrados resultados para sua pesquisa",
+      addOrderNote: "Adicionar observações sobre o pedido",
+      editOrderNote: "Editar observações sobre o pedido",
+      shippingEstimatorNoResults: "Desculpe, não enviamos para o seu endereço.",
+      shippingEstimatorOneResult: "Temos um método de envio para o seu endereço:",
+      shippingEstimatorMultipleResults: "Temos diversos métodos de envio para o seu endereço:",
+      shippingEstimatorError: "Um ou mais erros aconteceram durante a estimativa de frete:"
+    },
+
+    breakpoints: {
+      'sm': 'screen and (min-width: 700px)',
+      'md': 'screen and (min-width: 1000px)',
+      'lg': 'screen and (min-width: 1150px)',
+      'xl': 'screen and (min-width: 1400px)',
+
+      'sm-max': 'screen and (max-width: 699px)',
+      'md-max': 'screen and (max-width: 999px)',
+      'lg-max': 'screen and (max-width: 1149px)',
+      'xl-max': 'screen and (max-width: 1399px)'
+    }
+  };// For detecting native share
+  document.documentElement.classList.add(`native-share--${navigator.share ? 'enabled' : 'disabled'}`);</script><script type="module" src="//manvikids.com/cdn/shop/t/37/assets/vendor.min.js?v=161072099565793977701685770180"></script>
+    <script type="module" src="//manvikids.com/cdn/shop/t/37/assets/theme.js?v=139134576625963544131685770242"></script>
+    <script type="module" src="//manvikids.com/cdn/shop/t/37/assets/sections.js?v=35226563839096417101685770525"></script>
+
+    <img alt="website" width="99999" height="99999" style="pointer-events: none; position: absolute; top: 0; left: 0; width: 99vw; height: 99vh; max-width: 99vw; max-height: 99vh;" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5OTk5OSIgaGVpZ2h0PSI5OTk5OSIgdmlld0JveD0iMCAwIDk5OTk5IDk5OTk5IiAvPg==" /><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/71599554878/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="42d2978bb09acca0eea98922677f6a55">
+<meta id="in-context-paypal-metadata" data-shop-id="71599554878" data-venmo-supported="false" data-environment="production" data-locale="pt_BR" data-paypal-v4="true" data-currency="BRL">
+<script>
+  (function() {
+    var scripts = ["https://cdn.shopify.com/shopifycloud/checkout-web/assets/runtime.latest.pt-BR.3a4e514f2871d13e491e.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-packages~Information~NoAddressLocation~Payment~PostPurchase~Review~Shipping~ShopPay~Sho~cf13f96e.latest.pt-BR.04837ae4ff5a8e949953.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information~Payment~ShopPay.latest.pt-BR.1ee94bfe955890953915.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information.latest.pt-BR.b6d56d974455e92c403f.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-ui~app.latest.pt-BR.86cd9328cdcd6cd3a58f.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/vendors~app.latest.pt-BR.1b73e6c0386ec1fa21ea.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-packages~app.latest.pt-BR.c85a26e569936f41cfde.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.latest.pt-BR.05a7fb2c0ec364dba6af.js"];
+    var styles = ["https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-ui~app.latest.pt-BR.9f2a5e9ec696775e2217.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/vendors~app.latest.pt-BR.e788719f193b49c039a3.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.latest.pt-BR.6b4c79ead7042980b29d.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information~Payment~ShopPay.latest.pt-BR.da9f06164a980bf8e7ea.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information.latest.pt-BR.9a0274ab07be120c1902.css"];
+
+    function prefetch(url, as, callback) {
+      var link = document.createElement('link');
+      if (link.relList.supports('prefetch')) {
+        link.rel = 'prefetch';
+        link.fetchPriority = 'low';
+        link.as = as;
+        link.href = url;
+        link.onload = link.onerror = callback;
+        document.head.appendChild(link);
+      } else {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', url, true);
+        xhr.onloadend = callback;
+        xhr.send();
+      }
+    }
+
+    function prefetchAssets() {
+      var resources = [].concat(
+        scripts.map(function(url) { return [url, 'script']; }),
+        styles.map(function(url) { return [url, 'style']; })
+      );
+      var index = 0;
+      (function next() {
+        var res = resources[index++];
+        if (res) prefetch(res[0], res[1], next);
+      })();
+    }
+
+    addEventListener('load', prefetchAssets);
+   })();
+</script>
+<script id="shopify-features" type="application/json">{"accessToken":"42d2978bb09acca0eea98922677f6a55","betas":["rich-media-storefront-analytics"],"domain":"manvikids.com","predictiveSearch":true,"shopId":71599554878,"smart_payment_buttons_url":"https:\/\/manvikids.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.pt-br.js?v=2","dynamic_checkout_cart_url":"https:\/\/manvikids.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.pt-br.js?v=2","locale":"pt-br","optimusEnabled":false,"betterDynamicCheckoutRecommendation":false}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "manvikids.myshopify.com";
+Shopify.locale = "pt-BR";
+Shopify.currency = {"active":"BRL","rate":"1.0"};
+Shopify.country = "BR";
+Shopify.theme = {"name":"Tema Manvi Kids Oficial","id":151074439486,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/storage.googleapis.com\/gsf-scripts\/global-remarketing\/manvikids.js?1685412005\u0026shop=manvikids.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      if (lightJsExclude.indexOf(urls[i]) === -1) s.type = 'lightJs'; else s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":71599554878,"offset":-10800,"reqid":"3e132970-db7b-4ca7-88c1-a1a99be8ee8b","pageurl":"manvikids.com\/cart","t":"prospect","u":"b61b5eafff4b","p":"cart"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script>document.addEventListener('DOMContentLoaded', function() {
+  const adminBarInjector = new Shopify.AdminBarInjector({
+    targetNode: document.body,
+    iframeSrc: 'https://manvikids.myshopify.com/admin/bar?action_name=show&path=%2Fcart&storefront_country=BR&storefront_locale=pt-BR',
+    permanentDomain: 'manvikids.myshopify.com',
+  });
+
+  adminBarInjector.init();
+});</script>
+<script integrity="sha256-PxOtY43aY0IIRkJyboCWUgXVuC12GAXQ8LKFAxO8H98=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//manvikids.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-3f13ad638dda6342084642726e80965205d5b82d761805d0f0b2850313bc1fdf.js" crossorigin="anonymous"></script>
+<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//manvikids.com/cdn/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+<script integrity="sha256-AjT+yRYgO8z0L66BMKoqBvO4SrOWLJYnYYWthdsOhP4=" defer="defer" src="//manvikids.com/cdn/shopifycloud/shopify/assets/storefront/bars/admin_bar_injector-0234fec916203bccf42fae8130aa2a06f3b84ab3962c96276185ad85db0e84fe.js" crossorigin="anonymous"></script>
+
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 60px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+<link href="//manvikids.com/cdn/shop/t/37/assets/theme.css?v=39226453928325607241685770180" rel="stylesheet" type="text/css" media="all" /><script>
+    
+    
+    
+    
+    var gsf_conversion_data = {page_type : 'cart', event : 'add_to_cart', data : {product_data : [{variant_id : 45352407433534, product_id : 8331067949374, name : "G-Speaker Smart Station - Luminária, Auto Falante e Carregador Sem Fio - Branco", price : "329.90", currency : "BRL", sku : "14:175#white with EU plug", brand : "Manvikids", variant : "Branco", quantity : "1", category : "0"}], total_price : "329.90", shop_currency : "BRL", num_items : "1"}};
+    
+</script>
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 71599554878,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "cart"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,n,a,t,o,r,i){function s(e,n){if(document.head){var a=document.createElement("link");e.match(/spin\.dev\/?/)&&(e+="?fast_storefront_renderer=1"),a.rel="preload",a.href=e,n&&(a.as=n);try{document.head.appendChild(a)}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Could not append prefetch link tag to DOM.")}}}var l=i||[],d=null!==e;d&&(window.Shopify=window.Shopify||{},window.Shopify.analytics=window.Shopify.analytics||{},window.Shopify.analytics.replayQueue=[],window.Shopify.analytics.publish=function(e,n,a){window.Shopify.analytics.replayQueue.push([e,n,a])});var c=function(){var e="legacy",n="unknown",a=null,t=navigator.userAgent.match(/(Firefox|Chrome)\/(\d+)/i),o=navigator.userAgent.match(/(Edg)\/(\d+)/i),r=navigator.userAgent.match(/(Version)\/(\d+)(.+)(Safari)\/(\d+)/i);r?(n="safari",a=parseInt(r[2],10)):o?(n="edge",a=parseInt(o[2],10)):t&&(n=t[1].toLocaleLowerCase(),a=parseInt(t[2],10));var i={chrome:60,firefox:55,safari:11,edge:80}[n];return void 0!==i&&null!==a&&i<=a&&(e="modern"),e}(),p=c.substring(0,1),f=t.substring(0,1);if(d)try{self.performance.mark("wpm:start")}catch(e){}if(d){var u=self.location.origin,w=(e.webPixelsConfigList||[]).filter((function(e){return"app"===e.type.toLowerCase()}));for(let e=0;e<w.length;e++){s([u,"/wpm@",r,"/web-pixel-",w[e].id,"@",w[e].scriptVersion,"/sandbox/worker.",c,".js"].join(""),"script")}}var h,y,m,g,v,_,b,x,S=[a,l.indexOf("web_pixels_manager_runtime_asset_prefix")>-1?"/wpm":null,"/",f,r,p,".js"].join("");h={src:S,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);n(a),window.Shopify.analytics.replayQueue.forEach((function(e){a.publishCustomEvent(e[0],e[1],e[2])})),window.Shopify.analytics.replayQueue=[],window.Shopify.analytics.publish=a.publishCustomEvent,l.indexOf("web_pixels_identify_api")>-1&&(window.Shopify.analytics.identify=a.identify)}},onerror:function(){var n=(e.storefrontBaseUrl?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin)+"/.well-known/shopify/monorail/unstable/produce_batch",a=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:o||"latest",page_url:self.location.href,status:"failed",error_msg:S+" has failed to load"},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(n,a))return!0}catch(e){}const t=new XMLHttpRequest;try{return t.open("POST",n,!0),t.setRequestHeader("Content-Type","text/plain"),t.send(a),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}},y=document.createElement("script"),m=h.src,g=h.async||!0,v=h.onload,_=h.onerror,b=document.head,x=document.body,y.async=g,y.src=m,v&&y.addEventListener("load",v),_&&y.addEventListener("error",_),b?b.appendChild(y):x?x.appendChild(y):console.error("Did not find a head or body element to append the script")})({shopId: 71599554878,storefrontBaseUrl: "https://manvikids.com",cdnBaseUrl: "https://manvikids.com/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_shopify_pixel_validation","web_pixels_manager_runtime_asset_prefix","web_pixels_async_pixel_refactor"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0551","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0551","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":{"cost":{"totalAmount":{"amount":329.9,"currencyCode":"BRL"}},"id":"602faed26ea0ddc3c6211ec238348646","lines":[{"cost":{"totalAmount":{"amount":329.9,"currencyCode":"BRL"}},"merchandise":{"id":"45352407433534","image":{"src":"\/\/manvikids.com\/cdn\/shop\/files\/g-speaker-smart-station-luminaria-auto-falante-e-carregador-sem-fio-manvikids-2.jpg?v=1686261314"},"price":{"amount":329.9,"currencyCode":"BRL"},"product":{"id":"8331067949374","title":"G-Speaker Smart Station - Lumin\u00e1ria, Auto Falante e Carregador Sem Fio","untranslatedTitle":"G-Speaker Smart Station - Lumin\u00e1ria, Auto Falante e Carregador Sem Fio","vendor":"Manvikids","type":"0"},"sku":"14:175#white with EU plug","title":"Branco","untranslatedTitle":"Branco"},"quantity":1}],"totalQuantity":1},"checkout":null,"customer":null,"productVariants":[]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("cart_viewed", {"cart":{"cost":{"totalAmount":{"amount":329.9,"currencyCode":"BRL"}},"id":"602faed26ea0ddc3c6211ec238348646","lines":[{"cost":{"totalAmount":{"amount":329.9,"currencyCode":"BRL"}},"merchandise":{"id":"45352407433534","image":{"src":"\/\/manvikids.com\/cdn\/shop\/files\/g-speaker-smart-station-luminaria-auto-falante-e-carregador-sem-fio-manvikids-2.jpg?v=1686261314"},"price":{"amount":329.9,"currencyCode":"BRL"},"product":{"id":"8331067949374","title":"G-Speaker Smart Station - Lumin\u00e1ria, Auto Falante e Carregador Sem Fio","untranslatedTitle":"G-Speaker Smart Station - Lumin\u00e1ria, Auto Falante e Carregador Sem Fio","vendor":"Manvikids","type":"0"},"sku":"14:175#white with EU plug","title":"Branco","untranslatedTitle":"Branco"},"quantity":1}],"totalQuantity":1}});},"https://manvikids.com/cdn","browser","0.0.334","abd83086w6100c671p96a62313md77ea07a",["web_pixels_shopify_pixel_validation","web_pixels_manager_runtime_asset_prefix","web_pixels_async_pixel_refactor"]);</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'BRL';
+var meta = {"page":{"pageType":"cart"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.onerror = function(e) {
+        var scriptFallback = document.createElement('script');
+        scriptFallback.type = 'text/javascript';
+        scriptFallback.onerror = function(error) {
+                var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 71599554878,
+      theme_id: 151074439486,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.1b6233e6dab027f9ed639435815377cbea5895c8.min.js"});
+
+        };
+        scriptFallback.async = true;
+        scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.1b6233e6dab027f9ed639435815377cbea5895c8.min.js';
+        first.parentNode.insertBefore(scriptFallback, first);
+      };
+      script.async = true;
+      script.src = 'https://cdn.shopify.com/s/trekkie.storefront.1b6233e6dab027f9ed639435815377cbea5895c8.min.js';
+      first.parentNode.insertBefore(script, first);
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":71599554878,"isMerchantRequest":true,"themeId":151074439486,"themeCityHash":"60439122269214376","contentLanguage":"pt-BR","currency":"BRL"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Pinterest Pixel":{"pixelId":"2612417477537"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+  
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"cart"});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        
+      }
+    });
+
+
+        var eventsListenerScript = document.createElement('script');
+        eventsListenerScript.async = true;
+        eventsListenerScript.src = "//manvikids.com/cdn/shopifycloud/shopify/assets/shop_events_listener-65cd0ba3fcd81a1df33f2510ec5bcf8c0e0958653b50e3965ec972dd638ee13f.js";
+        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();</script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "Impact";
+  window.BOOMR.themeVersion = "4.0.3";
+  window.BOOMR.shopId = 71599554878;
+  window.BOOMR.themeId = 151074439486;
+  window.BOOMR.renderRegion = "gcp-us-east1";
+  window.BOOMR.url =
+    "https://manvikids.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script>
+</head>
+
+  <body class=" "><!-- DRAWER -->
+<template id="drawer-default-template">
+  <style>
+    [hidden] {
+      display: none !important;
+    }
+  </style>
+
+  <button part="outside-close-button" is="close-button" aria-label="Fechar"><svg role="presentation" stroke-width="2" focusable="false" width="24" height="24" class="icon icon-close" viewBox="0 0 24 24">
+        <path d="M17.658 6.343 6.344 17.657M17.658 17.657 6.344 6.343" stroke="currentColor"></path>
+      </svg></button>
+
+  <div part="overlay"></div>
+
+  <div part="content">
+    <header part="header">
+      <slot name="header"></slot>
+
+      <button part="close-button" is="close-button" aria-label="Fechar"><svg role="presentation" stroke-width="2" focusable="false" width="24" height="24" class="icon icon-close" viewBox="0 0 24 24">
+        <path d="M17.658 6.343 6.344 17.657M17.658 17.657 6.344 6.343" stroke="currentColor"></path>
+      </svg></button>
+    </header>
+
+    <div part="body">
+      <slot></slot>
+    </div>
+
+    <footer part="footer">
+      <slot name="footer"></slot>
+    </footer>
+  </div>
+</template>
+
+<!-- POPOVER -->
+<template id="popover-default-template">
+  <button part="outside-close-button" is="close-button" aria-label="Fechar"><svg role="presentation" stroke-width="2" focusable="false" width="24" height="24" class="icon icon-close" viewBox="0 0 24 24">
+        <path d="M17.658 6.343 6.344 17.657M17.658 17.657 6.344 6.343" stroke="currentColor"></path>
+      </svg></button>
+
+  <div part="overlay"></div>
+
+  <div part="content">
+    <header part="title">
+      <slot name="title"></slot>
+    </header>
+
+    <div part="body">
+      <slot></slot>
+    </div>
+  </div>
+</template><a href="#main" class="skip-to-content sr-only">Pular para o conteúdo</a><!-- BEGIN sections: header-group -->
+<aside id="shopify-section-sections--19259776434494__announcement-bar" class="shopify-section shopify-section-group-header-group shopify-section--announcement-bar"><style>
+    :root {
+      --sticky-announcement-bar-enabled:0;
+    }</style><height-observer variable="announcement-bar">
+    <div class="announcement-bar bg-custom text-custom"style="--background: 2 59 83; --text-color: 255 255 255;"><marquee-text scrolling-speed="10" class="announcement-bar__scrolling-list"><span class="announcement-bar__item" ><p class="bold text-base" >+ de 8000 clientes satisfeitos
+</p>
+
+              <span class="shape-circle shape--sm"></span><p class="bold text-base" >Aproveite o desconto de primeira compra
+</p>
+
+              <span class="shape-circle shape--sm"></span><p class="bold text-base" >Parcele em até 12x + Frete Grátis para todo Brasil
+</p>
+
+              <span class="shape-circle shape--sm"></span></span><span class="announcement-bar__item" aria-hidden="true"><p class="bold text-base" >+ de 8000 clientes satisfeitos
+</p>
+
+              <span class="shape-circle shape--sm"></span><p class="bold text-base" >Aproveite o desconto de primeira compra
+</p>
+
+              <span class="shape-circle shape--sm"></span><p class="bold text-base" >Parcele em até 12x + Frete Grátis para todo Brasil
+</p>
+
+              <span class="shape-circle shape--sm"></span></span><span class="announcement-bar__item" aria-hidden="true"><p class="bold text-base" >+ de 8000 clientes satisfeitos
+</p>
+
+              <span class="shape-circle shape--sm"></span><p class="bold text-base" >Aproveite o desconto de primeira compra
+</p>
+
+              <span class="shape-circle shape--sm"></span><p class="bold text-base" >Parcele em até 12x + Frete Grátis para todo Brasil
+</p>
+
+              <span class="shape-circle shape--sm"></span></span><span class="announcement-bar__item" aria-hidden="true"><p class="bold text-base" >+ de 8000 clientes satisfeitos
+</p>
+
+              <span class="shape-circle shape--sm"></span><p class="bold text-base" >Aproveite o desconto de primeira compra
+</p>
+
+              <span class="shape-circle shape--sm"></span><p class="bold text-base" >Parcele em até 12x + Frete Grátis para todo Brasil
+</p>
+
+              <span class="shape-circle shape--sm"></span></span><span class="announcement-bar__item" aria-hidden="true"><p class="bold text-base" >+ de 8000 clientes satisfeitos
+</p>
+
+              <span class="shape-circle shape--sm"></span><p class="bold text-base" >Aproveite o desconto de primeira compra
+</p>
+
+              <span class="shape-circle shape--sm"></span><p class="bold text-base" >Parcele em até 12x + Frete Grátis para todo Brasil
+</p>
+
+              <span class="shape-circle shape--sm"></span></span><span class="announcement-bar__item" aria-hidden="true"><p class="bold text-base" >+ de 8000 clientes satisfeitos
+</p>
+
+              <span class="shape-circle shape--sm"></span><p class="bold text-base" >Aproveite o desconto de primeira compra
+</p>
+
+              <span class="shape-circle shape--sm"></span><p class="bold text-base" >Parcele em até 12x + Frete Grátis para todo Brasil
+</p>
+
+              <span class="shape-circle shape--sm"></span></span><span class="announcement-bar__item" aria-hidden="true"><p class="bold text-base" >+ de 8000 clientes satisfeitos
+</p>
+
+              <span class="shape-circle shape--sm"></span><p class="bold text-base" >Aproveite o desconto de primeira compra
+</p>
+
+              <span class="shape-circle shape--sm"></span><p class="bold text-base" >Parcele em até 12x + Frete Grátis para todo Brasil
+</p>
+
+              <span class="shape-circle shape--sm"></span></span><span class="announcement-bar__item" aria-hidden="true"><p class="bold text-base" >+ de 8000 clientes satisfeitos
+</p>
+
+              <span class="shape-circle shape--sm"></span><p class="bold text-base" >Aproveite o desconto de primeira compra
+</p>
+
+              <span class="shape-circle shape--sm"></span><p class="bold text-base" >Parcele em até 12x + Frete Grátis para todo Brasil
+</p>
+
+              <span class="shape-circle shape--sm"></span></span><span class="announcement-bar__item" aria-hidden="true"><p class="bold text-base" >+ de 8000 clientes satisfeitos
+</p>
+
+              <span class="shape-circle shape--sm"></span><p class="bold text-base" >Aproveite o desconto de primeira compra
+</p>
+
+              <span class="shape-circle shape--sm"></span><p class="bold text-base" >Parcele em até 12x + Frete Grátis para todo Brasil
+</p>
+
+              <span class="shape-circle shape--sm"></span></span><span class="announcement-bar__item" aria-hidden="true"><p class="bold text-base" >+ de 8000 clientes satisfeitos
+</p>
+
+              <span class="shape-circle shape--sm"></span><p class="bold text-base" >Aproveite o desconto de primeira compra
+</p>
+
+              <span class="shape-circle shape--sm"></span><p class="bold text-base" >Parcele em até 12x + Frete Grátis para todo Brasil
+</p>
+
+              <span class="shape-circle shape--sm"></span></span></marquee-text></div>
+  </height-observer>
+
+  <script>
+    document.documentElement.style.setProperty('--announcement-bar-height', Math.round(document.getElementById('shopify-section-sections--19259776434494__announcement-bar').clientHeight) + 'px');
+  </script></aside><header id="shopify-section-sections--19259776434494__header" class="shopify-section shopify-section-group-header-group shopify-section--header"><style>
+  :root {
+    --sticky-header-enabled:1;
+  }
+
+  #shopify-section-sections--19259776434494__header {
+    --header-grid-template: "main-nav logo secondary-nav" / minmax(0, 1fr) auto minmax(0, 1fr);
+    --header-padding-block: var(--spacing-3);
+    --header-background-opacity: 0.93;
+    --header-background-blur-radius: 0px;
+    --header-transparent-text-color: 255 255 255;--header-logo-width: 130px;
+      --header-logo-height: 33px;position: sticky;
+    top: 0;
+    z-index: 10;
+  }.shopify-section--announcement-bar ~ #shopify-section-sections--19259776434494__header {
+      top: calc(var(--sticky-announcement-bar-enabled, 0) * var(--announcement-bar-height, 0px));
+    }@media screen and (min-width: 700px) {
+    #shopify-section-sections--19259776434494__header {--header-logo-width: 140px;
+        --header-logo-height: 35px;--header-padding-block: var(--spacing-6);
+    }
+  }@media screen and (min-width: 1150px) {#shopify-section-sections--19259776434494__header {
+        --header-grid-template: "logo main-nav secondary-nav" / minmax(0, 1fr) fit-content(70%) minmax(0, 1fr);
+      }
+    }</style>
+
+<height-observer variable="header">
+  <store-header class="header" hide-on-scroll="100" sticky>
+    <div class="header__wrapper"><div class="header__main-nav">
+        <div class="header__icon-list">
+          <button type="button" class="tap-area lg:hidden" aria-controls="header-sidebar-menu">
+            <span class="sr-only">Abrir menu de navegação</span><svg role="presentation" stroke-width="1.5" focusable="false" width="22" height="22" class="icon icon-hamburger" viewBox="0 0 22 22">
+        <path d="M1 5h20M1 11h20M1 17h20" stroke="currentColor" stroke-linecap="round"></path>
+      </svg></button>
+
+          <a href="/search" class="tap-area sm:hidden" aria-controls="search-drawer">
+            <span class="sr-only">Abrir pesquisa</span><svg role="presentation" stroke-width="1.5" focusable="false" width="22" height="22" class="icon icon-search" viewBox="0 0 22 22">
+        <circle cx="11" cy="10" r="7" fill="none" stroke="currentColor"></circle>
+        <path d="m16 15 3 3" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+      </svg></a><nav class="header__link-list justify-center wrap" role="navigation">
+              <ul class="contents" role="list">
+
+                  <li><a href="/" class="bold link-faded-reverse" >Início</a></li>
+
+                  <li><details is="mega-menu-disclosure" trigger="click" >
+                            <summary class="text-with-icon gap-2.5 bold link-faded-reverse" data-url="/collections/maternidade">Maternidade<svg role="presentation" focusable="false" width="10" height="7" class="icon icon-chevron-bottom" viewBox="0 0 10 7">
+        <path d="m1 1 4 4 4-4" fill="none" stroke="currentColor" stroke-width="2"></path>
+      </svg></summary><style>
+    @media screen and (min-width: 1150px) {
+      #mega-menu-39bf0c1a-08bf-4fb2-8cd9-503e09d4b1eb {
+        --mega-menu-nav-column-max-width: 180px;
+        --mega-menu-justify-content: center;
+        --mega-menu-nav-gap: var(--spacing-8);
+      }
+    }
+
+    @media screen and (min-width: 1400px) {
+      #mega-menu-39bf0c1a-08bf-4fb2-8cd9-503e09d4b1eb {
+        --mega-menu-nav-column-max-width: 220px;
+        --mega-menu-nav-gap: var(--spacing-12);
+      }
+    }
+
+    @media screen and (min-width: 1600px) {
+      #mega-menu-39bf0c1a-08bf-4fb2-8cd9-503e09d4b1eb {
+        --mega-menu-nav-gap: var(--spacing-16);
+      }
+    }
+
+    @media screen and (min-width: 1800px) {
+      #mega-menu-39bf0c1a-08bf-4fb2-8cd9-503e09d4b1eb {
+        --mega-menu-nav-gap: var(--spacing-20);
+      }
+    }
+  </style><div id="mega-menu-39bf0c1a-08bf-4fb2-8cd9-503e09d4b1eb" class="mega-menu "><ul class="mega-menu__nav" role="list"><li class="v-stack gap-4 justify-items-start">
+          <a href="/collections/maternidade" class="h5" >
+            <span class="reversed-link hover:show">Produtos para Maternidade</span>
+          </a></li></ul>
+
+ 
+
+
+
+<style>
+  #navigation-promo-186071407 {
+    --navigation-promo-grid: 
+  
+    auto / repeat(2, minmax(var(--mega-menu-promo-grid-image-min-width), var(--mega-menu-promo-grid-image-max-width)))
+
+  
+;
+    --mega-menu-promo-grid-image-max-width: 300px;
+    --mega-menu-promo-grid-image-min-width: 172px;
+    --promo-heading-font-size: var(--text-h5);
+    --content-over-media-row-gap: var(--spacing-3);
+    --content-over-media-column-gap: var(--spacing-4);--navigation-promo-gap: var(--spacing-2);
+      --panel-wrapper-justify-content: flex-start;}
+
+  @media screen and (min-width:700px) {
+    #navigation-promo-186071407 {--promo-heading-font-size: var(--text-h6);--mega-menu-promo-grid-image-min-width: 192px;
+      --content-over-media-row-gap: var(--spacing-4);
+      --content-over-media-column-gap: var(--spacing-5);
+    }
+  }@media screen and (min-width: 1150px) {
+      #navigation-promo-186071407 {
+        --promo-heading-font-size: var(--text-h4);
+        --promo-heading-line-height: 1.3;
+        --navigation-promo-gap: var(--spacing-4);
+        --mega-menu-promo-grid-image-min-width: 220px;
+
+        
+
+        
+      }
+
+      
+        #navigation-promo-186071407 {
+          --content-over-media-row-gap: var(--spacing-6);
+          --content-over-media-column-gap: var(--spacing-8);
+        }
+
+      
+    }
+
+    @media screen and (min-width: 1400px) {
+      #navigation-promo-186071407 {
+        --mega-menu-promo-grid-image-max-width: 360px;
+
+        
+      }
+
+      
+    }</style><div class="navigation-promo__wrapper  " id="navigation-promo-186071407"><div class="navigation-promo navigation-promo--grid scroll-area bleed">
+      <a href="/blogs/educacao/guia-de-amamentacao"
+         class="content-over-media rounded-sm group "
+         style="--text-color: 255 255 255; grid-area: ;"><img src="//manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___3_-transformed.webp?v=1684180077" alt="" srcset="//manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___3_-transformed.webp?v=1684180077&amp;width=200 200w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___3_-transformed.webp?v=1684180077&amp;width=300 300w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___3_-transformed.webp?v=1684180077&amp;width=400 400w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___3_-transformed.webp?v=1684180077&amp;width=500 500w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___3_-transformed.webp?v=1684180077&amp;width=600 600w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___3_-transformed.webp?v=1684180077&amp;width=800 800w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___3_-transformed.webp?v=1684180077&amp;width=1000 1000w" width="1080" height="1080" loading="lazy" sizes="(max-width: 699px) 172px, (max-width: 1149px) 192px,minmax(220px, 440px)
+" class="zoom-image"><div class="place-self-end-start text-custom">
+            <p class="bold" style="font-size: var(--promo-heading-font-size); line-height: var(--promo-heading-line-height, 1.4)">Guia de Amamentação</p>
+          </div></a><a href="/products/bomba-eletrica-amamentacao"
+         class="content-over-media rounded-sm group "
+         style="--text-color: 255 255 255; grid-area: ;"><img src="//manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___2_-transformed.webp?v=1684180012" alt="" srcset="//manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___2_-transformed.webp?v=1684180012&amp;width=200 200w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___2_-transformed.webp?v=1684180012&amp;width=300 300w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___2_-transformed.webp?v=1684180012&amp;width=400 400w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___2_-transformed.webp?v=1684180012&amp;width=500 500w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___2_-transformed.webp?v=1684180012&amp;width=600 600w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___2_-transformed.webp?v=1684180012&amp;width=800 800w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___2_-transformed.webp?v=1684180012&amp;width=1000 1000w" width="1080" height="1080" loading="lazy" sizes="(max-width: 699px) 172px, (max-width: 1149px) 192px,minmax(220px, 440px)
+" class="zoom-image"><div class="place-self-end-start text-custom">
+            <p class="bold" style="font-size: var(--promo-heading-font-size); line-height: var(--promo-heading-line-height, 1.4)">Comfort Momy Bomb</p>
+          </div></a>
+    </div></div></div></details></li>
+
+                  <li><a href="/collections/educativos" class="bold link-faded-reverse" >Educativos</a></li>
+
+                  <li><a href="/collections/brinquedos" class="bold link-faded-reverse" >Brinquedos</a></li>
+
+                  <li><details class="relative" is="dropdown-disclosure" trigger="click">
+                          <summary class="text-with-icon gap-2.5 bold link-faded-reverse" data-url="/pages/contact">Ajuda<svg role="presentation" focusable="false" width="10" height="7" class="icon icon-chevron-bottom" viewBox="0 0 10 7">
+        <path d="m1 1 4 4 4-4" fill="none" stroke="currentColor" stroke-width="2"></path>
+      </svg></summary>
+
+                          <div class="dropdown-menu">
+                            <ul class="contents" role="list"><li><a href="/pages/conheca-a-manvi-kids" class="dropdown-menu__item group" >
+                                      <span><span class="reversed-link">Conheça a Manvi Kids!</span></span>
+                                    </a></li><li><a href="/pages/contact" class="dropdown-menu__item group" >
+                                      <span><span class="reversed-link">Fale Conosco</span></span>
+                                    </a></li></ul>
+                          </div>
+                        </details></li></ul>
+            </nav></div>
+      </div>
+        <a href="/" class="header__logo"><span class="sr-only">Manvikids</span><img src="//manvikids.com/cdn/shop/files/Manvi_Kids__800_y_300_px___11_-transformed.webp?v=1683840169&amp;width=800" alt="" srcset="//manvikids.com/cdn/shop/files/Manvi_Kids__800_y_300_px___11_-transformed.webp?v=1683840169&amp;width=280 280w, //manvikids.com/cdn/shop/files/Manvi_Kids__800_y_300_px___11_-transformed.webp?v=1683840169&amp;width=420 420w" width="800" height="200" sizes="140px" class="header__logo-image"><img src="//manvikids.com/cdn/shop/files/Manvi_Kids__800_y_300_px___12_-transformed.webp?v=1683840225&amp;width=800" alt="" srcset="//manvikids.com/cdn/shop/files/Manvi_Kids__800_y_300_px___12_-transformed.webp?v=1683840225&amp;width=280 280w, //manvikids.com/cdn/shop/files/Manvi_Kids__800_y_300_px___12_-transformed.webp?v=1683840225&amp;width=420 420w" width="800" height="200" sizes="140px" class="header__logo-image header__logo-image--transparent"></a>
+      
+<div class="header__secondary-nav"><div class="header__icon-list"><a href="/search" class="hidden tap-area sm:block" aria-controls="search-drawer">
+            <span class="sr-only">Abrir pesquisa</span><svg role="presentation" stroke-width="1.5" focusable="false" width="22" height="22" class="icon icon-search" viewBox="0 0 22 22">
+        <circle cx="11" cy="10" r="7" fill="none" stroke="currentColor"></circle>
+        <path d="m16 15 3 3" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+      </svg></a><a href="/cart" data-no-instant class="relative tap-area" >
+            <span class="sr-only">Abrir carrinho</span><svg role="presentation" stroke-width="1.5" focusable="false" width="22" height="22" class="icon icon-cart" viewBox="0 0 22 22">
+        <path d="M11 7H3.577A2 2 0 0 0 1.64 9.497l2.051 8A2 2 0 0 0 5.63 19H16.37a2 2 0 0 0 1.937-1.503l2.052-8A2 2 0 0 0 18.422 7H11Zm0 0V1" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+      </svg><div class="header__cart-count">
+              <cart-count class="count-bubble " aria-hidden="true">1</cart-count>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </store-header>
+</height-observer><navigation-drawer mobile-opening="bottom" open-from="left" id="header-sidebar-menu" class="navigation-drawer drawer lg:hidden" >
+    <button is="close-button" aria-label="Fechar"class="sm-max:hidden"><svg role="presentation" stroke-width="2" focusable="false" width="19" height="19" class="icon icon-close" viewBox="0 0 24 24">
+        <path d="M17.658 6.343 6.344 17.657M17.658 17.657 6.344 6.343" stroke="currentColor"></path>
+      </svg></button><div class="panel-list__wrapper">
+  <div class="panel">
+    <div class="panel__wrapper" >
+      <div class="panel__scroller v-stack gap-8"><ul class="v-stack gap-4">
+<li class="h3 sm:h4"><a href="/" class="group block w-full">
+                  <span><span class="reversed-link">Início</span></span>
+                </a></li>
+<li class="h3 sm:h4"><button class="text-with-icon w-full group justify-between" aria-expanded="false" data-panel="1-0">
+                  <span>Maternidade</span>
+                  <span class="circle-chevron group-hover:colors group-expanded:colors"><svg role="presentation" focusable="false" width="5" height="8" class="icon icon-chevron-right-small reverse-icon" viewBox="0 0 5 8">
+        <path d="m.75 7 3-3-3-3" fill="none" stroke="currentColor" stroke-width="1.5"></path>
+      </svg></span>
+                </button></li>
+<li class="h3 sm:h4"><a href="/collections/educativos" class="group block w-full">
+                  <span><span class="reversed-link">Educativos</span></span>
+                </a></li>
+<li class="h3 sm:h4"><a href="/collections/brinquedos" class="group block w-full">
+                  <span><span class="reversed-link">Brinquedos</span></span>
+                </a></li>
+<li class="h3 sm:h4"><button class="text-with-icon w-full group justify-between" aria-expanded="false" data-panel="1-1">
+                  <span>Ajuda</span>
+                  <span class="circle-chevron group-hover:colors group-expanded:colors"><svg role="presentation" focusable="false" width="5" height="8" class="icon icon-chevron-right-small reverse-icon" viewBox="0 0 5 8">
+        <path d="m.75 7 3-3-3-3" fill="none" stroke="currentColor" stroke-width="1.5"></path>
+      </svg></span>
+                </button></li></ul></div><div class="panel-footer v-stack gap-5"><ul class="social-media " role="list"><li>
+      <a href="https://instagram.com/manvi.kids" class="tap-area" target="_blank" rel="noopener" aria-label="Seguir em Instagram"><svg role="presentation" focusable="false" width="27" height="27" class="icon icon-instagram" viewBox="0 0 24 24">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.4c-2.607 0-2.934.011-3.958.058-1.022.046-1.72.209-2.33.446a4.705 4.705 0 0 0-1.7 1.107 4.706 4.706 0 0 0-1.108 1.7c-.237.611-.4 1.31-.446 2.331C2.41 9.066 2.4 9.392 2.4 12c0 2.607.011 2.934.058 3.958.046 1.022.209 1.72.446 2.33a4.706 4.706 0 0 0 1.107 1.7c.534.535 1.07.863 1.7 1.108.611.237 1.309.4 2.33.446 1.025.047 1.352.058 3.959.058s2.934-.011 3.958-.058c1.022-.046 1.72-.209 2.33-.446a4.706 4.706 0 0 0 1.7-1.107 4.706 4.706 0 0 0 1.108-1.7c.237-.611.4-1.31.446-2.33.047-1.025.058-1.352.058-3.959s-.011-2.934-.058-3.958c-.047-1.022-.209-1.72-.446-2.33a4.706 4.706 0 0 0-1.107-1.7 4.705 4.705 0 0 0-1.7-1.108c-.611-.237-1.31-.4-2.331-.446C14.934 2.41 14.608 2.4 12 2.4Zm0 1.73c2.563 0 2.867.01 3.88.056.935.042 1.443.199 1.782.33.448.174.768.382 1.104.718.336.336.544.656.718 1.104.131.338.287.847.33 1.783.046 1.012.056 1.316.056 3.879 0 2.563-.01 2.867-.056 3.88-.043.935-.199 1.444-.33 1.782a2.974 2.974 0 0 1-.719 1.104 2.974 2.974 0 0 1-1.103.718c-.339.131-.847.288-1.783.33-1.012.046-1.316.056-3.88.056-2.563 0-2.866-.01-3.878-.056-.936-.042-1.445-.199-1.783-.33a2.974 2.974 0 0 1-1.104-.718 2.974 2.974 0 0 1-.718-1.104c-.131-.338-.288-.847-.33-1.783-.047-1.012-.056-1.316-.056-3.879 0-2.563.01-2.867.056-3.88.042-.935.199-1.443.33-1.782.174-.448.382-.768.718-1.104a2.974 2.974 0 0 1 1.104-.718c.338-.131.847-.288 1.783-.33C9.133 4.14 9.437 4.13 12 4.13Zm0 11.07a3.2 3.2 0 1 1 0-6.4 3.2 3.2 0 0 1 0 6.4Zm0-8.13a4.93 4.93 0 1 0 0 9.86 4.93 4.93 0 0 0 0-9.86Zm6.276-.194a1.152 1.152 0 1 1-2.304 0 1.152 1.152 0 0 1 2.304 0Z" fill="currentColor"/>
+      </svg></a>
+    </li><li>
+      <a href="https://www.tiktok.com/@manvikids" class="tap-area" target="_blank" rel="noopener" aria-label="Seguir em TikTok"><svg role="presentation" focusable="false" width="27" height="27" class="icon icon-tiktok" viewBox="0 0 24 24">
+        <path d="M20.027 10.168a5.125 5.125 0 0 1-4.76-2.294v7.893a5.833 5.833 0 1 1-5.834-5.834c.122 0 .241.011.361.019v2.874c-.12-.014-.237-.036-.36-.036a2.977 2.977 0 0 0 0 5.954c1.644 0 3.096-1.295 3.096-2.94L12.56 2.4h2.75a5.122 5.122 0 0 0 4.72 4.573v3.195" fill="currentColor"/>
+      </svg></a>
+    </li></ul></div></div>
+  </div><div class="panel gap-8">
+      <div class="panel__wrapper" style="--panel-wrapper-justify-content: flex-start" hidden>
+                  <ul class="v-stack gap-4">
+                    <li class="lg:hidden">
+                      <button class="text-with-icon h6 text-subdued" data-panel="0"><svg role="presentation" focusable="false" width="7" height="10" class="icon icon-chevron-left reverse-icon" viewBox="0 0 7 10">
+        <path d="M6 1 2 5l4 4" fill="none" stroke="currentColor" stroke-width="2"></path>
+      </svg>Maternidade
+                      </button>
+                    </li><li class="h3 sm:h4"><a class="group block w-full" href="/collections/maternidade"><span><span class="reversed-link">Produtos para Maternidade</span></span>
+                            </a></li></ul> 
+
+
+
+<style>
+  #navigation-promo-198194238 {
+    --navigation-promo-grid: 
+  
+    auto / repeat(2, minmax(var(--mega-menu-promo-grid-image-min-width), var(--mega-menu-promo-grid-image-max-width)))
+
+  
+;
+    --mega-menu-promo-grid-image-max-width: 300px;
+    --mega-menu-promo-grid-image-min-width: 172px;
+    --promo-heading-font-size: var(--text-h5);
+    --content-over-media-row-gap: var(--spacing-3);
+    --content-over-media-column-gap: var(--spacing-4);--navigation-promo-gap: var(--spacing-2);
+      --panel-wrapper-justify-content: flex-start;}
+
+  @media screen and (min-width:700px) {
+    #navigation-promo-198194238 {--promo-heading-font-size: var(--text-h6);--mega-menu-promo-grid-image-min-width: 192px;
+      --content-over-media-row-gap: var(--spacing-4);
+      --content-over-media-column-gap: var(--spacing-5);
+    }
+  }@media screen and (min-width: 1150px) {
+      #navigation-promo-198194238 {
+        --promo-heading-font-size: var(--text-h5);
+        --content-over-media-row-gap: var(--spacing-5);
+        --content-over-media-column-gap: var(--spacing-7);
+        --mega-menu-promo-grid-image-min-width: 220px;
+
+        
+      }
+
+    }</style><div class="navigation-promo__wrapper  " id="navigation-promo-198194238"><div class="navigation-promo navigation-promo--grid scroll-area bleed">
+      <a href="/blogs/educacao/guia-de-amamentacao"
+         class="content-over-media rounded-sm group "
+         style="--text-color: 255 255 255; grid-area: ;"><img src="//manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___3_-transformed.webp?v=1684180077" alt="" srcset="//manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___3_-transformed.webp?v=1684180077&amp;width=200 200w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___3_-transformed.webp?v=1684180077&amp;width=300 300w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___3_-transformed.webp?v=1684180077&amp;width=400 400w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___3_-transformed.webp?v=1684180077&amp;width=500 500w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___3_-transformed.webp?v=1684180077&amp;width=600 600w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___3_-transformed.webp?v=1684180077&amp;width=800 800w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___3_-transformed.webp?v=1684180077&amp;width=1000 1000w" width="1080" height="1080" loading="lazy" sizes="(max-width: 699px) 172px, (max-width: 1149px) 192px,220px
+" class="zoom-image"><div class="place-self-end-start text-custom">
+            <p class="bold" style="font-size: var(--promo-heading-font-size); line-height: var(--promo-heading-line-height, 1.4)">Guia de Amamentação</p>
+          </div></a><a href="/products/bomba-eletrica-amamentacao"
+         class="content-over-media rounded-sm group "
+         style="--text-color: 255 255 255; grid-area: ;"><img src="//manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___2_-transformed.webp?v=1684180012" alt="" srcset="//manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___2_-transformed.webp?v=1684180012&amp;width=200 200w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___2_-transformed.webp?v=1684180012&amp;width=300 300w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___2_-transformed.webp?v=1684180012&amp;width=400 400w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___2_-transformed.webp?v=1684180012&amp;width=500 500w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___2_-transformed.webp?v=1684180012&amp;width=600 600w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___2_-transformed.webp?v=1684180012&amp;width=800 800w, //manvikids.com/cdn/shop/files/Curiosidade_do_dia___1080_y_1080_px___2_-transformed.webp?v=1684180012&amp;width=1000 1000w" width="1080" height="1080" loading="lazy" sizes="(max-width: 699px) 172px, (max-width: 1149px) 192px,220px
+" class="zoom-image"><div class="place-self-end-start text-custom">
+            <p class="bold" style="font-size: var(--promo-heading-font-size); line-height: var(--promo-heading-line-height, 1.4)">Comfort Momy Bomb</p>
+          </div></a>
+    </div></div></div><div class="panel__wrapper"  hidden>
+                  <ul class="v-stack gap-4">
+                    <li class="lg:hidden">
+                      <button class="text-with-icon h6 text-subdued" data-panel="0"><svg role="presentation" focusable="false" width="7" height="10" class="icon icon-chevron-left reverse-icon" viewBox="0 0 7 10">
+        <path d="M6 1 2 5l4 4" fill="none" stroke="currentColor" stroke-width="2"></path>
+      </svg>Ajuda
+                      </button>
+                    </li><li class="h3 sm:h4"><a class="group block w-full" href="/pages/conheca-a-manvi-kids"><span><span class="reversed-link">Conheça a Manvi Kids!</span></span>
+                            </a></li><li class="h3 sm:h4"><a class="group block w-full" href="/pages/contact"><span><span class="reversed-link">Fale Conosco</span></span>
+                            </a></li></ul></div>
+    </div></div></navigation-drawer><script>
+  document.documentElement.style.setProperty('--header-height', Math.round(document.getElementById('shopify-section-sections--19259776434494__header').clientHeight) + 'px');
+</script>
+
+ 
+</header>
+<!-- END sections: header-group --><!-- BEGIN sections: overlay-group -->
+<div id="shopify-section-sections--19259777483070__newsletter-popup" class="shopify-section shopify-section-group-overlay-group shopify-section--popup"><newsletter-popup id="newsletter-drawer" open-from="right" class="drawer newsletter-drawer" only-once apparition-delay="3"  handle-section-events>
+      <button is="close-button" aria-label="Fechar" class="sm-max:hidden"><svg role="presentation" stroke-width="2" focusable="false" width="19" height="19" class="icon icon-close" viewBox="0 0 24 24">
+        <path d="M17.658 6.343 6.344 17.657M17.658 17.657 6.344 6.343" stroke="currentColor"></path>
+      </svg></button><img src="//manvikids.com/cdn/shop/files/MANVI__1000_y_1000_px___1000_y_800_px_-transformed.webp?v=1683945432&amp;width=1000" alt="" srcset="//manvikids.com/cdn/shop/files/MANVI__1000_y_1000_px___1000_y_800_px_-transformed.webp?v=1683945432&amp;width=1000 1000w, //manvikids.com/cdn/shop/files/MANVI__1000_y_1000_px___1000_y_800_px_-transformed.webp?v=1683945432&amp;width=1000 1000w" width="1000" height="800" loading="lazy" sizes="min(calc(100vw - 16px), 445px)"><div class="newsletter-drawer__content v-stack gap-4 text-center">
+        <div class="v-stack gap-6"><p class="h5">Faça parte do nosso Clube Vip!</p><form method="post" action="/contact#newsletter-sections--19259777483070__newsletter-popup" id="newsletter-sections--19259777483070__newsletter-popup" accept-charset="UTF-8" class="form" data-preserve-initial-state="true"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" /><div class="fieldset">
+                <input type="hidden" name="contact[tags]" value="newsletter"><div class="form-control" ><input id="input-sections--19259777483070__newsletter-popup-209746909" class="input is-floating" type="email" dir="ltr" name="contact[email]" placeholder=" " 
+  
+  
+  
+  
+  autocomplete="email"
+  
+  
+  required
+><label for="input-sections--19259777483070__newsletter-popup-209746909" class="floating-label">E-mail</label></div></div>
+<button type="submit" class="button button--xl"
+  
+  
+  
+  
+  
+  
+  
+  is="custom-button"
+ >
+    <div class="text-with-icon justify-center"><svg role="presentation" fill="none" focusable="false" stroke-width="1.5" width="18" height="18" class="icon icon-picto-envelope" viewBox="0 0 24 24">
+        <path d="M1.77 18.063a3.586 3.586 0 0 0 3.174 3.11c2.278.24 4.637.49 7.056.49 2.417 0 4.778-.252 7.056-.49a3.584 3.584 0 0 0 3.175-3.11c.243-1.96.483-3.987.483-6.063 0-2.074-.24-4.102-.483-6.063a3.586 3.586 0 0 0-3.175-3.112c-2.278-.236-4.639-.487-7.056-.487s-4.778.252-7.056.49a3.583 3.583 0 0 0-3.175 3.11c-.243 1.96-.483 3.988-.483 6.062 0 2.074.24 4.102.483 6.063Z" fill="currentColor" fill-opacity="0" stroke="currentColor" stroke-linejoin="round"/>
+        <path d="m1.817 5.493 8.06 6.356a3.428 3.428 0 0 0 4.245 0l8.06-6.356" stroke="currentColor" stroke-linejoin="round"/>
+      </svg>Eu quero!</div></button></form></div><p class="text-xs text-subdued"><strong>Receba descontos, notícias, ofertas especiais e muito mais, totalmente de graça!</strong></p></div>
+    </newsletter-popup>
+
+</div><div id="shopify-section-sections--19259777483070__privacy-banner" class="shopify-section shopify-section-group-overlay-group shopify-section--privacy-banner"><privacy-bar class="privacy-bar" hidden>
+  <div class="privacy-bar__inner">
+    <button type="button" class="privacy-bar__close" data-action="close">
+      <span class="sr-only">Fechar</span><svg role="presentation" stroke-width="2" focusable="false" width="10" height="10" class="icon icon-delete" viewBox="0 0 10 10">
+        <path d="m.757.757 8.486 8.486m-8.486 0L9.243.757" stroke="currentColor"></path>
+      </svg></button>
+
+    <div class="v-stack gap-4">
+      <div class="v-stack gap-2"><p class="bold">Política de cookies</p><div class="prose text-xs"><p>Utilizamos cookies para melhorar nosso site e sua experiência de compra. Ao continuar navegando em nosso site,</p></div></div>
+
+      <div class="h-stack gap-2">
+        <button type="button" class="button button--sm" data-action="accept">Aceitar</button>
+        <button type="button" class="button button--sm button--subdued" data-action="decline">Rejeitar</button>
+      </div>
+    </div>
+  </div>
+</privacy-bar>
+
+</div><div id="shopify-section-sections--19259777483070__cart-drawer" class="shopify-section shopify-section-group-overlay-group"><cart-drawer  class="cart-drawer drawer drawer--lg" id="cart-drawer"><div>
+      <div class="cart-drawer__top">
+        <div class="h-stack items-center justify-between">
+          <div class="h-stack gap-2 sm:gap-2.5">
+            <p class="h5">Carrinho</p>
+            <cart-count class="count-bubble count-bubble--md">1</cart-count>
+          </div>
+
+          <button type="button" is="close-button" class="drawer__close-icon">
+            <span class="sr-only">Fechar</span><svg role="presentation" stroke-width="2" focusable="false" width="24" height="24" class="icon icon-close" viewBox="0 0 24 24">
+        <path d="M17.658 6.343 6.344 17.657M17.658 17.657 6.344 6.343" stroke="currentColor"></path>
+      </svg></button>
+        </div></div>
+
+      <div class="v-stack gap-6 sm:gap-8">
+        <div class="cart-drawer__line-items"><line-item class="line-item"><div class="line-item__media-wrapper"><img src="//manvikids.com/cdn/shop/files/g-speaker-smart-station-luminaria-auto-falante-e-carregador-sem-fio-manvikids-2.jpg?v=1686261314&amp;width=800" alt="G-Speaker Smart Station - Luminária, Auto Falante e Carregador Sem Fio - Manvikids" srcset="//manvikids.com/cdn/shop/files/g-speaker-smart-station-luminaria-auto-falante-e-carregador-sem-fio-manvikids-2.jpg?v=1686261314&amp;width=80 80w, //manvikids.com/cdn/shop/files/g-speaker-smart-station-luminaria-auto-falante-e-carregador-sem-fio-manvikids-2.jpg?v=1686261314&amp;width=96 96w, //manvikids.com/cdn/shop/files/g-speaker-smart-station-luminaria-auto-falante-e-carregador-sem-fio-manvikids-2.jpg?v=1686261314&amp;width=160 160w, //manvikids.com/cdn/shop/files/g-speaker-smart-station-luminaria-auto-falante-e-carregador-sem-fio-manvikids-2.jpg?v=1686261314&amp;width=192 192w" width="800" height="800" loading="lazy" sizes="(max-width: 740px) 80px, 96px" class="line-item__media rounded-xs"><pill-loader class="pill-loader"></pill-loader>
+    </div><div class="line-item__info">
+    <div class="v-stack gap-0.5"><a href="/products/g-speaker-smart-station?variant=45352407433534" class="bold">
+          <span class="reversed-link hover:show">G-Speaker Smart Station - Luminária, Auto Falante e Carregador Sem Fio</span>
+        </a><price-list  class="price-list  " ><sale-price class="text-subdued">
+      <span class="sr-only">Preço promocional</span>R$ 329,90</sale-price></price-list></div><p class="text-sm text-subdued">Branco</p><div class="text-sm text-subdued sm:hidden"><line-item-quantity class="h-stack justify-center gap-3">
+          <input class="quantity-input" type="text" is="quantity-input" inputmode="numeric" max="1412" data-line-key="45352407433534:d382cb54d402b49dced7c3826b30bd64" aria-label="Mudar quantidade" value="1">
+
+          <span class="text-xs">
+            <a href="/cart/change?id=45352407433534:d382cb54d402b49dced7c3826b30bd64&quantity=0" class="link">Remover</a>
+          </span>
+        </line-item-quantity></div></div><div class="line-item__actions text-subdued hidden sm:block">
+      <line-item-quantity class="v-stack gap-2">
+        <input class="quantity-input" type="text" is="quantity-input" inputmode="numeric" max="1412" data-line-key="45352407433534:d382cb54d402b49dced7c3826b30bd64" aria-label="Mudar quantidade" value="1">
+
+        <span class="text-xs text-center">
+          <a href="/cart/change?id=45352407433534:d382cb54d402b49dced7c3826b30bd64&quantity=0" class="link">Remover</a>
+        </span>
+      </line-item-quantity>
+    </div></line-item></div></div>
+    </div>
+
+    <div class="v-stack gap-4 sm:gap-6" slot="footer">
+      <div class="v-stack gap-1">
+        
+
+        <div class="h-stack gap-4 justify-between">
+          <span class="h5">Total</span>
+          <span class="h5">R$ 329,90 BRL</span>
+        </div><p class="text-subdued text-sm">Tributos e <a href="/policies/shipping-policy" class="link">frete</a> calculados na finalização da compra</p></div>
+
+      <form action="/cart" method="POST" class="buy-buttons "><a href="/cart" class="button button--xl " data-no-instant>COMPRAR AGORA</a></form>
+    </div></cart-drawer>
+
+</div><div id="shopify-section-sections--19259777483070__search-drawer" class="shopify-section shopify-section-group-overlay-group"><search-drawer  class="search-drawer  drawer drawer--lg" id="search-drawer">
+  <form action="/search" method="get" class="v-stack gap-5 sm:gap-8" role="search">
+    <div class="search-input">
+      <input type="search" name="q" placeholder="Pesquisar por..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" aria-label="Pesquisar">
+      <button type="reset" class="text-subdued">Limpar</button>
+      <button type="button" is="close-button">
+        <span class="sr-only">Fechar</span><svg role="presentation" stroke-width="2" focusable="false" width="24" height="24" class="icon icon-close" viewBox="0 0 24 24">
+        <path d="M17.658 6.343 6.344 17.657M17.658 17.657 6.344 6.343" stroke="currentColor"></path>
+      </svg></button>
+    </div>
+
+    <style>
+      #shopify-section-sections--19259777483070__search-drawer {
+        --predictive-search-column-count: 3;
+      }
+    </style>
+
+    <input type="hidden" name="type" value="product">
+
+    <predictive-search class="predictive-search" section-id="sections--19259777483070__search-drawer"><div slot="results"></div>
+
+      <div slot="loading">
+        <div class="v-stack gap-5 sm:gap-6 ">
+          <div class="h-stack gap-4 sm:gap-5"><span class="skeleton skeleton--tab"></span><span class="skeleton skeleton--tab"></span><span class="skeleton skeleton--tab"></span></div>
+
+          <div class="v-stack gap-4 sm:gap-6"><div class="h-stack align-center gap-5 sm:gap-6">
+                <span class="skeleton skeleton--thumbnail"></span>
+
+                <div class="v-stack gap-3 w-full">
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 20%"></span>
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 80%"></span>
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 40%"></span>
+                </div>
+              </div><div class="h-stack align-center gap-5 sm:gap-6">
+                <span class="skeleton skeleton--thumbnail"></span>
+
+                <div class="v-stack gap-3 w-full">
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 20%"></span>
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 80%"></span>
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 40%"></span>
+                </div>
+              </div><div class="h-stack align-center gap-5 sm:gap-6">
+                <span class="skeleton skeleton--thumbnail"></span>
+
+                <div class="v-stack gap-3 w-full">
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 20%"></span>
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 80%"></span>
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 40%"></span>
+                </div>
+              </div><div class="h-stack align-center gap-5 sm:gap-6">
+                <span class="skeleton skeleton--thumbnail"></span>
+
+                <div class="v-stack gap-3 w-full">
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 20%"></span>
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 80%"></span>
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 40%"></span>
+                </div>
+              </div></div>
+        </div></div>
+    </predictive-search>
+  </form>
+</search-drawer>
+
+</div>
+<!-- END sections: overlay-group --><main role="main" id="main" class="anchor">
+      <section id="shopify-section-template--19259780071742__main" class="shopify-section shopify-section--main-cart"><div class="container"><div class="page-spacer">
+      <div class="cart">
+        <div class="cart-header">
+          <h1 class="h2">Carrinho</h1></div>
+
+        <div class="cart-order">
+          <div class="cart-order__summary"><table class="order-summary">
+              <thead class="order-summary__header">
+                <tr>
+                  <th>Produto</th>
+                  <th class="w-0">Quantidade</th>
+                  <th class="text-end">Total</th>
+                </tr>
+              </thead>
+
+              <tbody class="order-summary__body"><tr>
+                    <td><line-item class="line-item"><div class="line-item__media-wrapper"><img src="//manvikids.com/cdn/shop/files/g-speaker-smart-station-luminaria-auto-falante-e-carregador-sem-fio-manvikids-2.jpg?v=1686261314&amp;width=800" alt="G-Speaker Smart Station - Luminária, Auto Falante e Carregador Sem Fio - Manvikids" srcset="//manvikids.com/cdn/shop/files/g-speaker-smart-station-luminaria-auto-falante-e-carregador-sem-fio-manvikids-2.jpg?v=1686261314&amp;width=80 80w, //manvikids.com/cdn/shop/files/g-speaker-smart-station-luminaria-auto-falante-e-carregador-sem-fio-manvikids-2.jpg?v=1686261314&amp;width=96 96w, //manvikids.com/cdn/shop/files/g-speaker-smart-station-luminaria-auto-falante-e-carregador-sem-fio-manvikids-2.jpg?v=1686261314&amp;width=160 160w, //manvikids.com/cdn/shop/files/g-speaker-smart-station-luminaria-auto-falante-e-carregador-sem-fio-manvikids-2.jpg?v=1686261314&amp;width=192 192w" width="800" height="800" loading="lazy" sizes="(max-width: 740px) 80px, 96px" class="line-item__media rounded-xs"><pill-loader class="pill-loader"></pill-loader>
+    </div><div class="line-item__info">
+    <div class="v-stack gap-0.5"><a href="/products/g-speaker-smart-station?variant=45352407433534" class="bold">
+          <span class="reversed-link hover:show">G-Speaker Smart Station - Luminária, Auto Falante e Carregador Sem Fio</span>
+        </a><price-list  class="price-list  " ><sale-price class="text-subdued">
+      <span class="sr-only">Preço promocional</span>R$ 329,90</sale-price></price-list></div><p class="text-sm text-subdued">Branco</p><div class="text-sm text-subdued sm:hidden"><line-item-quantity class="h-stack justify-center gap-3">
+          <input class="quantity-input" type="text" is="quantity-input" inputmode="numeric" max="1412" data-line-key="45352407433534:d382cb54d402b49dced7c3826b30bd64" aria-label="Mudar quantidade" value="1">
+
+          <span class="text-xs">
+            <a href="/cart/change?id=45352407433534:d382cb54d402b49dced7c3826b30bd64&quantity=0" class="link">Remover</a>
+          </span>
+        </line-item-quantity></div></div></line-item></td>
+
+                    <td class="hidden align-center text-center text-subdued sm:table-cell">
+                      <line-item-quantity class="v-stack justify-center gap-2">
+                        <input class="quantity-input" type="text" is="quantity-input" inputmode="numeric" max="1412" data-line-key="45352407433534:d382cb54d402b49dced7c3826b30bd64" aria-label="Mudar quantidade" value="1">
+
+                        <span class="text-xs">
+                          <a href="/cart/change?id=45352407433534:d382cb54d402b49dced7c3826b30bd64&quantity=0" class="link">Remover</a>
+                        </span>
+                      </line-item-quantity>
+                    </td>
+
+                    <td class="hidden align-center text-subdued text-end sm:table-cell">R$ 329,90</td>
+                  </tr></tbody>
+            </table></div>
+
+          <safe-sticky class="cart-order__recap v-stack gap-6">
+            <form action="/cart" method="POST" class="cart-form rounded"><div class="cart-form__totals v-stack gap-2" ><div class="h-stack gap-4 justify-between">
+                        <span class="text-subdued">Subtotal</span>
+                        <span class="text-subdued">R$ 329,90</span>
+                      </div>
+
+                      
+
+                      <div class="h-stack gap-4 justify-between">
+                        <span class="h5">Total</span>
+                        <span class="h5">R$ 329,90 BRL</span>
+                      </div></div><cart-note class="cart-form__note block" ><div class="form-control" ><textarea id="input-template--19259780071742__main-134576202" class="textarea is-floating" is="resizable-textarea" name="note" placeholder=" " rows="3" 
+  
+  
+  
+  
+  
+  
+  
+  
+></textarea><label for="input-template--19259780071742__main-134576202" class="floating-label">Observações</label></div></cart-note></form></safe-sticky>
+        </div>
+      </div>
+    </div></div>
+
+</section><section id="shopify-section-template--19259780071742__0da0ee43-f711-4547-80e2-6dffc86231ba" class="shopify-section shopify-section--custom-html">
+</section>
+<!-- BEGIN sections: footer-group -->
+<section id="shopify-section-sections--19259776368958__abeaa5d5-9dad-4ceb-be39-7f71af422931" class="shopify-section shopify-section-group-footer-group shopify-section--slideshow"><style>#shopify-section-sections--19259776368958__abeaa5d5-9dad-4ceb-be39-7f71af422931 {
+    --slideshow-background: #ececec;
+    --slideshow-controls-background: ;
+    --slideshow-controls-color: 255 255 255;margin-block-start: calc(-1 * var(--header-height) * var(--section-is-first));}#block-sections--19259776368958__abeaa5d5-9dad-4ceb-be39-7f71af422931-image-1 {--slideshow-slide-background: #ececec;
+      --slideshow-slide-controls-background: ;
+      --slideshow-slide-controls-color: 255 255 255;
+    }</style><x-slideshow class="slideshow  " allow-transparent-header><slideshow-carousel id="slideshow-sections--19259776368958__abeaa5d5-9dad-4ceb-be39-7f71af422931" class="slideshow__carousel" reveal-on-scroll="true" selector=".slideshow__slide" transition="fade_with_text"  role="region"><div id="block-sections--19259776368958__abeaa5d5-9dad-4ceb-be39-7f71af422931-image-1" class="slideshow__slide is-selected" role="group" ><div class="content-over-media content-over-media--auto " style="--content-over-media-content-max-width: 780px; --content-over-media-overlay: 0 0 0 / 0.0"><img src="//manvikids.com/cdn/shop/files/download.svg?v=1689890054&amp;width=1920" alt="" srcset="//manvikids.com/cdn/shop/files/download.svg?v=1689890054&amp;width=200 200w, //manvikids.com/cdn/shop/files/download.svg?v=1689890054&amp;width=300 300w, //manvikids.com/cdn/shop/files/download.svg?v=1689890054&amp;width=400 400w, //manvikids.com/cdn/shop/files/download.svg?v=1689890054&amp;width=500 500w, //manvikids.com/cdn/shop/files/download.svg?v=1689890054&amp;width=600 600w, //manvikids.com/cdn/shop/files/download.svg?v=1689890054&amp;width=700 700w, //manvikids.com/cdn/shop/files/download.svg?v=1689890054&amp;width=800 800w, //manvikids.com/cdn/shop/files/download.svg?v=1689890054&amp;width=900 900w, //manvikids.com/cdn/shop/files/download.svg?v=1689890054&amp;width=1000 1000w, //manvikids.com/cdn/shop/files/download.svg?v=1689890054&amp;width=1200 1200w, //manvikids.com/cdn/shop/files/download.svg?v=1689890054&amp;width=1400 1400w, //manvikids.com/cdn/shop/files/download.svg?v=1689890054&amp;width=1600 1600w, //manvikids.com/cdn/shop/files/download.svg?v=1689890054&amp;width=1800 1800w" width="1920" height="200" loading="eager" fetchpriority="high" sizes="100vw"><div class="place-self-center text-center sm:place-self-center sm:text-center  text-custom"style="--text-color: 255 255 255;">
+            <div class="prose"></div>
+          </div>
+        </div></div></slideshow-carousel>
+</x-slideshow>
+
+</section><footer id="shopify-section-sections--19259776368958__footer" class="shopify-section shopify-section-group-footer-group shopify-section--footer"><div class="footer">
+  <div class="container">
+    <div class="footer__wrapper"><div class="footer__block-list empty:hidden"><div class="footer__block footer__block--newsletter" ><div class="v-stack gap-6"><p class="h3">Seja Vip!</p><div class="prose text-subdued"><p>Receba novos produtos, códigos de desconto e muito mais!</p></div><form method="post" action="/contact#footer-newsletter" id="footer-newsletter" accept-charset="UTF-8" class="footer__newsletter-form form"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="contact[tags]" value="newsletter"><div class="form-control" ><input id="input-sections--19259776368958__footer-230325139" class="input is-floating" type="email" dir="ltr" name="contact[email]" placeholder=" " 
+  
+  
+  
+  
+  autocomplete="email"
+  
+  enterkeyhint="send"
+  required
+><label for="input-sections--19259776368958__footer-230325139" class="floating-label">E-mail</label><div class="self-submit-button">
+      <button type="submit" class="circle-chevron hover:colors">
+        <span class="sr-only">Assinar</span><svg role="presentation" focusable="false" width="5" height="8" class="icon icon-chevron-right-small reverse-icon" viewBox="0 0 5 8">
+        <path d="m.75 7 3-3-3-3" fill="none" stroke="currentColor" stroke-width="1.5"></path>
+      </svg></button>
+    </div></div></form></div>
+                </div><div class="footer__block footer__block--menu" ><p class="bold">Menu de rodapé</p><ul class="v-stack gap-3" role="list"><li>
+                          <a href="/policies/legal-notice" class="inline-block link-faded break-all">Aviso Legal</a>
+                        </li><li>
+                          <a href="/policies/privacy-policy" class="inline-block link-faded break-all">Políticas de Privacidade</a>
+                        </li><li>
+                          <a href="/policies/refund-policy" class="inline-block link-faded break-all">Política de Reembolso</a>
+                        </li><li>
+                          <a href="/policies/shipping-policy" class="inline-block link-faded break-all">Política de Envio</a>
+                        </li><li>
+                          <a href="/policies/terms-of-service" class="inline-block link-faded break-all">Termos de Serviço</a>
+                        </li><li>
+                          <a href="/pages/contact" class="inline-block link-faded break-all">Fale Conosco</a>
+                        </li></ul>
+                  </div><div class="footer__block footer__block--text" ><p class="bold">SAC (Serviço de Atendimento ao Consumidor)</p><div class="prose text-subdued"><p><strong>Horario de Atendimento:</strong></p><p>Seg a Sex : 09:00 às 18:00<br/>Sabado, domingos e feriados: 12:00 às 18:00</p><p><strong>E-mail: </strong>manvisuportekids@gmail.com</p><p></p></div></div></div><div class="footer__aside empty:hidden"><div class="footer__aside-top"><ul class="social-media " role="list"><li>
+      <a href="https://instagram.com/manvi.kids" class="tap-area" target="_blank" rel="noopener" aria-label="Seguir em Instagram"><svg role="presentation" focusable="false" width="27" height="27" class="icon icon-instagram" viewBox="0 0 24 24">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.4c-2.607 0-2.934.011-3.958.058-1.022.046-1.72.209-2.33.446a4.705 4.705 0 0 0-1.7 1.107 4.706 4.706 0 0 0-1.108 1.7c-.237.611-.4 1.31-.446 2.331C2.41 9.066 2.4 9.392 2.4 12c0 2.607.011 2.934.058 3.958.046 1.022.209 1.72.446 2.33a4.706 4.706 0 0 0 1.107 1.7c.534.535 1.07.863 1.7 1.108.611.237 1.309.4 2.33.446 1.025.047 1.352.058 3.959.058s2.934-.011 3.958-.058c1.022-.046 1.72-.209 2.33-.446a4.706 4.706 0 0 0 1.7-1.107 4.706 4.706 0 0 0 1.108-1.7c.237-.611.4-1.31.446-2.33.047-1.025.058-1.352.058-3.959s-.011-2.934-.058-3.958c-.047-1.022-.209-1.72-.446-2.33a4.706 4.706 0 0 0-1.107-1.7 4.705 4.705 0 0 0-1.7-1.108c-.611-.237-1.31-.4-2.331-.446C14.934 2.41 14.608 2.4 12 2.4Zm0 1.73c2.563 0 2.867.01 3.88.056.935.042 1.443.199 1.782.33.448.174.768.382 1.104.718.336.336.544.656.718 1.104.131.338.287.847.33 1.783.046 1.012.056 1.316.056 3.879 0 2.563-.01 2.867-.056 3.88-.043.935-.199 1.444-.33 1.782a2.974 2.974 0 0 1-.719 1.104 2.974 2.974 0 0 1-1.103.718c-.339.131-.847.288-1.783.33-1.012.046-1.316.056-3.88.056-2.563 0-2.866-.01-3.878-.056-.936-.042-1.445-.199-1.783-.33a2.974 2.974 0 0 1-1.104-.718 2.974 2.974 0 0 1-.718-1.104c-.131-.338-.288-.847-.33-1.783-.047-1.012-.056-1.316-.056-3.879 0-2.563.01-2.867.056-3.88.042-.935.199-1.443.33-1.782.174-.448.382-.768.718-1.104a2.974 2.974 0 0 1 1.104-.718c.338-.131.847-.288 1.783-.33C9.133 4.14 9.437 4.13 12 4.13Zm0 11.07a3.2 3.2 0 1 1 0-6.4 3.2 3.2 0 0 1 0 6.4Zm0-8.13a4.93 4.93 0 1 0 0 9.86 4.93 4.93 0 0 0 0-9.86Zm6.276-.194a1.152 1.152 0 1 1-2.304 0 1.152 1.152 0 0 1 2.304 0Z" fill="currentColor"/>
+      </svg></a>
+    </li><li>
+      <a href="https://www.tiktok.com/@manvikids" class="tap-area" target="_blank" rel="noopener" aria-label="Seguir em TikTok"><svg role="presentation" focusable="false" width="27" height="27" class="icon icon-tiktok" viewBox="0 0 24 24">
+        <path d="M20.027 10.168a5.125 5.125 0 0 1-4.76-2.294v7.893a5.833 5.833 0 1 1-5.834-5.834c.122 0 .241.011.361.019v2.874c-.12-.014-.237-.036-.36-.036a2.977 2.977 0 0 0 0 5.954c1.644 0 3.096-1.295 3.096-2.94L12.56 2.4h2.75a5.122 5.122 0 0 0 4.72 4.573v3.195" fill="currentColor"/>
+      </svg></a>
+    </li></ul></div><div class="footer__aside-bottom"><p class="footer__copyright text-sm text-subdued">© 2023, Manvikids. <a target="_blank" rel="nofollow" href="https://pt.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore"> </a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</footer><section id="shopify-section-sections--19259776368958__1e5f0a07-9b1d-413f-8f98-31879cb2ef64" class="shopify-section shopify-section-group-footer-group shopify-section--scrolling-text"><style>
+  #shopify-section-sections--19259776368958__1e5f0a07-9b1d-413f-8f98-31879cb2ef64 {
+    --section-background-hash: 060059900200679350880000060065042;
+  }
+
+  #shopify-section-sections--19259776368958__1e5f0a07-9b1d-413f-8f98-31879cb2ef64 + * {
+    --previous-section-background-hash: 060059900200679350880000060065042;
+  }</style><style>
+    #shopify-section-sections--19259776368958__1e5f0a07-9b1d-413f-8f98-31879cb2ef64 {
+      --section-spacing-inline: 0;
+      --scrolling-text-font-size: 5rem;
+    }
+
+    @media screen and (min-width: 700px) {
+      #shopify-section-sections--19259776368958__1e5f0a07-9b1d-413f-8f98-31879cb2ef64 {
+        --scrolling-text-font-size: 8.75rem;
+      }
+    }
+  </style><div class="section   section-full bg-custom text-custom"style="--background: 2 59 83; --text-color: 255 255 255;"><div class="scrolling-text scrolling-text--auto"><marquee-text scrolling-speed="10" class="scrolling-text__wrapper"><span class="scrolling-text__text heading " ><span class="text-stroke " style="">Desenvolvimento e Diversão</span></span><span class="scrolling-text__text heading motion-reduce:hidden" aria-hidden="true"><span class="text-stroke " style="">Desenvolvimento e Diversão</span></span><span class="scrolling-text__text heading motion-reduce:hidden" aria-hidden="true"><span class="text-stroke " style="">Desenvolvimento e Diversão</span></span><span class="scrolling-text__text heading motion-reduce:hidden" aria-hidden="true"><span class="text-stroke " style="">Desenvolvimento e Diversão</span></span><span class="scrolling-text__text heading motion-reduce:hidden" aria-hidden="true"><span class="text-stroke " style="">Desenvolvimento e Diversão</span></span><span class="scrolling-text__text heading motion-reduce:hidden" aria-hidden="true"><span class="text-stroke " style="">Desenvolvimento e Diversão</span></span><span class="scrolling-text__text heading motion-reduce:hidden" aria-hidden="true"><span class="text-stroke " style="">Desenvolvimento e Diversão</span></span><span class="scrolling-text__text heading motion-reduce:hidden" aria-hidden="true"><span class="text-stroke " style="">Desenvolvimento e Diversão</span></span><span class="scrolling-text__text heading motion-reduce:hidden" aria-hidden="true"><span class="text-stroke " style="">Desenvolvimento e Diversão</span></span><span class="scrolling-text__text heading motion-reduce:hidden" aria-hidden="true"><span class="text-stroke " style="">Desenvolvimento e Diversão</span></span></marquee-text></div>
+  </div></section>
+<!-- END sections: footer-group --></main>
+    
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KRG97V9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
+  <!-- Não remova. Checkout Yampi. -->
+  <link rel="preconnect" crossorigin href="https://api.dooki.com.br">
+<link rel="preconnect" crossorigin href="https://api.yampi.io">
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://cdn.yampi.me/shopify/checkout.css">
+<style>
+    .yampi-loader {display: none; position: fixed; width: 100%; height: 100%; background: #fff; left: 0; top: 0; z-index:99999}
+    .yampi-loading{position:fixed;overflow:show;margin:auto;top:0;left:0;bottom:0;right:0;width:50px;height:50px}.yampi-loading:before{content:'';display:block;position:fixed;top:0;left:0;width:100%;height:100%;background-color:rgba(255,255,255,.5)}.yampi-loading:not(:required){font:0/0 a;color:transparent;text-shadow:none;background-color:transparent;border:0}.yampi-loading:not(:required):after{content:'';display:block;font-size:10px;width:50px;height:50px;margin-top:-.5em;border:5px solid #999;border-radius:100%;border-bottom-color:transparent;-webkit-animation:spinner 1s linear 0s infinite;animation:spinner 1s linear 0s infinite}@-webkit-keyframes spinner{0%{-webkit-transform:rotate(0);-moz-transform:rotate(0);-ms-transform:rotate(0);-o-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-ms-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg)}}@-moz-keyframes spinner{0%{-webkit-transform:rotate(0);-moz-transform:rotate(0);-ms-transform:rotate(0);-o-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-ms-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg)}}@-o-keyframes spinner{0%{-webkit-transform:rotate(0);-moz-transform:rotate(0);-ms-transform:rotate(0);-o-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-ms-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes  spinner{0%{-webkit-transform:rotate(0);-moz-transform:rotate(0);-ms-transform:rotate(0);-o-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-ms-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg)}}
+
+</style>
+
+<div class="yampi-loader">
+    <div class="yampi-loading"></div>
+</div>
+
+<script type='text/javascript'>
+
+    var currentPage = 'cart'
+        ,   cartEndpoint = 'https://api.dooki.com.br/v2/public/shopify/cart'
+        ,   statusEndpoint = 'https://api.dooki.com.br/v2/public/shopify/status'
+        ,   shop = 'https://manvikids.com'
+        ,   shopifyInternalUrl = 'manvikids.myshopify.com'
+        ,   ymp_hasUrlSupport = 'undefined' !== typeof URL && 'undefined' !== typeof URLSearchParams
+        ,   ymp_utmCookieName = 'utmsTrack';
+
+    window.yampiCheckoutUrl = '';
+
+    var checkoutBtncss = '<style id="ymp-btn-style" type="text/css"> body .ymp-CrtpageMainFrm input[type="submit"]:not([name="update"]), body .ymp-CrtpageMainFrm button[type="submit"]:not([name="update"]), body .ymp_check_mainBtn[name="checkout"]:not([class*="ymp_elem_"]):not([name="update"]), body input.ymp_check_mainBtn:not([class*="ymp_elem_"]):not([name="update"]) { display: none !important; }body .ymp-CrtpageMainFrm .ymp_check_mainBtn.ymp_elem_mainBtn[type="submit"]:not(.bold_hidden){ display: inline-block !important; } </style>';
+
+    function showYampiLoader() {
+        var el = document.querySelector('.yampi-loader');
+        el.style.display = 'block';
+    }
+
+    function hideYampiLoader() {
+        var el = document.querySelector('.yampi-loader');
+        el.style.display = 'none';
+    }
+
+    // Cart
+    if (currentPage == 'cart') {
+        showYampiLoader();
+
+        getAjax('/cart.json', function (response) {
+            var cartPayload = JSON.parse(response);
+
+            var data = {
+                shop: window.location.host,
+                shopify_internal_domain: shopifyInternalUrl,
+                cart_payload: cartPayload
+            };
+
+            postAjax(cartEndpoint, JSON.stringify(data), function (response) {
+                var resp = JSON.parse(response);
+
+                if (!resp.active) {
+                    hideYampiLoader();
+                } else {
+
+                    var otherButtons = document.getElementsByClassName('cartX_check_mainBtn');
+
+                    for (var i = 0; i < otherButtons.length; i ++) {
+                        otherButtons[i].setAttribute('style', 'display: none !important');
+                    }
+
+                    window.yampiCheckoutUrl = resp.checkout_direct_url;
+
+                    if (resp.skip_cart && resp.checkout_direct_url != '') {
+                        // Limpa o carrinho do Shopify
+                        if (resp.fb_fallback && isAndroid() && isFacebookBrowser()) {
+                            window.location = ymp_getUrlWithUtms(resp.checkout_direct_url);
+
+                            setTimeout(function () {
+                                showYampiPurchaseConfirmation(resp.checkout_direct_url);
+                            }, 500);
+                        } else {
+                            postAjax('/cart/clear.js', JSON.stringify({}), function () {
+                                window.location = ymp_getUrlWithUtms(resp.checkout_direct_url);
+                            });
+                        }
+
+                    } else {
+                        hideYampiLoader();
+
+                        var getHead = document.getElementsByTagName('head')[0];
+                        getHead.insertAdjacentHTML('beforeend', checkoutBtncss);
+                        var getForm = document.getElementsByTagName('form'); var cartFrmId,getCheckoutBtn;
+
+                        for (var i = 0; i < getForm.length; i++) {
+                            var formAction = getForm[i].action;  formAction = formAction.split(shop);
+
+                            if (formAction.includes('/cart') == true || formAction[0].includes('/cart') == true) {
+                                if (getForm[i].getAttribute('id')){
+                                    cartFrmId = getForm[i].getAttribute('id');
+                                } else {
+                                    getForm[i].setAttribute('id','ymp-CrtpageMainFrm'); cartFrmId = getForm[i].getAttribute('id');
+                                }
+                                getForm[i].classList.add('ymp-CrtpageMainFrm');
+                                getCheckoutBtn = getForm[i].elements['checkout'] || document.querySelector('a[href="/checkout"]') || document.querySelector('form[action="/cart"] input[type="submit"]');
+
+                                if (getCheckoutBtn.length == undefined) {
+                                    var buttonValue = getCheckoutBtn.value ? getCheckoutBtn.value : getCheckoutBtn.textContent;
+                                } else {
+                                    var lastBtnID = getCheckoutBtn.length - 1;
+                                    var buttonValue = getCheckoutBtn[lastBtnID].value ? getCheckoutBtn[lastBtnID].value : getCheckoutBtn[lastBtnID].textContent;
+                                }
+                                var getSubBtnId = getCheckoutBtn.id;
+                                if (getSubBtnId) {
+                                    getSubBtnId = getSubBtnId+'ympButton';
+                                } else {
+                                    getSubBtnId = 'ympBtn';
+                                }
+
+                                if (getCheckoutBtn.length == undefined) {
+                                    var inptBtn = `<button type='submit' class='`+getCheckoutBtn.className+` ymp_check_mainBtn ymp_elem_mainBtn' id='`+getSubBtnId+`'>`+buttonValue+`</button>`;
+                                    getCheckoutBtn.insertAdjacentHTML('afterEnd', inptBtn);
+                                } else {
+                                    var inptBtn = `<button type='submit' class='`+getCheckoutBtn[getCheckoutBtn.length - 1].className+` ymp_check_mainBtn ymp_elem_mainBtn' id='`+getSubBtnId+`'>`+buttonValue+`</button>`;
+                                    getCheckoutBtn[getCheckoutBtn.length - 1].insertAdjacentHTML('afterEnd', inptBtn);
+                                }
+
+                                document.getElementById(getSubBtnId).addEventListener('click', fakeClick);
+                            }
+                        }
+
+                        // Tratamento com links dentro do carrinho.
+                        if (window.$ || window.jQuery) {
+                            var btns = $('a.btn-checkout[href="/checkout"]').not('.ymp_elem_mainBtn');
+                            btns.hide();
+                        }
+                    }
+                }
+            });
+
+        });
+    }
+
+    function showYampiPurchaseConfirmation(purchaseUrl) {
+        var element = document.getElementById('yampiPurchaseConfirmationWrapper');
+        element.setAttribute('class', 'active');
+
+        var button = document.getElementById('yampiPurchaseConfirmationButton');
+
+        hideYampiLoader();
+    }
+
+    function getAjax(url, success) {
+        var xhr = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');
+        xhr.open('GET', url);
+        xhr.onreadystatechange = function() {
+            if (xhr.readyState > 3 && xhr.status==200) success(xhr.responseText);
+        };
+        xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+        xhr.send();
+        return xhr;
+    }
+
+    function postAjax(url, data, success) {
+        var params = typeof data == 'string' ? data : Object.keys(data).map(
+                function(k){ return encodeURIComponent(k) + '=' + encodeURIComponent(data[k]) }
+            ).join('&');
+
+        var xhr = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP");
+
+        xhr.open('POST', url);
+        xhr.onreadystatechange = function() {
+            if (xhr.readyState > 3 && xhr.status == 200) { success(xhr.responseText); }
+        };
+        xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+        xhr.setRequestHeader('Content-Type', 'application/json');
+        xhr.send(params);
+
+        return xhr;
+    }
+
+    // Product
+    var ympData = '';
+
+    if (window.$ || window.jQuery) {
+
+        var checkoutButtons = $('.btn-checkout');
+        checkoutButtons.each(function () {
+            var t = $(this);
+
+            if (t.attr('onclick') == "window.location='/checkout'") {
+                t.attr('onclick', "window.location='/cart'");
+            }
+        });
+
+        if (currentPage == 'product' || currentPage == 'index') {
+            var ympSelectors = $('input[name="add"] , button[name=\'add\'], #add-to-cart, .add-to-cart, #AddToCartText ,#AddToCart, .ProductForm__AddToCart');
+            ympSelectors.attr('disabled', true);
+
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function() {
+                if (this.readyState == 4 && this.status == 200) {
+                    ympData = JSON.parse(this.response);
+                    if (ympData && ympData.data.active) {
+                        ympSelectors = $('input[name="add"] , button[name=\'add\'], #add-to-cart, .add-to-cart, #AddToCartText ,#AddToCart, .ProductForm__AddToCart');
+                        ympSelectors.addClass("ymp_mainBtn ymp_elem_0");
+                        ympSelectors.removeAttr("disabled");
+
+                        $('.ymp_mainBtn').on('click', function(event){
+                            event.preventDefault();
+                            var form = $(this).parents('form[action="/cart/add"]');
+                            var xhr = new XMLHttpRequest();
+                            xhr.open('POST', '/cart/add.js', true);
+                            xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+                            xhr.onreadystatechange = function() {
+                                if (this.readyState === XMLHttpRequest.DONE && this.status === 200) {
+                                    window.location.href = '/cart?ref=yampi_buy_button'
+                                }
+                            }
+
+                            xhr.send($(form).serialize());
+                        });
+                    } else {
+                        ympSelectors.removeAttr('disabled');
+                    }
+                }
+            };
+            xhttp.open('GET','https://api.dooki.com.br/v2/public/shopify/status?shop=' + window.location.host);
+            xhttp.send();
+        }
+    }
+
+    function fakeClick(event) {
+        event.preventDefault();
+
+        showYampiLoader();
+
+        getAjax('/cart.json', function (response) {
+            var cartPayload = JSON.parse(response);
+
+            var data = {
+                shop: window.location.host,
+                cart_payload: cartPayload
+            };
+
+            postAjax(cartEndpoint, JSON.stringify(data), function (response) {
+                var resp = JSON.parse(response);
+
+                window.location.href = ymp_getUrlWithUtms(resp.checkout_direct_url);
+            });
+        });
+    }
+
+    function yampiClick() {
+
+        showYampiLoader();
+
+        getAjax('/cart.json', function (response) {
+            var cartPayload = JSON.parse(response);
+
+            var data = {
+                shop: window.location.host,
+                cart_payload: cartPayload
+            };
+
+            postAjax(cartEndpoint, JSON.stringify(data), function (response) {
+                var resp = JSON.parse(response);
+
+                window.location.href = ymp_getUrlWithUtms(resp.checkout_direct_url);
+            });
+        });
+    }
+
+  	function getNewCheckoutURL() {
+        getAjax('/cart.json', function (response) {
+            var cartPayload = JSON.parse(response);
+
+            var data = {
+                shop: window.location.host,
+                cart_payload: cartPayload
+            };
+
+            postAjax(cartEndpoint, JSON.stringify(data), function (response) {
+                var resp = JSON.parse(response);
+
+                postAjax('/cart/clear.js', JSON.stringify({}), function () {
+                    window.location.href = ymp_getUrlWithUtms(resp.checkout_direct_url);
+                });
+            });
+        });
+    }
+
+    // Verifica se existem botões redirecionando para /a/checkout
+    if (window.$ || window.jQuery) {
+        var oldLinks = $('a[href="/a/checkout"]').not('.yampi-btn-finalize').addClass('yampi-btn-finalize-single');
+
+        $('.yampi-btn-finalize-single').on('click', function (e) {
+            e.preventDefault();
+
+            if (currentPage == 'cart') {
+                window.location.href = ymp_getUrlWithUtms(window.yampiCheckoutUrl);
+            } else {
+                window.location = '/cart';
+            }
+
+        });
+    }
+
+    function isFacebookBrowser() {
+      var ua = navigator.userAgent || navigator.vendor || window.opera;
+      return (ua.indexOf("FBAN") > -1) || (ua.indexOf("FBAV") > -1);
+    }
+
+    function isAndroid() {
+      var ua = navigator.userAgent.toLowerCase();
+      return ua.indexOf("android") > -1;
+    }
+
+    if (ymp_hasUrlSupport) {
+        var ymp_terms = ['utm_source', 'utm_campaign', 'utm_term', 'utm_medium', 'utm_content'],
+            ymp_currentUrl = new URL(window.location.href),
+            ymp_urlParams = ymp_currentUrl.searchParams;
+
+        ymp_terms.forEach(function(term) {
+            if (ymp_urlParams.has(term)) {
+                ymp_setUtm(term, ymp_urlParams.get(term));
+            }
+        });
+    }
+
+    function ymp_getUrlWithUtms(url) {
+        if (!ymp_hasUrlSupport || !url) {
+            return url;
+        }
+
+        var currentUrl = new URL(url),
+            _ga = ymp_getCookie('_ga'),
+            cookiesUtms = ymp_getUtms();
+
+        cookiesUtms.forEach(function(value, key) {
+            currentUrl.searchParams.set(key, value);
+        });
+
+        if (_ga) {
+            currentUrl.searchParams.set('_ga', _ga);
+        }
+
+        return currentUrl.href;
+    }
+
+    function ymp_setUtm(term, value) {
+        var params = ymp_getUtms();
+
+        params.set(term, value);
+        ymp_setCookie(ymp_utmCookieName, params.toString(), 30);
+    }
+
+    function ymp_getUtms() {
+        var currentUtms = ymp_getCookie(ymp_utmCookieName);
+
+        if (currentUtms) {
+            return new URLSearchParams(currentUtms);
+        }
+
+        return new URLSearchParams();
+    }
+
+    function ymp_setCookie(name, value, days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + (value || "") + expires + "; path=/";
+    }
+
+    function ymp_getCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+</script>
+
+<div id="yampiPurchaseConfirmationWrapper"><div><p class="yampi_purchase_title">✔️ Produto adicionado com sucesso.</p><button type="button" onclick="getNewCheckoutURL()" id="yampiPurchaseConfirmationButton" class="yampi_purchase_confirmation_btn">Finalizar compra</button></div></div>
+ 
+<!-- Não remova. Checkout Yampi. --> <style> .content-over-media {grid-template: 0 minmax(0, 1fr) 0 / minmax(0, 1fr) minmax( 0, min( var(--container-max-width), 100% - var( --content-over-media-gap, var(--content-over-media-column-gap, var(--container-gutter)) ) * 2 ) ) minmax(0, 1fr) !important;} .price-list {font-weight: 1000;} </style>
+</body>
+
+</html>
