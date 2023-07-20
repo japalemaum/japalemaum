@@ -1,0 +1,2810 @@
+
+<!doctype html>
+
+<html class="no-js" lang="pt-BR" dir="ltr">
+  <head>
+
+<!-- AMPIFY-ME:START -->
+
+
+
+
+
+
+
+
+
+<!-- AMPIFY-ME:END -->
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="theme-color" content="#f9f9f9">
+
+    <title>Carrinho de Compras</title><link rel="canonical" href="https://hidratei.com.br/cart"><link rel="shortcut icon" href="//hidratei.com.br/cdn/shop/files/Fav.png?v=1675886855&width=96">
+      <link rel="apple-touch-icon" href="//hidratei.com.br/cdn/shop/files/Fav.png?v=1675886855&width=180"><link rel="preconnect" href="https://cdn.shopify.com">
+    <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
+    <link rel="dns-prefetch" href="https://productreviews.shopifycdn.com"><link rel="modulepreload" href="//hidratei.com.br/cdn/shop/t/23/assets/vendor.min.js?v=56430842210900357591681254700" as="script">
+    <link rel="modulepreload" href="//hidratei.com.br/cdn/shop/t/23/assets/theme.js?v=96093311007300784591683311910" as="script">
+    <link rel="modulepreload" href="//hidratei.com.br/cdn/shop/t/23/assets/sections.js?v=120424751404078967051683311934" as="script"><link rel="preload" href="//hidratei.com.br/cdn/fonts/harmonia_sans/harmoniasans_n6.dd3d6084d29e4754e80fe6aa1c0e37f511474ffa.woff2?h1=aGlkcmF0ZWktbG9qYS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=aGlkcmF0ZWkuY29tLmJy&h3=bG9qYS5oaWRyYXRlaS5jb20uYnI&hmac=19b6ac57408523db91c3b433718e29f438130e9cb0d89f67a17425a9d1f838ce" as="font" type="font/woff2" crossorigin><link rel="preload" href="//hidratei.com.br/cdn/fonts/harmonia_sans/harmoniasans_n4.73cf0589f7839ec88463a09f5335a2885467ed0c.woff2?h1=aGlkcmF0ZWktbG9qYS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=aGlkcmF0ZWkuY29tLmJy&h3=bG9qYS5oaWRyYXRlaS5jb20uYnI&hmac=103b71010e74083f2518b19494f9325fc32f57af75d688b85f4d8091d43fe8f3" as="font" type="font/woff2" crossorigin><meta property="og:type" content="website">
+  <meta property="og:title" content="Carrinho de Compras"><meta property="og:image" content="http://hidratei.com.br/cdn/shop/files/capa.jpg?v=1687901504&width=2048">
+  <meta property="og:image:secure_url" content="https://hidratei.com.br/cdn/shop/files/capa.jpg?v=1687901504&width=2048">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="628"><meta property="og:url" content="https://hidratei.com.br/cart">
+<meta property="og:site_name" content="Hidratei"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="Carrinho de Compras">
+  <meta name="twitter:description" content="Carrinho de Compras"><meta name="twitter:image" content="https://hidratei.com.br/cdn/shop/files/capa.jpg?crop=center&height=1200&v=1687901504&width=1200">
+  <meta name="twitter:image:alt" content="">
+
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+  "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Início",
+      "item": "https://hidratei.com.br"
+    }]
+  }
+  </script>
+
+<style>/* Typography (heading) */
+  @font-face {
+  font-family: "Harmonia Sans";
+  font-weight: 600;
+  font-style: normal;
+  font-display: fallback;
+  src: url("//hidratei.com.br/cdn/fonts/harmonia_sans/harmoniasans_n6.dd3d6084d29e4754e80fe6aa1c0e37f511474ffa.woff2?h1=aGlkcmF0ZWktbG9qYS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=aGlkcmF0ZWkuY29tLmJy&h3=bG9qYS5oaWRyYXRlaS5jb20uYnI&hmac=19b6ac57408523db91c3b433718e29f438130e9cb0d89f67a17425a9d1f838ce") format("woff2"),
+       url("//hidratei.com.br/cdn/fonts/harmonia_sans/harmoniasans_n6.b0d6879084373b473d0c7a4c3d54ece9c289cbb4.woff?h1=aGlkcmF0ZWktbG9qYS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=aGlkcmF0ZWkuY29tLmJy&h3=bG9qYS5oaWRyYXRlaS5jb20uYnI&hmac=b315ba69258da911068246a6dd59f8ea02b825a84b83e14d9b7b0485d6dc2829") format("woff");
+}
+
+@font-face {
+  font-family: "Harmonia Sans";
+  font-weight: 600;
+  font-style: italic;
+  font-display: fallback;
+  src: url("//hidratei.com.br/cdn/fonts/harmonia_sans/harmoniasans_i6.d520474355816f56169b3a79baa14d2c479da2ba.woff2?h1=aGlkcmF0ZWktbG9qYS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=aGlkcmF0ZWkuY29tLmJy&h3=bG9qYS5oaWRyYXRlaS5jb20uYnI&hmac=296a94513e2d01e4206fc20779358ca61234d7fc835bef61365ad02fb76f17c0") format("woff2"),
+       url("//hidratei.com.br/cdn/fonts/harmonia_sans/harmoniasans_i6.5ea0fa072a0601a91bbd7e0301549f9159a09ada.woff?h1=aGlkcmF0ZWktbG9qYS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=aGlkcmF0ZWkuY29tLmJy&h3=bG9qYS5oaWRyYXRlaS5jb20uYnI&hmac=6f865878ed402b0e7aa876104a0b3b4d95c97bb6d6e0b1ddf6ed6a06b415956b") format("woff");
+}
+
+/* Typography (body) */
+  @font-face {
+  font-family: "Harmonia Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+  src: url("//hidratei.com.br/cdn/fonts/harmonia_sans/harmoniasans_n4.73cf0589f7839ec88463a09f5335a2885467ed0c.woff2?h1=aGlkcmF0ZWktbG9qYS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=aGlkcmF0ZWkuY29tLmJy&h3=bG9qYS5oaWRyYXRlaS5jb20uYnI&hmac=103b71010e74083f2518b19494f9325fc32f57af75d688b85f4d8091d43fe8f3") format("woff2"),
+       url("//hidratei.com.br/cdn/fonts/harmonia_sans/harmoniasans_n4.1c5276ef69780b63aa8f0ba7897fb3bc87270bb0.woff?h1=aGlkcmF0ZWktbG9qYS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=aGlkcmF0ZWkuY29tLmJy&h3=bG9qYS5oaWRyYXRlaS5jb20uYnI&hmac=ece973fa5fbc90a7889f455ba9bc5b8008816812c0aea919d485a6aa5be53964") format("woff");
+}
+
+@font-face {
+  font-family: "Harmonia Sans";
+  font-weight: 400;
+  font-style: italic;
+  font-display: fallback;
+  src: url("//hidratei.com.br/cdn/fonts/harmonia_sans/harmoniasans_i4.ccbfea79fd847e76d49925a923aa89064359e629.woff2?h1=aGlkcmF0ZWktbG9qYS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=aGlkcmF0ZWkuY29tLmJy&h3=bG9qYS5oaWRyYXRlaS5jb20uYnI&hmac=8246fb97225ae0885db7d58196fc5ce77f1f255761188a74e02dfdede627e060") format("woff2"),
+       url("//hidratei.com.br/cdn/fonts/harmonia_sans/harmoniasans_i4.e5c05a10aacfb8cc7fdf892df8dba937a214e6e7.woff?h1=aGlkcmF0ZWktbG9qYS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=aGlkcmF0ZWkuY29tLmJy&h3=bG9qYS5oaWRyYXRlaS5jb20uYnI&hmac=65212050459d1d09141fc1515912ad616c094613b92a561524229fb090af8920") format("woff");
+}
+
+@font-face {
+  font-family: "Harmonia Sans";
+  font-weight: 700;
+  font-style: normal;
+  font-display: fallback;
+  src: url("//hidratei.com.br/cdn/fonts/harmonia_sans/harmoniasans_n7.db6a243cdeddb2eba0b2e8fccdce1e6910fd06d0.woff2?h1=aGlkcmF0ZWktbG9qYS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=aGlkcmF0ZWkuY29tLmJy&h3=bG9qYS5oaWRyYXRlaS5jb20uYnI&hmac=a17258bdea57ee008a69e200e9fc3b96db0c7011a112025e4f0d6bf736b4be12") format("woff2"),
+       url("//hidratei.com.br/cdn/fonts/harmonia_sans/harmoniasans_n7.a069bd4d0320d5bc303f7f96d7bf28abc297b6aa.woff?h1=aGlkcmF0ZWktbG9qYS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=aGlkcmF0ZWkuY29tLmJy&h3=bG9qYS5oaWRyYXRlaS5jb20uYnI&hmac=4444f2b64316e492434bfb9d254ff2af2f3debe0f8881ea6364cc0781f7db46e") format("woff");
+}
+
+@font-face {
+  font-family: "Harmonia Sans";
+  font-weight: 700;
+  font-style: italic;
+  font-display: fallback;
+  src: url("//hidratei.com.br/cdn/fonts/harmonia_sans/harmoniasans_i7.4a7dd579ac7cb56f507f74a6af51c429211c3385.woff2?h1=aGlkcmF0ZWktbG9qYS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=aGlkcmF0ZWkuY29tLmJy&h3=bG9qYS5oaWRyYXRlaS5jb20uYnI&hmac=e0b34954a87fc4a8c760a5e861c83c3e3fe71fbec33d6e9d62b1d32fc6c3a9ec") format("woff2"),
+       url("//hidratei.com.br/cdn/fonts/harmonia_sans/harmoniasans_i7.f513289b781582823a912d2e8125b8c109e5d61c.woff?h1=aGlkcmF0ZWktbG9qYS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=aGlkcmF0ZWkuY29tLmJy&h3=bG9qYS5oaWRyYXRlaS5jb20uYnI&hmac=a51fa211c3e65dd3b5082d96903f89be97e74c50fb4a6d4053b70b32cba2b2d4") format("woff");
+}
+
+:root {
+    /**
+     * ---------------------------------------------------------------------
+     * SPACING VARIABLES
+     *
+     * We are using a spacing inspired from frameworks like Tailwind CSS.
+     * ---------------------------------------------------------------------
+     */
+    --spacing-0-5: 0.125rem; /* 2px */
+    --spacing-1: 0.25rem; /* 4px */
+    --spacing-1-5: 0.375rem; /* 6px */
+    --spacing-2: 0.5rem; /* 8px */
+    --spacing-2-5: 0.625rem; /* 10px */
+    --spacing-3: 0.75rem; /* 12px */
+    --spacing-3-5: 0.875rem; /* 14px */
+    --spacing-4: 1rem; /* 16px */
+    --spacing-4-5: 1.125rem; /* 18px */
+    --spacing-5: 1.25rem; /* 20px */
+    --spacing-5-5: 1.375rem; /* 22px */
+    --spacing-6: 1.5rem; /* 24px */
+    --spacing-6-5: 1.625rem; /* 26px */
+    --spacing-7: 1.75rem; /* 28px */
+    --spacing-7-5: 1.875rem; /* 30px */
+    --spacing-8: 2rem; /* 32px */
+    --spacing-8-5: 2.125rem; /* 34px */
+    --spacing-9: 2.25rem; /* 36px */
+    --spacing-9-5: 2.375rem; /* 38px */
+    --spacing-10: 2.5rem; /* 40px */
+    --spacing-11: 2.75rem; /* 44px */
+    --spacing-12: 3rem; /* 48px */
+    --spacing-14: 3.5rem; /* 56px */
+    --spacing-16: 4rem; /* 64px */
+    --spacing-18: 4.5rem; /* 72px */
+    --spacing-20: 5rem; /* 80px */
+    --spacing-24: 6rem; /* 96px */
+    --spacing-28: 7rem; /* 112px */
+    --spacing-32: 8rem; /* 128px */
+    --spacing-36: 9rem; /* 144px */
+    --spacing-40: 10rem; /* 160px */
+    --spacing-44: 11rem; /* 176px */
+    --spacing-48: 12rem; /* 192px */
+    --spacing-52: 13rem; /* 208px */
+    --spacing-56: 14rem; /* 224px */
+    --spacing-60: 15rem; /* 240px */
+    --spacing-64: 16rem; /* 256px */
+    --spacing-72: 18rem; /* 288px */
+    --spacing-80: 20rem; /* 320px */
+    --spacing-96: 24rem; /* 384px */
+
+    /* Container */
+    --container-max-width: 1920px;
+    --container-narrow-max-width: 1670px;
+    --container-gutter: var(--spacing-5);
+    --section-outer-spacing-block: var(--spacing-12);
+    --section-inner-max-spacing-block: var(--spacing-10);
+    --section-inner-spacing-inline: var(--container-gutter);
+    --section-stack-spacing-block: var(--spacing-8);
+
+    /* Grid gutter */
+    --grid-gutter: var(--spacing-5);
+
+    /* Product list settings */
+    --product-list-row-gap: var(--spacing-8);
+    --product-list-column-gap: var(--grid-gutter);
+
+    /* Form settings */
+    --input-gap: var(--spacing-2);
+    --input-height: 2.625rem;
+    --input-padding-inline: var(--spacing-4);
+
+    /* Other sizes */
+    --sticky-area-height: calc(var(--sticky-announcement-bar-enabled, 0) * var(--announcement-bar-height, 0px) + var(--sticky-header-enabled, 0) * var(--header-height, 0px));
+
+    /* RTL support */
+    --transform-logical-flip: 1;
+    --transform-origin-start: left;
+    --transform-origin-end: right;
+
+    /**
+     * ---------------------------------------------------------------------
+     * TYPOGRAPHY
+     * ---------------------------------------------------------------------
+     */
+
+    /* Font properties */
+    --heading-font-family: "Harmonia Sans", sans-serif;
+    --heading-font-weight: 600;
+    --heading-font-style: normal;
+    --heading-text-transform: normal;
+    --heading-letter-spacing: -0.02em;
+    --text-font-family: "Harmonia Sans", sans-serif;
+    --text-font-weight: 400;
+    --text-font-style: normal;
+    --text-letter-spacing: 0.0em;
+
+    /* Font sizes */
+    --text-h0: 3rem;
+    --text-h1: 2.5rem;
+    --text-h2: 2rem;
+    --text-h3: 1.5rem;
+    --text-h4: 1.375rem;
+    --text-h5: 1.125rem;
+    --text-h6: 1rem;
+    --text-xs: 0.8125rem;
+    --text-sm: 0.875rem;
+    --text-base: 1.0rem;
+    --text-lg: 1.25rem;
+
+    /**
+     * ---------------------------------------------------------------------
+     * COLORS
+     * ---------------------------------------------------------------------
+     */
+
+    /* Color settings */--accent: 0 172 216;
+    --text-primary: 45 45 45;
+    --background-primary: 249 249 249;
+    --dialog-background: 249 249 249;
+    --border-color: var(--text-color, var(--text-primary)) / 0.12;
+
+    /* Button colors */
+    --button-background-primary: 0 172 216;
+    --button-text-primary: 249 249 249;
+    --button-background-secondary: 0 172 216;
+    --button-text-secondary: 249 249 249;
+
+    /* Status colors */
+    --success-background: 224 244 232;
+    --success-text: 0 163 65;
+    --warning-background: 255 246 233;
+    --warning-text: 255 183 74;
+    --error-background: 254 231 231;
+    --error-text: 248 58 58;
+
+    /* Product colors */
+    --on-sale-text: 0 172 216;
+    --on-sale-badge-background: 0 172 216;
+    --on-sale-badge-text: 255 255 255;
+    --sold-out-badge-background: 45 45 45;
+    --sold-out-badge-text: 255 255 255;
+    --primary-badge-background: 237 237 237;
+    --primary-badge-text: 0 0 0;
+    --star-color: 255 183 74;
+    --product-card-background: 241 241 241;
+    --product-card-text: 45 45 45;
+
+    /* Header colors */
+    --header-background: 249 249 249;
+    --header-text: 45 45 45;
+
+    /* Footer colors */
+    --footer-background: 0 172 216;
+    --footer-text: 241 241 241;
+
+    /* Rounded variables (used for border radius) */
+    --rounded-xs: 0.25rem;
+    --rounded-sm: 1.0rem;
+    --rounded: 2.0rem;
+    --rounded-lg: 4.0rem;
+    --rounded-full: 9999px;
+
+    --rounded-button: 3.75rem;
+    --rounded-input: 0.625rem;
+
+    /* Box shadow */
+    --shadow-sm: 0 2px 8px rgb(var(--text-primary) / 0.2);
+    --shadow: 0 5px 15px rgb(var(--text-primary) / 0.2);
+    --shadow-md: 0 5px 30px rgb(var(--text-primary) / 0.2);
+    --shadow-block: 0px 2px 60px rgb(var(--text-primary) / 0.2);
+
+    /**
+     * ---------------------------------------------------------------------
+     * OTHER
+     * ---------------------------------------------------------------------
+     */
+
+    --cursor-close-svg-url: url(//hidratei.com.br/cdn/shop/t/23/assets/cursor-close.svg?v=147174565022153725511681254700);
+    --cursor-zoom-in-svg-url: url(//hidratei.com.br/cdn/shop/t/23/assets/cursor-zoom-in.svg?v=154953035094101115921681254696);
+    --cursor-zoom-out-svg-url: url(//hidratei.com.br/cdn/shop/t/23/assets/cursor-zoom-out.svg?v=16155520337305705181681254706);
+    --checkmark-svg-url: url(//hidratei.com.br/cdn/shop/t/23/assets/checkmark.svg?v=4432007505980712731681254705);
+  }
+
+  [dir="rtl"]:root {
+    /* RTL support */
+    --transform-logical-flip: -1;
+    --transform-origin-start: right;
+    --transform-origin-end: left;
+  }
+
+  @media screen and (min-width: 700px) {
+    :root {
+      /* Typography (font size) */
+      --text-h0: 4rem;
+      --text-h1: 3rem;
+      --text-h2: 2.5rem;
+      --text-h3: 2rem;
+      --text-h4: 1.625rem;
+      --text-h5: 1.25rem;
+      --text-h6: 1.125rem;
+
+      --text-xs: 0.75rem;
+      --text-sm: 0.875rem;
+      --text-base: 1.0rem;
+      --text-lg: 1.25rem;
+
+      /* Spacing */
+      --container-gutter: 2rem;
+      --section-outer-spacing-block: var(--spacing-16);
+      --section-inner-max-spacing-block: var(--spacing-12);
+      --section-inner-spacing-inline: var(--spacing-10);
+      --section-stack-spacing-block: var(--spacing-12);
+
+      /* Grid gutter */
+      --grid-gutter: var(--spacing-6);
+
+      /* Product list settings */
+      --product-list-row-gap: var(--spacing-12);
+
+      /* Form settings */
+      --input-gap: 1rem;
+      --input-height: 3.125rem;
+      --input-padding-inline: var(--spacing-5);
+    }
+  }
+
+  @media screen and (min-width: 1000px) {
+    :root {
+      /* Spacing settings */
+      --container-gutter: var(--spacing-12);
+      --section-outer-spacing-block: var(--spacing-18);
+      --section-inner-max-spacing-block: var(--spacing-16);
+      --section-inner-spacing-inline: var(--spacing-12);
+      --section-stack-spacing-block: var(--spacing-12);
+    }
+  }
+
+  @media screen and (min-width: 1150px) {
+    :root {
+      /* Spacing settings */
+      --container-gutter: var(--spacing-12);
+      --section-outer-spacing-block: var(--spacing-20);
+      --section-inner-max-spacing-block: var(--spacing-16);
+      --section-inner-spacing-inline: var(--spacing-12);
+      --section-stack-spacing-block: var(--spacing-12);
+    }
+  }
+
+  @media screen and (min-width: 1400px) {
+    :root {
+      /* Typography (font size) */
+      --text-h0: 5rem;
+      --text-h1: 3.75rem;
+      --text-h2: 3rem;
+      --text-h3: 2.25rem;
+      --text-h4: 2rem;
+      --text-h5: 1.5rem;
+      --text-h6: 1.25rem;
+
+      --section-outer-spacing-block: var(--spacing-24);
+      --section-inner-max-spacing-block: var(--spacing-18);
+      --section-inner-spacing-inline: var(--spacing-14);
+    }
+  }
+
+  @media screen and (min-width: 1600px) {
+    :root {
+      --section-outer-spacing-block: var(--spacing-24);
+      --section-inner-max-spacing-block: var(--spacing-20);
+      --section-inner-spacing-inline: var(--spacing-16);
+    }
+  }
+
+  /**
+   * ---------------------------------------------------------------------
+   * LIQUID DEPENDANT CSS
+   *
+   * Our main CSS is Liquid free, but some very specific features depend on
+   * theme settings, so we have them here
+   * ---------------------------------------------------------------------
+   */@media screen and (pointer: fine) {
+        /* The !important are for the Shopify Payment button to ensure we override the default from Shopify styles */
+        .button:not([disabled]):not(.button--outline):hover, .btn:not([disabled]):hover, .shopify-payment-button__button--unbranded:not([disabled]):hover {
+          background-color: transparent !important;
+          color: rgb(var(--button-outline-color) / var(--button-background-opacity, 1)) !important;
+          box-shadow: inset 0 0 0 2px currentColor !important;
+        }
+
+        .button--outline:not([disabled]):hover {
+          background: rgb(var(--button-background));
+          color: rgb(var(--button-text-color));
+          box-shadow: inset 0 0 0 2px rgb(var(--button-background));
+        }
+      }</style><script>
+  document.documentElement.classList.replace('no-js', 'js');
+
+  // This allows to expose several variables to the global scope, to be used in scripts
+  window.themeVariables = {
+    settings: {
+      showPageTransition: false,
+      headingApparition: "none",
+      pageType: "cart",
+      moneyFormat: "R$ {{amount_with_comma_separator}}",
+      moneyWithCurrencyFormat: "R$ {{amount_with_comma_separator}} ",
+      currencyCodeEnabled: false,
+      cartType: "drawer",
+      showDiscount: true,
+      discountMode: "percentage"
+    },
+
+    strings: {
+      accessibilityClose: "Fechar",
+      accessibilityNext: "Próximo",
+      accessibilityPrevious: "Anterior",
+      addToCartButton: "Adicionar ao carrinho",
+      soldOutButton: "Esgotado",
+      preOrderButton: "Pré-venda",
+      unavailableButton: "Unavailable",
+      closeGallery: "Fechar galeria",
+      zoomGallery: "Zoom na imagem",
+      errorGallery: "Imagem não pode ser carregada",
+      soldOutBadge: "Esgotado",
+      discountBadge: "@@ OFF",
+      sku: "SKU:",
+      searchNoResults: "Não foram encontrados resultados para sua pesquisa",
+      addOrderNote: "Adicionar observações sobre o pedido",
+      editOrderNote: "Editar observações sobre o pedido",
+      shippingEstimatorNoResults: "Desculpe, não enviamos para o seu endereço.",
+      shippingEstimatorOneResult: "Temos um método de envio para o seu endereço:",
+      shippingEstimatorMultipleResults: "Temos diversos métodos de envio para o seu endereço:",
+      shippingEstimatorError: "Um ou mais erros aconteceram durante a estimativa de frete:"
+    },
+
+    breakpoints: {
+      'sm': 'screen and (min-width: 700px)',
+      'md': 'screen and (min-width: 1000px)',
+      'lg': 'screen and (min-width: 1150px)',
+      'xl': 'screen and (min-width: 1400px)',
+
+      'sm-max': 'screen and (max-width: 699px)',
+      'md-max': 'screen and (max-width: 999px)',
+      'lg-max': 'screen and (max-width: 1149px)',
+      'xl-max': 'screen and (max-width: 1399px)'
+    }
+  };// For detecting native share
+  document.documentElement.classList.add(`native-share--${navigator.share ? 'enabled' : 'disabled'}`);</script>
+<script type="module" src="//hidratei.com.br/cdn/shop/t/23/assets/vendor.min.js?v=56430842210900357591681254700"></script>
+    <script type="module" src="//hidratei.com.br/cdn/shop/t/23/assets/theme.js?v=96093311007300784591683311910"></script>
+    <script type="module" src="//hidratei.com.br/cdn/shop/t/23/assets/sections.js?v=120424751404078967051683311934"></script>
+
+    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="facebook-domain-verification" content="zoy6m5twzsjge7sfa8mzhxee2yo8ms">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/58067124271/digital_wallets/dialog">
+<script>
+  (function() {
+    var scripts = ["https://cdn.shopify.com/shopifycloud/checkout-web/assets/runtime.latest.pt-BR.3a4e514f2871d13e491e.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-packages~Information~NoAddressLocation~Payment~PostPurchase~Review~Shipping~ShopPay~Sho~cf13f96e.latest.pt-BR.04837ae4ff5a8e949953.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information~Payment~ShopPay.latest.pt-BR.1ee94bfe955890953915.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information.latest.pt-BR.b6d56d974455e92c403f.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-ui~app.latest.pt-BR.86cd9328cdcd6cd3a58f.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/vendors~app.latest.pt-BR.1b73e6c0386ec1fa21ea.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-packages~app.latest.pt-BR.c85a26e569936f41cfde.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.latest.pt-BR.05a7fb2c0ec364dba6af.js"];
+    var styles = ["https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-ui~app.latest.pt-BR.9f2a5e9ec696775e2217.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/vendors~app.latest.pt-BR.e788719f193b49c039a3.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.latest.pt-BR.6b4c79ead7042980b29d.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information~Payment~ShopPay.latest.pt-BR.da9f06164a980bf8e7ea.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information.latest.pt-BR.9a0274ab07be120c1902.css"];
+
+    function prefetch(url, as, callback) {
+      var link = document.createElement('link');
+      if (link.relList.supports('prefetch')) {
+        link.rel = 'prefetch';
+        link.fetchPriority = 'low';
+        link.as = as;
+        link.href = url;
+        link.onload = link.onerror = callback;
+        document.head.appendChild(link);
+      } else {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', url, true);
+        xhr.onloadend = callback;
+        xhr.send();
+      }
+    }
+
+    function prefetchAssets() {
+      var resources = [].concat(
+        scripts.map(function(url) { return [url, 'script']; }),
+        styles.map(function(url) { return [url, 'style']; })
+      );
+      var index = 0;
+      (function next() {
+        var res = resources[index++];
+        if (res) prefetch(res[0], res[1], next);
+      })();
+    }
+
+    addEventListener('load', prefetchAssets);
+   })();
+</script>
+<script id="shopify-features" type="application/json">{"accessToken":"8f0e6ed57e117f66f463934f26a9d33c","betas":["rich-media-storefront-analytics"],"domain":"hidratei.com.br","predictiveSearch":true,"shopId":58067124271,"smart_payment_buttons_url":"https:\/\/hidratei.com.br\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.pt-br.js?v=2","dynamic_checkout_cart_url":"https:\/\/hidratei.com.br\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.pt-br.js?v=2","locale":"pt-br","optimusEnabled":false,"betterDynamicCheckoutRecommendation":false}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "hidratei-loja.myshopify.com";
+Shopify.locale = "pt-BR";
+Shopify.currency = {"active":"BRL","rate":"1.0"};
+Shopify.country = "BR";
+Shopify.theme = {"name":"shopify-hidratei-2-0-0\/main","id":147857867069,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/loox.io\/widget\/V1-VzsnWga\/loox.1662569459470.js?shop=hidratei-loja.myshopify.com","\/\/cdn.shopify.com\/proxy\/15ec16a65fd76c80e1994e1fe2c879dea8dad5db41e673a3067d780256198796\/hidratei.activehosted.com\/js\/site-tracking.php?shop=hidratei-loja.myshopify.com\u0026sp-cache-control=cHVibGljLCBtYXgtYWdlPTkwMA","https:\/\/widget.gotolstoy.com\/widget\/widget.js?app-key=e74fbed9-17d3-4414-a34b-0b28f4773629\u0026shop=hidratei-loja.myshopify.com","https:\/\/cdn.nfcube.com\/instafeed-5706b90ce596d52a39f10770a23653a7.js?shop=hidratei-loja.myshopify.com","\/\/dynamic.criteo.com\/js\/ld\/ld.js?a=105893\u0026shop=hidratei-loja.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":58067124271,"offset":-10800,"reqid":"e8764834-ce06-4ee8-9993-17e5a448c33b","pageurl":"hidratei.com.br\/cart","t":"prospect","u":"c4d10f0f37f7","p":"cart"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script integrity="sha256-PxOtY43aY0IIRkJyboCWUgXVuC12GAXQ8LKFAxO8H98=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//hidratei.com.br/cdn/shopifycloud/shopify/assets/storefront/load_feature-3f13ad638dda6342084642726e80965205d5b82d761805d0f0b2850313bc1fdf.js" crossorigin="anonymous"></script>
+<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//hidratei.com.br/cdn/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+
+
+<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+<link href="//hidratei.com.br/cdn/shop/t/23/assets/theme.css?v=16323823317623808251689786797" rel="stylesheet" type="text/css" media="all" /><script>var loox_global_hash = '1689889586216';</script><script>var loox_pop_active = true;var loox_pop_display = {"home_page":false,"product_page":true,"cart_page":false,"other_pages":false};</script><style>.loox-reviews-default { max-width: 1200px; margin: 0 auto; }.loox-rating .loox-icon { color:#FFB74A; }</style><script>var loox_rating_icons_enabled = true;</script>
+
+  <!--- LAZY LOADING BY HTKS -->
+  <script src="//hidratei.com.br/cdn/shop/t/23/assets/lazyloading.js?v=152214550949652661181681302530" type="module"></script>
+  <!--- LAZY LOADING BY HTKS -->  
+  
+<!-- BEGIN app block: shopify://apps/tolstoy-shoppable-video-quiz/blocks/widget-block/06fa8282-42ff-403e-b67c-1936776aed11 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <script
+    type="text/javascript"
+    async
+    src="https://widget.gotolstoy.com/widget/widget.js?app-key=e74fbed9-17d3-4414-a34b-0b28f4773629&shop=hidratei-loja.myshopify.com"
+  ></script>
+
+
+
+<!-- END app app block --><link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 58067124271,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "cart"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,n,a,t,o,r,i){function s(e,n){if(document.head){var a=document.createElement("link");e.match(/spin\.dev\/?/)&&(e+="?fast_storefront_renderer=1"),a.rel="preload",a.href=e,n&&(a.as=n);try{document.head.appendChild(a)}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Could not append prefetch link tag to DOM.")}}}var l=i||[],d=null!==e;d&&(window.Shopify=window.Shopify||{},window.Shopify.analytics=window.Shopify.analytics||{},window.Shopify.analytics.replayQueue=[],window.Shopify.analytics.publish=function(e,n,a){window.Shopify.analytics.replayQueue.push([e,n,a])});var c=function(){var e="legacy",n="unknown",a=null,t=navigator.userAgent.match(/(Firefox|Chrome)\/(\d+)/i),o=navigator.userAgent.match(/(Edg)\/(\d+)/i),r=navigator.userAgent.match(/(Version)\/(\d+)(.+)(Safari)\/(\d+)/i);r?(n="safari",a=parseInt(r[2],10)):o?(n="edge",a=parseInt(o[2],10)):t&&(n=t[1].toLocaleLowerCase(),a=parseInt(t[2],10));var i={chrome:60,firefox:55,safari:11,edge:80}[n];return void 0!==i&&null!==a&&i<=a&&(e="modern"),e}(),p=c.substring(0,1),f=t.substring(0,1);if(d)try{self.performance.mark("wpm:start")}catch(e){}if(d){var u=self.location.origin,w=(e.webPixelsConfigList||[]).filter((function(e){return"app"===e.type.toLowerCase()}));for(let e=0;e<w.length;e++){s([u,"/wpm@",r,"/web-pixel-",w[e].id,"@",w[e].scriptVersion,"/sandbox/worker.",c,".js"].join(""),"script")}}var h,y,m,g,v,_,b,x,S=[a,l.indexOf("web_pixels_manager_runtime_asset_prefix")>-1?"/wpm":null,"/",f,r,p,".js"].join("");h={src:S,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);n(a),window.Shopify.analytics.replayQueue.forEach((function(e){a.publishCustomEvent(e[0],e[1],e[2])})),window.Shopify.analytics.replayQueue=[],window.Shopify.analytics.publish=a.publishCustomEvent,l.indexOf("web_pixels_identify_api")>-1&&(window.Shopify.analytics.identify=a.identify)}},onerror:function(){var n=(e.storefrontBaseUrl?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin)+"/.well-known/shopify/monorail/unstable/produce_batch",a=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:o||"latest",page_url:self.location.href,status:"failed",error_msg:S+" has failed to load"},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(n,a))return!0}catch(e){}const t=new XMLHttpRequest;try{return t.open("POST",n,!0),t.setRequestHeader("Content-Type","text/plain"),t.send(a),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}},y=document.createElement("script"),m=h.src,g=h.async||!0,v=h.onload,_=h.onerror,b=document.head,x=document.body,y.async=g,y.src=m,v&&y.addEventListener("load",v),_&&y.addEventListener("error",_),b?b.appendChild(y):x?x.appendChild(y):console.error("Did not find a head or body element to append the script")})({shopId: 58067124271,storefrontBaseUrl: "https://hidratei.com.br",cdnBaseUrl: "https://hidratei.com.br/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_shopify_pixel_validation","web_pixels_manager_runtime_asset_prefix","web_pixels_async_pixel_refactor"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0551","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0551","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":{"cost":{"totalAmount":{"amount":1217.8,"currencyCode":"BRL"}},"id":"a09f10c235445324c896b8fbc11cc4de","lines":[{"cost":{"totalAmount":{"amount":69.9,"currencyCode":"BRL"}},"merchandise":{"id":"41269727035439","image":{"src":"\/\/hidratei.com.br\/cdn\/shop\/files\/Shampoo_1_5947c652-d480-4326-8542-92914f969e25.png?v=1684525821"},"price":{"amount":69.9,"currencyCode":"BRL"},"product":{"id":"7131345748015","title":"Shampoo Hidratei","untranslatedTitle":"Shampoo Hidratei","vendor":"Hidratei","type":"250ml"},"sku":"282","title":"Default Title","untranslatedTitle":"Default Title"},"quantity":1},{"cost":{"totalAmount":{"amount":588.0,"currencyCode":"BRL"}},"merchandise":{"id":"41269727166511","image":{"src":"\/\/hidratei.com.br\/cdn\/shop\/files\/Noite_1.png?v=1684764486"},"price":{"amount":147.0,"currencyCode":"BRL"},"product":{"id":"7131345879087","title":"Hidratei Noite","untranslatedTitle":"Hidratei Noite","vendor":"Hidratei","type":"250ml"},"sku":"299","title":"Default Title","untranslatedTitle":"Default Title"},"quantity":4},{"cost":{"totalAmount":{"amount":49.9,"currencyCode":"BRL"}},"merchandise":{"id":"41269727789103","image":{"src":"\/\/hidratei.com.br\/cdn\/shop\/files\/Spraytravel_1.png?v=1684763992"},"price":{"amount":49.9,"currencyCode":"BRL"},"product":{"id":"7131346501679","title":"Leave-in - Travel Size","untranslatedTitle":"Leave-in - Travel Size","vendor":"Hidratei","type":"60ml"},"sku":"283","title":"Default Title","untranslatedTitle":"Default Title"},"quantity":1},{"cost":{"totalAmount":{"amount":0.0,"currencyCode":"BRL"}},"merchandise":{"id":"45702855754045","image":{"src":"\/\/hidratei.com.br\/cdn\/shop\/products\/Mascarasolida_1_9b7d00fc-c684-4b97-b678-f4db5264c937.png?v=1689552736"},"price":{"amount":0.0,"currencyCode":"BRL"},"product":{"id":"8445584998717","title":"BRINDE","untranslatedTitle":"BRINDE","vendor":"Hidratei","type":"singleton_gift"},"sku":"486","title":"Default Title","untranslatedTitle":"Default Title"},"quantity":1},{"cost":{"totalAmount":{"amount":510.0,"currencyCode":"BRL"}},"merchandise":{"id":"45769180381501","image":{"src":"\/\/hidratei.com.br\/cdn\/shop\/files\/Boosterdefinicao_1.png?v=1689793973"},"price":{"amount":255.0,"currencyCode":"BRL"},"product":{"id":"8459047469373","title":"Kit Noite e Dia","untranslatedTitle":"Kit Noite e Dia","vendor":"Hidratei","type":""},"sku":"492","title":"Default Title","untranslatedTitle":"Default Title"},"quantity":2}],"totalQuantity":9},"checkout":null,"customer":null,"productVariants":[]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("cart_viewed", {"cart":{"cost":{"totalAmount":{"amount":1217.8,"currencyCode":"BRL"}},"id":"a09f10c235445324c896b8fbc11cc4de","lines":[{"cost":{"totalAmount":{"amount":69.9,"currencyCode":"BRL"}},"merchandise":{"id":"41269727035439","image":{"src":"\/\/hidratei.com.br\/cdn\/shop\/files\/Shampoo_1_5947c652-d480-4326-8542-92914f969e25.png?v=1684525821"},"price":{"amount":69.9,"currencyCode":"BRL"},"product":{"id":"7131345748015","title":"Shampoo Hidratei","untranslatedTitle":"Shampoo Hidratei","vendor":"Hidratei","type":"250ml"},"sku":"282","title":"Default Title","untranslatedTitle":"Default Title"},"quantity":1},{"cost":{"totalAmount":{"amount":588.0,"currencyCode":"BRL"}},"merchandise":{"id":"41269727166511","image":{"src":"\/\/hidratei.com.br\/cdn\/shop\/files\/Noite_1.png?v=1684764486"},"price":{"amount":147.0,"currencyCode":"BRL"},"product":{"id":"7131345879087","title":"Hidratei Noite","untranslatedTitle":"Hidratei Noite","vendor":"Hidratei","type":"250ml"},"sku":"299","title":"Default Title","untranslatedTitle":"Default Title"},"quantity":4},{"cost":{"totalAmount":{"amount":49.9,"currencyCode":"BRL"}},"merchandise":{"id":"41269727789103","image":{"src":"\/\/hidratei.com.br\/cdn\/shop\/files\/Spraytravel_1.png?v=1684763992"},"price":{"amount":49.9,"currencyCode":"BRL"},"product":{"id":"7131346501679","title":"Leave-in - Travel Size","untranslatedTitle":"Leave-in - Travel Size","vendor":"Hidratei","type":"60ml"},"sku":"283","title":"Default Title","untranslatedTitle":"Default Title"},"quantity":1},{"cost":{"totalAmount":{"amount":0.0,"currencyCode":"BRL"}},"merchandise":{"id":"45702855754045","image":{"src":"\/\/hidratei.com.br\/cdn\/shop\/products\/Mascarasolida_1_9b7d00fc-c684-4b97-b678-f4db5264c937.png?v=1689552736"},"price":{"amount":0.0,"currencyCode":"BRL"},"product":{"id":"8445584998717","title":"BRINDE","untranslatedTitle":"BRINDE","vendor":"Hidratei","type":"singleton_gift"},"sku":"486","title":"Default Title","untranslatedTitle":"Default Title"},"quantity":1},{"cost":{"totalAmount":{"amount":510.0,"currencyCode":"BRL"}},"merchandise":{"id":"45769180381501","image":{"src":"\/\/hidratei.com.br\/cdn\/shop\/files\/Boosterdefinicao_1.png?v=1689793973"},"price":{"amount":255.0,"currencyCode":"BRL"},"product":{"id":"8459047469373","title":"Kit Noite e Dia","untranslatedTitle":"Kit Noite e Dia","vendor":"Hidratei","type":""},"sku":"492","title":"Default Title","untranslatedTitle":"Default Title"},"quantity":2}],"totalQuantity":9}});},"https://hidratei.com.br/cdn","browser","0.0.334","abd83086w6100c671p96a62313md77ea07a",["web_pixels_shopify_pixel_validation","web_pixels_manager_runtime_asset_prefix","web_pixels_async_pixel_refactor"]);</script>  <script>window['GoogleAnalyticsObject'] = 'ga';
+window['ga'] = window['ga'] || function() {
+  (window['ga'].q = window['ga'].q || []).push(arguments);
+};
+window['ga'].l = 1 * new Date();</script>
+<script>var _gaUTrackerOptions = {'allowLinker': true};ga('create', 'UA-129073643-5', 'auto', _gaUTrackerOptions);ga('send', 'pageview');
+      (function(){
+        ga('require', 'linker');
+        function addListener(element, type, callback) {
+          if (element.addEventListener) {
+            element.addEventListener(type, callback);
+          }
+          else if (element.attachEvent) {
+            element.attachEvent('on' + type, callback);
+          }
+        }
+        function decorate(event) {
+          event = event || window.event;
+          var target = event.target || event.srcElement;
+          if (target && (target.action || target.href)) {
+            ga(function (tracker) {
+              var linkerParam = tracker.get('linkerParam');
+              document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+            });
+          }
+        }
+        addListener(window, 'load', function(){
+          for (var i=0; i<document.forms.length; i++) {
+            if(document.forms[i].action && document.forms[i].action.indexOf('/cart') >= 0) {
+              addListener(document.forms[i], 'submit', decorate);
+            }
+          }
+          for (var i=0; i<document.links.length; i++) {
+            if(document.links[i].href && document.links[i].href.indexOf('/checkout') >= 0) {
+              addListener(document.links[i], 'click', decorate);
+            }
+          }
+        })
+      }());
+    </script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'BRL';
+var meta = {"page":{"pageType":"cart"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.onerror = function(e) {
+        var scriptFallback = document.createElement('script');
+        scriptFallback.type = 'text/javascript';
+        scriptFallback.onerror = function(error) {
+                var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 58067124271,
+      theme_id: 147857867069,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.1b6233e6dab027f9ed639435815377cbea5895c8.min.js"});
+
+        };
+        scriptFallback.async = true;
+        scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.1b6233e6dab027f9ed639435815377cbea5895c8.min.js';
+        first.parentNode.insertBefore(scriptFallback, first);
+      };
+      script.async = true;
+      script.src = 'https://cdn.shopify.com/s/trekkie.storefront.1b6233e6dab027f9ed639435815377cbea5895c8.min.js';
+      first.parentNode.insertBefore(script, first);
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":58067124271,"isMerchantRequest":null,"themeId":147857867069,"themeCityHash":"3717085580521240786","contentLanguage":"pt-BR","currency":"BRL"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Facebook Pixel":{"pixelIds":["347080209917021"],"agent":"plshopify1.2"},"Pinterest Pixel":{"pixelId":"2613419444618"},"TikTok Pixel":{"pixelId":"C8K984FLGCK8EVTNB85G"},"Google Gtag Pixel":{"conversionId":"GT-KVNWRTH","eventLabels":[{"type":"purchase","action_label":"MC-7QF1KWKCWZ"},{"type":"page_view","action_label":"MC-7QF1KWKCWZ"},{"type":"view_item","action_label":"MC-7QF1KWKCWZ"}],"targetCountry":"BR"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"facebookAppPixelId":"347080209917021","source":"trekkie-storefront-renderer"}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+  
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"cart"});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        
+      }
+    });
+
+
+        var eventsListenerScript = document.createElement('script');
+        eventsListenerScript.async = true;
+        eventsListenerScript.src = "//hidratei.com.br/cdn/shopifycloud/shopify/assets/shop_events_listener-65cd0ba3fcd81a1df33f2510ec5bcf8c0e0958653b50e3965ec972dd638ee13f.js";
+        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();</script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "Impact";
+  window.BOOMR.themeVersion = "3.1.1";
+  window.BOOMR.shopId = 58067124271;
+  window.BOOMR.themeId = 147857867069;
+  window.BOOMR.renderRegion = "gcp-us-east1";
+  window.BOOMR.url =
+    "https://hidratei.com.br/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script>
+<script async="async" src="https://www.google-analytics.com/analytics.js"></script>
+</head>
+
+  <body class=" ">
+    
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+     })(window,document,'script','dataLayer','GTM-PKJ6C4G');
+    </script>
+    <!-- End Google Tag Manager --><!-- DRAWER -->
+<template id="drawer-default-template">
+  <style>
+    [hidden] {
+      display: none !important;
+    }
+  </style>
+
+  <button part="outside-close-button" is="close-button" aria-label="Fechar"><svg role="presentation" stroke-width="2" focusable="false" width="24" height="24" class="icon icon-close" viewBox="0 0 24 24">
+        <path d="M17.658 6.343 6.344 17.657M17.658 17.657 6.344 6.343" stroke="currentColor"></path>
+      </svg></button>
+
+  <div part="overlay"></div>
+
+  <div part="content">
+    <header part="header">
+      <slot name="header"></slot>
+
+      <button part="close-button" is="close-button" aria-label="Fechar"><svg role="presentation" stroke-width="2" focusable="false" width="24" height="24" class="icon icon-close" viewBox="0 0 24 24">
+        <path d="M17.658 6.343 6.344 17.657M17.658 17.657 6.344 6.343" stroke="currentColor"></path>
+      </svg></button>
+    </header>
+
+    <div part="body">
+      <slot></slot>
+    </div>
+
+    <footer part="footer">
+      <slot name="footer"></slot>
+    </footer>
+  </div>
+</template>
+
+<!-- POPOVER -->
+<template id="popover-default-template">
+  <button part="outside-close-button" is="close-button" aria-label="Fechar"><svg role="presentation" stroke-width="2" focusable="false" width="24" height="24" class="icon icon-close" viewBox="0 0 24 24">
+        <path d="M17.658 6.343 6.344 17.657M17.658 17.657 6.344 6.343" stroke="currentColor"></path>
+      </svg></button>
+
+  <div part="overlay"></div>
+
+  <div part="content">
+    <header part="title">
+      <slot name="title"></slot>
+    </header>
+
+    <div part="body">
+      <slot></slot>
+    </div>
+  </div>
+</template><a href="#main" class="skip-to-content sr-only">Pular para o conteúdo</a><header id="shopify-section-header" class="shopify-section shopify-section--header"><style>
+  :root {
+    --sticky-header-enabled:1;
+  }
+
+  #shopify-section-header {
+    --header-grid-template: "main-nav logo secondary-nav" / minmax(0, 1fr) auto minmax(0, 1fr);
+    --header-padding-block: var(--spacing-3);
+    --header-background-opacity: 0.8;
+    --header-background-blur-radius: 20px;
+    --header-transparent-text-color: 255 255 255;--header-logo-width: 130px;
+      --header-logo-height: 42px;position: sticky;
+    top: calc(var(--sticky-announcement-bar-enabled, 0) * var(--announcement-bar-height, 0px));
+    z-index: 10;
+  }@media screen and (max-width: 699px) {
+      .navigation-drawer {
+        --drawer-content-max-height: calc(100vh - (var(--spacing-2) * 2));
+      }
+    }@media screen and (min-width: 700px) {
+    #shopify-section-header {--header-logo-width: 155px;
+        --header-logo-height: 50px;--header-padding-block: var(--spacing-6);
+    }
+  }@media screen and (min-width: 1150px) {#shopify-section-header {
+        --header-grid-template: "logo main-nav secondary-nav" / minmax(0, 1fr) fit-content(70%) minmax(0, 1fr);
+      }
+    }</style>
+
+<height-observer variable="header">
+  <store-header class="header" hide-on-scroll="100" sticky>
+    <div class="header__wrapper"><div class="header__main-nav">
+        <div class="header__icon-list">
+          <button type="button" class="tap-area lg:hidden" aria-controls="header-sidebar-menu">
+            <span class="sr-only">Abrir menu de navegação</span><svg role="presentation" stroke-width="2" focusable="false" width="22" height="22" class="icon icon-hamburger" viewBox="0 0 22 22">
+        <path d="M1 5h20M1 11h20M1 17h20" stroke="currentColor" stroke-linecap="round"></path>
+      </svg></button>
+
+          <a href="/search" class="tap-area sm:hidden" aria-controls="search-drawer">
+            <span class="sr-only">Abrir pesquisa</span><svg role="presentation" stroke-width="2" focusable="false" width="22" height="22" class="icon icon-search" viewBox="0 0 22 22">
+        <circle cx="11" cy="10" r="7" fill="none" stroke="currentColor"></circle>
+        <path d="m16 15 3 3" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+      </svg></a><nav class="header__link-list justify-center wrap" role="navigation">
+              <ul class="contents" role="list">
+
+                  <li><details class="relative" is="dropdown-disclosure" trigger="click">
+                          <summary class="text-with-icon gap-2.5 bold link-faded-reverse" data-url="/collections/monte-seu-kit">PRODUTOS<svg role="presentation" focusable="false" width="10" height="7" class="icon icon-chevron-bottom" viewBox="0 0 10 7">
+        <path d="m1 1 4 4 4-4" fill="none" stroke="currentColor" stroke-width="2"></path>
+      </svg></summary>
+
+                          <div class="dropdown-menu">
+                            <ul class="contents" role="list"><li><a href="https://hidratei.com.br/products/hidratacao-capilar-hidratei-shampoo" class="dropdown-menu__item group" >
+                                      <span><span class="reversed-link">Shampoo</span></span>
+                                    </a></li><li><a href="/products/condicionador-hidratei-200ml" class="dropdown-menu__item group" >
+                                      <span><span class="reversed-link">Condicionador</span></span>
+                                    </a></li><li><a href="/products/shrp" class="dropdown-menu__item group" >
+                                      <span><span class="reversed-link">SHRP</span></span>
+                                    </a></li><li><a href="https://hidratei.com.br/products/hidratei-spray" class="dropdown-menu__item group" >
+                                      <span><span class="reversed-link">Leave - in</span></span>
+                                    </a></li><li><a href="/products/nutricao-capilar-serum-capilar-hidratei-sos" class="dropdown-menu__item group" >
+                                      <span><span class="reversed-link">Sérum SOS</span></span>
+                                    </a></li><li><a href="https://hidratei.com.br/products/hidratacao-capilar-hidratei-super-mascara" class="dropdown-menu__item group" >
+                                      <span><span class="reversed-link">Super Máscara</span></span>
+                                    </a></li><li><a href="https://hidratei.com.br/products/reconstrucao-capilar-hidratei-noite-tratamento-noturno-poderoso" class="dropdown-menu__item group" >
+                                      <span><span class="reversed-link">Tratamento Noturno</span></span>
+                                    </a></li><li><a href="/products/body-splash-hidratei-200ml" class="dropdown-menu__item group" >
+                                      <span><span class="reversed-link">Body Splash </span></span>
+                                    </a></li><li><a href="/collections/linha-antifrizz" class="dropdown-menu__item group" >
+                                      <span><span class="reversed-link">Linha Antifrizz</span></span>
+                                    </a></li><li><a href="/collections/linha-cachos" class="dropdown-menu__item group" >
+                                      <span><span class="reversed-link">Linha Cachos</span></span>
+                                    </a></li><li><a href="/collections/linha-kids" class="dropdown-menu__item group" >
+                                      <span><span class="reversed-link">Linha Kids</span></span>
+                                    </a></li><li><a href="/collections/linha-solidos" class="dropdown-menu__item group" >
+                                      <span><span class="reversed-link">Linha Sólidos</span></span>
+                                    </a></li></ul>
+                          </div>
+                        </details></li>
+
+                  <li><a href="/collections/monte-seu-kit" class="bold link-faded-reverse" >MONTE SEU KIT </a></li>
+
+                  <li><a href="/collections/mais-vendidos" class="bold link-faded-reverse" >MAIS VENDIDOS</a></li>
+
+                  <li><details class="relative" is="dropdown-disclosure" trigger="click">
+                          <summary class="text-with-icon gap-2.5 bold link-faded-reverse" >CRONOGRAMA CAPILAR<svg role="presentation" focusable="false" width="10" height="7" class="icon icon-chevron-bottom" viewBox="0 0 10 7">
+        <path d="m1 1 4 4 4-4" fill="none" stroke="currentColor" stroke-width="2"></path>
+      </svg></summary>
+
+                          <div class="dropdown-menu">
+                            <ul class="contents" role="list"><li><a href="/collections/nutricao" class="dropdown-menu__item group" >
+                                      <span><span class="reversed-link">Nutrição</span></span>
+                                    </a></li><li><a href="/collections/hidratacao" class="dropdown-menu__item group" >
+                                      <span><span class="reversed-link">Hidratação</span></span>
+                                    </a></li><li><a href="/collections/reconstrucao" class="dropdown-menu__item group" >
+                                      <span><span class="reversed-link">Reconstrução</span></span>
+                                    </a></li><li><a href="/collections/cronograma-capilar" class="dropdown-menu__item group" >
+                                      <span><span class="reversed-link">Tratamento Completo </span></span>
+                                    </a></li></ul>
+                          </div>
+                        </details></li>
+
+                  <li><a href="/collections/lancamentos" class="bold link-faded-reverse" >LANÇAMENTOS</a></li>
+
+                  <li><a href="/pages/avaliacoes" class="bold link-faded-reverse" >AVALIAÇÕES</a></li></ul>
+            </nav></div>
+      </div>
+        <a href="/" class="header__logo"><span class="sr-only">Hidratei</span><img src="//hidratei.com.br/cdn/shop/files/Logo.svg?v=1681472732&amp;width=365" alt="Logo Hidratei" srcset="//hidratei.com.br/cdn/shop/files/Logo.svg?v=1681472732&amp;width=155 155w, //hidratei.com.br/cdn/shop/files/Logo.svg?v=1681472732&amp;width=310 310w" width="365" height="117" sizes="155px" class="header__logo-image"></a>
+      
+<div class="header__secondary-nav"><div class="header__icon-list"><a href="/search" class="hidden tap-area sm:block" aria-controls="search-drawer">
+            <span class="sr-only">Abrir pesquisa</span><svg role="presentation" stroke-width="2" focusable="false" width="22" height="22" class="icon icon-search" viewBox="0 0 22 22">
+        <circle cx="11" cy="10" r="7" fill="none" stroke="currentColor"></circle>
+        <path d="m16 15 3 3" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+      </svg></a><a href="/cart" class="relative tap-area" >
+            <span class="sr-only">Abrir carrinho</span><svg role="presentation" stroke-width="2" focusable="false" width="22" height="22" class="icon icon-cart" viewBox="0 0 22 22">
+        <path fill="currentColor" fill-rule="evenodd" d="M17.5 19a1.5 1.5 0 110 3 1.5 1.5 0 010-3zm-10 0a1.5 1.5 0 110 3 1.5 1.5 0 010-3zM4 3a1 1 0 01.97.757L5.78 7H20a1 1 0 01.97 1.243l-2 8A1 1 0 0118 17H7a1 1 0 01-.97-.757L3.22 5H1.5a.5.5 0 01-.5-.5v-1a.5.5 0 01.5-.5zm14.72 6H6.28l1.5 6h9.44l1.5-6z"></path>
+       </svg>
+      
+<div class="header__cart-count">
+              <cart-count class="count-bubble " aria-hidden="true">9</cart-count>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </store-header>
+</height-observer><navigation-drawer mobile-opening="left" open-from="left" id="header-sidebar-menu" class="navigation-drawer drawer lg:hidden" >
+    <button is="close-button" aria-label="Fechar"><svg role="presentation" stroke-width="2" focusable="false" width="19" height="19" class="icon icon-close" viewBox="0 0 24 24">
+        <path d="M17.658 6.343 6.344 17.657M17.658 17.657 6.344 6.343" stroke="currentColor"></path>
+      </svg></button><div class="panel-list__wrapper">
+  <div class="panel">
+    <div class="panel__wrapper" >
+      <div class="panel__scroller v-stack gap-8"><ul class="v-stack gap-4">
+<li class="h3 sm:h4"><button class="text-with-icon w-full group justify-between" aria-expanded="false" data-panel="1-0">
+                  <span>PRODUTOS</span>
+                  <span class="circle-chevron group-hover:colors group-expanded:colors"><svg role="presentation" focusable="false" width="5" height="8" class="icon icon-chevron-right-small reverse-icon" viewBox="0 0 5 8">
+        <path d="m.75 7 3-3-3-3" fill="none" stroke="currentColor" stroke-width="1.5"></path>
+      </svg></span>
+                </button></li>
+<li class="h3 sm:h4"><a href="/collections/monte-seu-kit" class="group block w-full">
+                  <span><span class="reversed-link">MONTE SEU KIT </span></span>
+                </a></li>
+<li class="h3 sm:h4"><a href="/collections/mais-vendidos" class="group block w-full">
+                  <span><span class="reversed-link">MAIS VENDIDOS</span></span>
+                </a></li>
+<li class="h3 sm:h4"><button class="text-with-icon w-full group justify-between" aria-expanded="false" data-panel="1-1">
+                  <span>CRONOGRAMA CAPILAR</span>
+                  <span class="circle-chevron group-hover:colors group-expanded:colors"><svg role="presentation" focusable="false" width="5" height="8" class="icon icon-chevron-right-small reverse-icon" viewBox="0 0 5 8">
+        <path d="m.75 7 3-3-3-3" fill="none" stroke="currentColor" stroke-width="1.5"></path>
+      </svg></span>
+                </button></li>
+<li class="h3 sm:h4"><a href="/collections/lancamentos" class="group block w-full">
+                  <span><span class="reversed-link">LANÇAMENTOS</span></span>
+                </a></li>
+<li class="h3 sm:h4"><a href="/pages/avaliacoes" class="group block w-full">
+                  <span><span class="reversed-link">AVALIAÇÕES</span></span>
+                </a></li></ul></div><div class="panel-footer v-stack gap-5"><ul class="social-media " role="list"><li>
+      <a href="https://www.facebook.com/Hidratei" class="tap-area" target="_blank" rel="noopener" aria-label="Seguir em Facebook"><svg role="presentation" focusable="false" width="27" height="27" class="icon icon-facebook" viewBox="0 0 24 24">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M10.183 21.85v-8.868H7.2V9.526h2.983V6.982a4.17 4.17 0 0 1 4.44-4.572 22.33 22.33 0 0 1 2.667.144v3.084h-1.83a1.44 1.44 0 0 0-1.713 1.68v2.208h3.423l-.447 3.456h-2.97v8.868h-3.57Z" fill="currentColor"/>
+      </svg></a>
+    </li><li>
+      <a href="https://www.instagram.com/hidratei/" class="tap-area" target="_blank" rel="noopener" aria-label="Seguir em Instagram"><svg role="presentation" focusable="false" width="27" height="27" class="icon icon-instagram" viewBox="0 0 24 24">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.4c-2.607 0-2.934.011-3.958.058-1.022.046-1.72.209-2.33.446a4.705 4.705 0 0 0-1.7 1.107 4.706 4.706 0 0 0-1.108 1.7c-.237.611-.4 1.31-.446 2.331C2.41 9.066 2.4 9.392 2.4 12c0 2.607.011 2.934.058 3.958.046 1.022.209 1.72.446 2.33a4.706 4.706 0 0 0 1.107 1.7c.534.535 1.07.863 1.7 1.108.611.237 1.309.4 2.33.446 1.025.047 1.352.058 3.959.058s2.934-.011 3.958-.058c1.022-.046 1.72-.209 2.33-.446a4.706 4.706 0 0 0 1.7-1.107 4.706 4.706 0 0 0 1.108-1.7c.237-.611.4-1.31.446-2.33.047-1.025.058-1.352.058-3.959s-.011-2.934-.058-3.958c-.047-1.022-.209-1.72-.446-2.33a4.706 4.706 0 0 0-1.107-1.7 4.705 4.705 0 0 0-1.7-1.108c-.611-.237-1.31-.4-2.331-.446C14.934 2.41 14.608 2.4 12 2.4Zm0 1.73c2.563 0 2.867.01 3.88.056.935.042 1.443.199 1.782.33.448.174.768.382 1.104.718.336.336.544.656.718 1.104.131.338.287.847.33 1.783.046 1.012.056 1.316.056 3.879 0 2.563-.01 2.867-.056 3.88-.043.935-.199 1.444-.33 1.782a2.974 2.974 0 0 1-.719 1.104 2.974 2.974 0 0 1-1.103.718c-.339.131-.847.288-1.783.33-1.012.046-1.316.056-3.88.056-2.563 0-2.866-.01-3.878-.056-.936-.042-1.445-.199-1.783-.33a2.974 2.974 0 0 1-1.104-.718 2.974 2.974 0 0 1-.718-1.104c-.131-.338-.288-.847-.33-1.783-.047-1.012-.056-1.316-.056-3.879 0-2.563.01-2.867.056-3.88.042-.935.199-1.443.33-1.782.174-.448.382-.768.718-1.104a2.974 2.974 0 0 1 1.104-.718c.338-.131.847-.288 1.783-.33C9.133 4.14 9.437 4.13 12 4.13Zm0 11.07a3.2 3.2 0 1 1 0-6.4 3.2 3.2 0 0 1 0 6.4Zm0-8.13a4.93 4.93 0 1 0 0 9.86 4.93 4.93 0 0 0 0-9.86Zm6.276-.194a1.152 1.152 0 1 1-2.304 0 1.152 1.152 0 0 1 2.304 0Z" fill="currentColor"/>
+      </svg></a>
+    </li><li>
+      <a href="https://www.youtube.com/channel/UCsEof3sJCzkj5OPNeKv43aA" class="tap-area" target="_blank" rel="noopener" aria-label="Seguir em YouTube"><svg role="presentation" focusable="false" width="27" height="27" class="icon icon-youtube" viewBox="0 0 24 24">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M20.44 5.243c.929.244 1.66.963 1.909 1.876.451 1.654.451 5.106.451 5.106s0 3.452-.451 5.106a2.681 2.681 0 0 1-1.91 1.876c-1.684.443-8.439.443-8.439.443s-6.754 0-8.439-.443a2.682 2.682 0 0 1-1.91-1.876c-.45-1.654-.45-5.106-.45-5.106s0-3.452.45-5.106a2.681 2.681 0 0 1 1.91-1.876c1.685-.443 8.44-.443 8.44-.443s6.754 0 8.438.443Zm-5.004 6.982L9.792 15.36V9.091l5.646 3.134Z" fill="currentColor"/>
+      </svg></a>
+    </li><li>
+      <a href="https://www.tiktok.com/@hidratei?_t=8Vqgi80UAuz&_r=1" class="tap-area" target="_blank" rel="noopener" aria-label="Seguir em TikTok"><svg role="presentation" focusable="false" width="27" height="27" class="icon icon-tiktok" viewBox="0 0 24 24">
+        <path d="M20.027 10.168a5.125 5.125 0 0 1-4.76-2.294v7.893a5.833 5.833 0 1 1-5.834-5.834c.122 0 .241.011.361.019v2.874c-.12-.014-.237-.036-.36-.036a2.977 2.977 0 0 0 0 5.954c1.644 0 3.096-1.295 3.096-2.94L12.56 2.4h2.75a5.122 5.122 0 0 0 4.72 4.573v3.195" fill="currentColor"/>
+      </svg></a>
+    </li></ul></div></div>
+  </div><div class="panel gap-8">
+      <div class="panel__wrapper"  hidden>
+                  <ul class="v-stack gap-4">
+                    <li class="lg:hidden">
+                      <button class="text-with-icon h6 text-subdued" data-panel="0"><svg role="presentation" focusable="false" width="7" height="10" class="icon icon-chevron-left reverse-icon" viewBox="0 0 7 10">
+        <path d="M6 1 2 5l4 4" fill="none" stroke="currentColor" stroke-width="2"></path>
+      </svg>PRODUTOS
+                      </button>
+                    </li><li class="h3 sm:h4"><a class="group block w-full" href="https://hidratei.com.br/products/hidratacao-capilar-hidratei-shampoo"><span><span class="reversed-link">Shampoo</span></span>
+                            </a></li><li class="h3 sm:h4"><a class="group block w-full" href="/products/condicionador-hidratei-200ml"><span><span class="reversed-link">Condicionador</span></span>
+                            </a></li><li class="h3 sm:h4"><a class="group block w-full" href="/products/shrp"><span><span class="reversed-link">SHRP</span></span>
+                            </a></li><li class="h3 sm:h4"><a class="group block w-full" href="https://hidratei.com.br/products/hidratei-spray"><span><span class="reversed-link">Leave - in</span></span>
+                            </a></li><li class="h3 sm:h4"><a class="group block w-full" href="/products/nutricao-capilar-serum-capilar-hidratei-sos"><span><span class="reversed-link">Sérum SOS</span></span>
+                            </a></li><li class="h3 sm:h4"><a class="group block w-full" href="https://hidratei.com.br/products/hidratacao-capilar-hidratei-super-mascara"><span><span class="reversed-link">Super Máscara</span></span>
+                            </a></li><li class="h3 sm:h4"><a class="group block w-full" href="https://hidratei.com.br/products/reconstrucao-capilar-hidratei-noite-tratamento-noturno-poderoso"><span><span class="reversed-link">Tratamento Noturno</span></span>
+                            </a></li><li class="h3 sm:h4"><a class="group block w-full" href="/products/body-splash-hidratei-200ml"><span><span class="reversed-link">Body Splash </span></span>
+                            </a></li><li class="h3 sm:h4"><a class="group block w-full" href="/collections/linha-antifrizz"><span><span class="reversed-link">Linha Antifrizz</span></span>
+                            </a></li><li class="h3 sm:h4"><a class="group block w-full" href="/collections/linha-cachos"><span><span class="reversed-link">Linha Cachos</span></span>
+                            </a></li><li class="h3 sm:h4"><a class="group block w-full" href="/collections/linha-kids"><span><span class="reversed-link">Linha Kids</span></span>
+                            </a></li><li class="h3 sm:h4"><a class="group block w-full" href="/collections/linha-solidos"><span><span class="reversed-link">Linha Sólidos</span></span>
+                            </a></li></ul></div><div class="panel__wrapper"  hidden>
+                  <ul class="v-stack gap-4">
+                    <li class="lg:hidden">
+                      <button class="text-with-icon h6 text-subdued" data-panel="0"><svg role="presentation" focusable="false" width="7" height="10" class="icon icon-chevron-left reverse-icon" viewBox="0 0 7 10">
+        <path d="M6 1 2 5l4 4" fill="none" stroke="currentColor" stroke-width="2"></path>
+      </svg>CRONOGRAMA CAPILAR
+                      </button>
+                    </li><li class="h3 sm:h4"><a class="group block w-full" href="/collections/nutricao"><span><span class="reversed-link">Nutrição</span></span>
+                            </a></li><li class="h3 sm:h4"><a class="group block w-full" href="/collections/hidratacao"><span><span class="reversed-link">Hidratação</span></span>
+                            </a></li><li class="h3 sm:h4"><a class="group block w-full" href="/collections/reconstrucao"><span><span class="reversed-link">Reconstrução</span></span>
+                            </a></li><li class="h3 sm:h4"><a class="group block w-full" href="/collections/cronograma-capilar"><span><span class="reversed-link">Tratamento Completo </span></span>
+                            </a></li></ul></div>
+    </div></div></navigation-drawer><script>
+  (() => {
+    document.documentElement.style.setProperty(`--header-height`, `${document.getElementById('shopify-section-header').getBoundingClientRect().height.toFixed(1)}px`);
+  })();
+</script>
+
+</header><aside id="shopify-section-announcement-bar" class="shopify-section shopify-section--announcement-bar"><style>
+    :root {
+      --sticky-announcement-bar-enabled:0;
+    }</style><height-observer variable="announcement-bar">
+    <div class="announcement-bar bg-gradient text-custom"style="--gradient: linear-gradient(353deg, rgba(137, 221, 242, 1) 0.719%, rgba(0, 172, 216, 1) 46%, rgba(137, 221, 242, 1) 98.561%); --text-color: 255 255 255;"><div class="container">
+          <div class="announcement-bar__wrapper justify-center"><announcement-bar swipeable id="announcement-bar" class="announcement-bar__static-list"><p class="bold text-xs " >FRETE GRÁTIS ACIMA DE R$ 199,00
+</p></announcement-bar></div>
+        </div></div>
+  </height-observer></aside><div id="shopify-section-newsletter-popup" class="shopify-section shopify-section--popup"></div><div id="shopify-section-search-drawer" class="shopify-section"><search-drawer  class="search-drawer search-drawer--full drawer drawer--lg" id="search-drawer">
+  <form action="/search" method="get" class="v-stack gap-5 sm:gap-8" role="search">
+    <div class="search-input">
+      <input type="search" name="q" placeholder="Pesquisar por..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" aria-label="Pesquisar">
+      <button type="reset" class="text-subdued">Limpar</button>
+      <button type="button" is="close-button">
+        <span class="sr-only">Fechar</span><svg role="presentation" stroke-width="2" focusable="false" width="24" height="24" class="icon icon-close" viewBox="0 0 24 24">
+        <path d="M17.658 6.343 6.344 17.657M17.658 17.657 6.344 6.343" stroke="currentColor"></path>
+      </svg></button>
+    </div>
+
+    
+<input type="hidden" name="type" value="product">
+    <input type="hidden" name="options[prefix]" value="last">
+    <input type="hidden" name="options[unavailable_products]" value="hide">
+
+    <predictive-search class="predictive-search" section-id="search-drawer" resources="product" unavailable-products="hide"><div slot="idle">
+          <div class="v-stack gap-3 sm:gap-4"><ul class="v-stack gap-2 sm:gap-3" role="list"><li>
+                  <a href="/blogs/cabelos" class="h5">
+                    <span class="reversed-link hover:show">Blog</span>
+                  </a>
+                </li><li>
+                  <a href="/collections/linha-kids" class="h5">
+                    <span class="reversed-link hover:show">Linha Kids</span>
+                  </a>
+                </li><li>
+                  <a href="/collections/kits-especiais" class="h5">
+                    <span class="reversed-link hover:show">Kits Especiais</span>
+                  </a>
+                </li><li>
+                  <a href="/collections/linha-solidos" class="h5">
+                    <span class="reversed-link hover:show">Linha Sólidos</span>
+                  </a>
+                </li><li>
+                  <a href="/collections/linha-cachos" class="h5">
+                    <span class="reversed-link hover:show">Linhas</span>
+                  </a>
+                </li><li>
+                  <a href="/collections/leave-in" class="h5">
+                    <span class="reversed-link hover:show">Leave -in</span>
+                  </a>
+                </li></ul>
+          </div>
+        </div><div slot="results"></div>
+
+      <div slot="loading">
+        <div class="v-stack gap-5 sm:gap-6 md:hidden">
+          <div class="h-stack gap-4 sm:gap-5"><span class="skeleton skeleton--tab"></span></div>
+
+          <div class="v-stack gap-4 sm:gap-6"><div class="h-stack align-center gap-5 sm:gap-6">
+                <span class="skeleton skeleton--thumbnail"></span>
+
+                <div class="v-stack gap-3 w-full">
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 20%"></span>
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 80%"></span>
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 40%"></span>
+                </div>
+              </div><div class="h-stack align-center gap-5 sm:gap-6">
+                <span class="skeleton skeleton--thumbnail"></span>
+
+                <div class="v-stack gap-3 w-full">
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 20%"></span>
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 80%"></span>
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 40%"></span>
+                </div>
+              </div><div class="h-stack align-center gap-5 sm:gap-6">
+                <span class="skeleton skeleton--thumbnail"></span>
+
+                <div class="v-stack gap-3 w-full">
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 20%"></span>
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 80%"></span>
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 40%"></span>
+                </div>
+              </div><div class="h-stack align-center gap-5 sm:gap-6">
+                <span class="skeleton skeleton--thumbnail"></span>
+
+                <div class="v-stack gap-3 w-full">
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 20%"></span>
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 80%"></span>
+                  <span class="skeleton skeleton--text" style="--skeleton-text-width: 40%"></span>
+                </div>
+              </div></div>
+        </div><div class="predictive-search__skeleton-full-width hidden"><div class="v-stack gap-8">
+                <span class="skeleton skeleton--tab"></span><div class="h-stack align-center gap-5 sm:gap-6">
+                    <span class="skeleton skeleton--thumbnail"></span>
+
+                    <div class="v-stack gap-3 w-full">
+                      <span class="skeleton skeleton--text" style="--skeleton-text-width: 20%"></span>
+                      <span class="skeleton skeleton--text" style="--skeleton-text-width: 80%"></span>
+                      <span class="skeleton skeleton--text" style="--skeleton-text-width: 40%"></span>
+                    </div>
+                  </div><div class="h-stack align-center gap-5 sm:gap-6">
+                    <span class="skeleton skeleton--thumbnail"></span>
+
+                    <div class="v-stack gap-3 w-full">
+                      <span class="skeleton skeleton--text" style="--skeleton-text-width: 20%"></span>
+                      <span class="skeleton skeleton--text" style="--skeleton-text-width: 80%"></span>
+                      <span class="skeleton skeleton--text" style="--skeleton-text-width: 40%"></span>
+                    </div>
+                  </div><div class="h-stack align-center gap-5 sm:gap-6">
+                    <span class="skeleton skeleton--thumbnail"></span>
+
+                    <div class="v-stack gap-3 w-full">
+                      <span class="skeleton skeleton--text" style="--skeleton-text-width: 20%"></span>
+                      <span class="skeleton skeleton--text" style="--skeleton-text-width: 80%"></span>
+                      <span class="skeleton skeleton--text" style="--skeleton-text-width: 40%"></span>
+                    </div>
+                  </div><div class="h-stack align-center gap-5 sm:gap-6">
+                    <span class="skeleton skeleton--thumbnail"></span>
+
+                    <div class="v-stack gap-3 w-full">
+                      <span class="skeleton skeleton--text" style="--skeleton-text-width: 20%"></span>
+                      <span class="skeleton skeleton--text" style="--skeleton-text-width: 80%"></span>
+                      <span class="skeleton skeleton--text" style="--skeleton-text-width: 40%"></span>
+                    </div>
+                  </div></div></div></div>
+    </predictive-search>
+  </form>
+</search-drawer>
+
+</div><main role="main" id="main" class="anchor">
+      <section id="shopify-section-template--18651975680317__main" class="shopify-section shopify-section--main-cart"><div class="container"><div class="page-spacer">
+      <div class="cart">
+        <div class="cart-header">
+          <h1 class="h2">Carrinho</h1><free-shipping-bar class="free-shipping-bar" threshold="15900.0" total-price="121780" reached-message="Você ganhou FRETE GRÁTIS 📦💙" unreached-message="Compre mais {{ remaining_amount }} e ganhe frete grátis!"><span>&nbsp;</span>
+
+  <progress-bar class="progress-bar" role="progressbar" aria-valuemin="0" style="--progress: 0"></progress-bar>
+</free-shipping-bar></div>
+
+        <div class="cart-order">
+          <div class="cart-order__summary"><table class="order-summary">
+              <thead class="order-summary__header">
+                <tr>
+                  <th>Produto</th>
+                  <th class="w-0">Quantidade</th>
+                  <th class="text-end">Total</th>
+                </tr>
+              </thead>
+
+              <tbody class="order-summary__body"><tr>
+                    <td><line-item class="line-item"><div class="line-item__media-wrapper"><img src="//hidratei.com.br/cdn/shop/files/Shampoo_1_5947c652-d480-4326-8542-92914f969e25.png?v=1684525821&amp;width=1080" alt="" srcset="//hidratei.com.br/cdn/shop/files/Shampoo_1_5947c652-d480-4326-8542-92914f969e25.png?v=1684525821&amp;width=80 80w, //hidratei.com.br/cdn/shop/files/Shampoo_1_5947c652-d480-4326-8542-92914f969e25.png?v=1684525821&amp;width=96 96w, //hidratei.com.br/cdn/shop/files/Shampoo_1_5947c652-d480-4326-8542-92914f969e25.png?v=1684525821&amp;width=160 160w, //hidratei.com.br/cdn/shop/files/Shampoo_1_5947c652-d480-4326-8542-92914f969e25.png?v=1684525821&amp;width=192 192w" width="1080" height="1350" loading="lazy" sizes="(max-width: 740px) 80px, 96px" class="line-item__media rounded-xs"><pill-loader class="pill-loader"></pill-loader>
+    </div><div class="line-item__info">
+    <div class="v-stack gap-0.5"><a href="/products/hidratacao-capilar-hidratei-shampoo?variant=41269727035439" class="bold">
+          <span class="reversed-link hover:show">Shampoo Hidratei</span>
+        </a><price-list  class="price-list  " ><sale-price class="text-subdued">
+      <span class="sr-only">Preço promocional</span>R$ 69,90</sale-price></price-list></div><div class="text-sm text-subdued sm:hidden"><line-item-quantity class="h-stack justify-center gap-3">
+          <input class="quantity-input" type="text" is="quantity-input" inputmode="numeric"  data-line-key="41269727035439:fdeee9e9b750b0861995866f13a75800" aria-label="Mudar quantidade" value="1">
+
+          <span class="text-xs">
+            <a href="/cart/change?id=41269727035439:fdeee9e9b750b0861995866f13a75800&quantity=0" class="link">Remover</a>
+          </span>
+        </line-item-quantity></div></div></line-item></td>
+
+                    <td class="hidden align-center text-center text-subdued sm:table-cell">
+                      <line-item-quantity class="v-stack justify-center gap-2">
+                        <input class="quantity-input" type="text" is="quantity-input" inputmode="numeric"  data-line-key="41269727035439:fdeee9e9b750b0861995866f13a75800" aria-label="Mudar quantidade" value="1">
+
+                        <span class="text-xs">
+                          <a href="/cart/change?id=41269727035439:fdeee9e9b750b0861995866f13a75800&quantity=0" class="link">Remover</a>
+                        </span>
+                      </line-item-quantity>
+                    </td>
+
+                    <td class="hidden align-center text-subdued text-end sm:table-cell">R$ 69,90</td>
+                  </tr><tr>
+                    <td><line-item class="line-item"><div class="line-item__media-wrapper"><img src="//hidratei.com.br/cdn/shop/files/Spraytravel_1.png?v=1684763992&amp;width=1080" alt="" srcset="//hidratei.com.br/cdn/shop/files/Spraytravel_1.png?v=1684763992&amp;width=80 80w, //hidratei.com.br/cdn/shop/files/Spraytravel_1.png?v=1684763992&amp;width=96 96w, //hidratei.com.br/cdn/shop/files/Spraytravel_1.png?v=1684763992&amp;width=160 160w, //hidratei.com.br/cdn/shop/files/Spraytravel_1.png?v=1684763992&amp;width=192 192w" width="1080" height="1350" loading="lazy" sizes="(max-width: 740px) 80px, 96px" class="line-item__media rounded-xs"><pill-loader class="pill-loader"></pill-loader>
+    </div><div class="line-item__info">
+    <div class="v-stack gap-0.5"><a href="/products/leave-in-hidratei-60-ml?variant=41269727789103" class="bold">
+          <span class="reversed-link hover:show">Leave-in - Travel Size</span>
+        </a><price-list  class="price-list  " ><sale-price class="text-subdued">
+      <span class="sr-only">Preço promocional</span>R$ 49,90</sale-price></price-list></div><div class="text-sm text-subdued sm:hidden"><line-item-quantity class="h-stack justify-center gap-3">
+          <input class="quantity-input" type="text" is="quantity-input" inputmode="numeric"  data-line-key="41269727789103:24346966331dc1a4f48a692e7ff63e04" aria-label="Mudar quantidade" value="1">
+
+          <span class="text-xs">
+            <a href="/cart/change?id=41269727789103:24346966331dc1a4f48a692e7ff63e04&quantity=0" class="link">Remover</a>
+          </span>
+        </line-item-quantity></div></div></line-item></td>
+
+                    <td class="hidden align-center text-center text-subdued sm:table-cell">
+                      <line-item-quantity class="v-stack justify-center gap-2">
+                        <input class="quantity-input" type="text" is="quantity-input" inputmode="numeric"  data-line-key="41269727789103:24346966331dc1a4f48a692e7ff63e04" aria-label="Mudar quantidade" value="1">
+
+                        <span class="text-xs">
+                          <a href="/cart/change?id=41269727789103:24346966331dc1a4f48a692e7ff63e04&quantity=0" class="link">Remover</a>
+                        </span>
+                      </line-item-quantity>
+                    </td>
+
+                    <td class="hidden align-center text-subdued text-end sm:table-cell">R$ 49,90</td>
+                  </tr><tr>
+                    <td><line-item class="line-item"><div class="line-item__media-wrapper"><img src="//hidratei.com.br/cdn/shop/products/Mascarasolida_1_9b7d00fc-c684-4b97-b678-f4db5264c937.png?v=1689552736&amp;width=1080" alt="" srcset="//hidratei.com.br/cdn/shop/products/Mascarasolida_1_9b7d00fc-c684-4b97-b678-f4db5264c937.png?v=1689552736&amp;width=80 80w, //hidratei.com.br/cdn/shop/products/Mascarasolida_1_9b7d00fc-c684-4b97-b678-f4db5264c937.png?v=1689552736&amp;width=96 96w, //hidratei.com.br/cdn/shop/products/Mascarasolida_1_9b7d00fc-c684-4b97-b678-f4db5264c937.png?v=1689552736&amp;width=160 160w, //hidratei.com.br/cdn/shop/products/Mascarasolida_1_9b7d00fc-c684-4b97-b678-f4db5264c937.png?v=1689552736&amp;width=192 192w" width="1080" height="1350" loading="lazy" sizes="(max-width: 740px) 80px, 96px" class="line-item__media rounded-xs"><pill-loader class="pill-loader"></pill-loader>
+    </div><div class="line-item__info">
+    <div class="v-stack gap-0.5"><a href="/products/brinde-solida-mascara-hidratei1-1?variant=45702855754045" class="bold">
+          <span class="reversed-link hover:show">BRINDE</span>
+        </a><price-list  class="price-list  " ><sale-price class="text-subdued">
+      <span class="sr-only">Preço promocional</span>R$ 0,00</sale-price></price-list></div><ul class="list-disc"><li class="text-sm text-subdued">:: Brinde Grátis
+</li></ul><div class="text-sm text-subdued sm:hidden"><line-item-quantity class="h-stack justify-center gap-3">
+          <input class="quantity-input" type="text" is="quantity-input" inputmode="numeric"  data-line-key="45702855754045:83f7bba886cbfda0e302be93f236dca8" aria-label="Mudar quantidade" value="1">
+
+          <span class="text-xs">
+            <a href="/cart/change?id=45702855754045:83f7bba886cbfda0e302be93f236dca8&quantity=0" class="link">Remover</a>
+          </span>
+        </line-item-quantity></div></div></line-item></td>
+
+                    <td class="hidden align-center text-center text-subdued sm:table-cell">
+                      <line-item-quantity class="v-stack justify-center gap-2">
+                        <input class="quantity-input" type="text" is="quantity-input" inputmode="numeric"  data-line-key="45702855754045:83f7bba886cbfda0e302be93f236dca8" aria-label="Mudar quantidade" value="1">
+
+                        <span class="text-xs">
+                          <a href="/cart/change?id=45702855754045:83f7bba886cbfda0e302be93f236dca8&quantity=0" class="link">Remover</a>
+                        </span>
+                      </line-item-quantity>
+                    </td>
+
+                    <td class="hidden align-center text-subdued text-end sm:table-cell">R$ 0,00</td>
+                  </tr><tr>
+                    <td><line-item class="line-item"><div class="line-item__media-wrapper"><img src="//hidratei.com.br/cdn/shop/files/Noite_1.png?v=1684764486&amp;width=1080" alt="" srcset="//hidratei.com.br/cdn/shop/files/Noite_1.png?v=1684764486&amp;width=80 80w, //hidratei.com.br/cdn/shop/files/Noite_1.png?v=1684764486&amp;width=96 96w, //hidratei.com.br/cdn/shop/files/Noite_1.png?v=1684764486&amp;width=160 160w, //hidratei.com.br/cdn/shop/files/Noite_1.png?v=1684764486&amp;width=192 192w" width="1080" height="1350" loading="lazy" sizes="(max-width: 740px) 80px, 96px" class="line-item__media rounded-xs"><pill-loader class="pill-loader"></pill-loader>
+    </div><div class="line-item__info">
+    <div class="v-stack gap-0.5"><a href="/products/reconstrucao-capilar-hidratei-noite-tratamento-noturno-poderoso?variant=41269727166511" class="bold">
+          <span class="reversed-link hover:show">Hidratei Noite</span>
+        </a><price-list  class="price-list  " ><sale-price class="text-subdued">
+      <span class="sr-only">Preço promocional</span>R$ 588,00</sale-price></price-list></div><div class="text-sm text-subdued sm:hidden"><line-item-quantity class="h-stack justify-center gap-3">
+          <input class="quantity-input" type="text" is="quantity-input" inputmode="numeric"  data-line-key="41269727166511:a8a5d8390e80c0d92c70f996e4e7825d" aria-label="Mudar quantidade" value="4">
+
+          <span class="text-xs">
+            <a href="/cart/change?id=41269727166511:a8a5d8390e80c0d92c70f996e4e7825d&quantity=0" class="link">Remover</a>
+          </span>
+        </line-item-quantity></div></div></line-item></td>
+
+                    <td class="hidden align-center text-center text-subdued sm:table-cell">
+                      <line-item-quantity class="v-stack justify-center gap-2">
+                        <input class="quantity-input" type="text" is="quantity-input" inputmode="numeric"  data-line-key="41269727166511:a8a5d8390e80c0d92c70f996e4e7825d" aria-label="Mudar quantidade" value="4">
+
+                        <span class="text-xs">
+                          <a href="/cart/change?id=41269727166511:a8a5d8390e80c0d92c70f996e4e7825d&quantity=0" class="link">Remover</a>
+                        </span>
+                      </line-item-quantity>
+                    </td>
+
+                    <td class="hidden align-center text-subdued text-end sm:table-cell">R$ 588,00</td>
+                  </tr><tr>
+                    <td><line-item class="line-item"><div class="line-item__media-wrapper"><img src="//hidratei.com.br/cdn/shop/files/Boosterdefinicao_1.png?v=1689793973&amp;width=1080" alt="" srcset="//hidratei.com.br/cdn/shop/files/Boosterdefinicao_1.png?v=1689793973&amp;width=80 80w, //hidratei.com.br/cdn/shop/files/Boosterdefinicao_1.png?v=1689793973&amp;width=96 96w, //hidratei.com.br/cdn/shop/files/Boosterdefinicao_1.png?v=1689793973&amp;width=160 160w, //hidratei.com.br/cdn/shop/files/Boosterdefinicao_1.png?v=1689793973&amp;width=192 192w" width="1080" height="1350" loading="lazy" sizes="(max-width: 740px) 80px, 96px" class="line-item__media rounded-xs"><pill-loader class="pill-loader"></pill-loader>
+    </div><div class="line-item__info">
+    <div class="v-stack gap-0.5"><a href="/products/kit-noite-e-dia?variant=45769180381501" class="bold">
+          <span class="reversed-link hover:show">Kit Noite e Dia</span>
+        </a><price-list  class="price-list  " ><sale-price class="text-subdued">
+      <span class="sr-only">Preço promocional</span>R$ 510,00</sale-price></price-list></div><div class="text-sm text-subdued sm:hidden"><line-item-quantity class="h-stack justify-center gap-3">
+          <input class="quantity-input" type="text" is="quantity-input" inputmode="numeric"  data-line-key="45769180381501:4cf632cbad5ce5d321e88d502019f5a5" aria-label="Mudar quantidade" value="2">
+
+          <span class="text-xs">
+            <a href="/cart/change?id=45769180381501:4cf632cbad5ce5d321e88d502019f5a5&quantity=0" class="link">Remover</a>
+          </span>
+        </line-item-quantity></div></div></line-item></td>
+
+                    <td class="hidden align-center text-center text-subdued sm:table-cell">
+                      <line-item-quantity class="v-stack justify-center gap-2">
+                        <input class="quantity-input" type="text" is="quantity-input" inputmode="numeric"  data-line-key="45769180381501:4cf632cbad5ce5d321e88d502019f5a5" aria-label="Mudar quantidade" value="2">
+
+                        <span class="text-xs">
+                          <a href="/cart/change?id=45769180381501:4cf632cbad5ce5d321e88d502019f5a5&quantity=0" class="link">Remover</a>
+                        </span>
+                      </line-item-quantity>
+                    </td>
+
+                    <td class="hidden align-center text-subdued text-end sm:table-cell">R$ 510,00</td>
+                  </tr></tbody>
+            </table></div>
+
+          <safe-sticky class="cart-order__recap v-stack gap-6">
+            <form action="/cart" method="POST" class="cart-form rounded"><div class="cart-form__totals v-stack gap-2" ><div class="h-stack gap-4 justify-between">
+                        <span class="text-subdued">Subtotal</span>
+                        <span class="text-subdued">R$ 1.217,80</span>
+                      </div>
+
+                      
+
+                      <div class="h-stack gap-4 justify-between">
+                        <span class="h5">Total</span>
+                        <span class="h5">R$ 1.217,80 </span>
+                      </div></div><button type="button" class="button button--xl w-full" onclick="yampiClick()">
+                      Finalizar pedido                    
+                    </button></form><div class="v-stack gap-4">
+                <span class="text-xs text-subdued text-center">Aceitamos</span>
+
+                <div class="h-stack gap-2 wrap justify-center"><svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 38 24" width="38" height="24" aria-labelledby="pi-american_express"><title id="pi-american_express">American Express</title><g fill="none"><path fill="#000" d="M35,0 L3,0 C1.3,0 0,1.3 0,3 L0,21 C0,22.7 1.4,24 3,24 L35,24 C36.7,24 38,22.7 38,21 L38,3 C38,1.3 36.6,0 35,0 Z" opacity=".07"/><path fill="#006FCF" d="M35,1 C36.1,1 37,1.9 37,3 L37,21 C37,22.1 36.1,23 35,23 L3,23 C1.9,23 1,22.1 1,21 L1,3 C1,1.9 1.9,1 3,1 L35,1"/><path fill="#FFF" d="M8.971,10.268 L9.745,12.144 L8.203,12.144 L8.971,10.268 Z M25.046,10.346 L22.069,10.346 L22.069,11.173 L24.998,11.173 L24.998,12.412 L22.075,12.412 L22.075,13.334 L25.052,13.334 L25.052,14.073 L27.129,11.828 L25.052,9.488 L25.046,10.346 L25.046,10.346 Z M10.983,8.006 L14.978,8.006 L15.865,9.941 L16.687,8 L27.057,8 L28.135,9.19 L29.25,8 L34.013,8 L30.494,11.852 L33.977,15.68 L29.143,15.68 L28.065,14.49 L26.94,15.68 L10.03,15.68 L9.536,14.49 L8.406,14.49 L7.911,15.68 L4,15.68 L7.286,8 L10.716,8 L10.983,8.006 Z M19.646,9.084 L17.407,9.084 L15.907,12.62 L14.282,9.084 L12.06,9.084 L12.06,13.894 L10,9.084 L8.007,9.084 L5.625,14.596 L7.18,14.596 L7.674,13.406 L10.27,13.406 L10.764,14.596 L13.484,14.596 L13.484,10.661 L15.235,14.602 L16.425,14.602 L18.165,10.673 L18.165,14.603 L19.623,14.603 L19.647,9.083 L19.646,9.084 Z M28.986,11.852 L31.517,9.084 L29.695,9.084 L28.094,10.81 L26.546,9.084 L20.652,9.084 L20.652,14.602 L26.462,14.602 L28.076,12.864 L29.624,14.602 L31.499,14.602 L28.987,11.852 L28.986,11.852 Z"/></g></svg>
+<svg viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-boleto"><title id="pi-boleto">Boleto</title><path fill="#fff" d="M35.7 23.965H2.3a2.307 2.307 0 0 1-2.3-2.3v-19.4C0 1 1.035-.035 2.3-.035h33.4c1.265 0 2.3 1.035 2.3 2.3v19.4c0 1.265-1.035 2.3-2.3 2.3z"/><path fill="#A7A8AB" d="M35.564 23.965H2.436c-1.344 0-2.436-1.077-2.436-2.4v-19.2c0-1.323 1.092-2.4 2.436-2.4h33.128c1.344 0 2.436 1.077 2.436 2.4v19.2c0 1.323-1.092 2.4-2.436 2.4zM2.436.925c-.806 0-1.462.646-1.462 1.44v19.2c0 .794.656 1.44 1.462 1.44h33.128c.806 0 1.462-.646 1.462-1.44v-19.2c0-.794-.656-1.44-1.462-1.44H2.436z" opacity=".25"/><path d="M8.079 4.945h.7v6.298h-.7zm-1.83 0h.7v6.298h-.7zm7.256 0h1.901v6.298h-1.901zm9.715 0h.95v6.298h-.95zm2.324 0h.95v6.298h-.95zm3.804 0h1.221v6.298h-1.221zm-1.375 0h.395v6.298h-.395zm-6.389 0h.395v6.298h-.395zm-.845 0h.395v6.298h-.395zm-2.746 0h.395v6.298h-.395zm-6.31 0h.395v6.298h-.395zm-1.163 0h.733v6.298h-.733zM6.249 19.3v-6.478H8.68c.495 0 .891.065 1.191.196.299.131.532.333.701.606.17.271.255.556.255.855 0 .276-.075.537-.225.781a1.604 1.604 0 0 1-.679.593c.392.115.694.311.903.588.211.276.317.603.317.98 0 .305-.065.587-.193.847a1.644 1.644 0 0 1-.475.603c-.189.14-.425.247-.709.32a4.328 4.328 0 0 1-1.046.109H6.248zm.86-3.755H8.51c.38 0 .653-.026.817-.075a.903.903 0 0 0 .493-.324.936.936 0 0 0 .166-.567 1.03 1.03 0 0 0-.155-.568c-.103-.164-.25-.278-.442-.338s-.52-.09-.985-.09H7.109v1.963zm0 2.995h1.614c.277 0 .472-.011.585-.032.196-.035.362-.094.495-.176a.946.946 0 0 0 .327-.362c.086-.158.128-.341.128-.547 0-.243-.062-.452-.187-.632a.978.978 0 0 0-.516-.377c-.219-.072-.535-.109-.947-.109H7.109v2.235zm4.813-1.588c0-.867.241-1.509.725-1.927.403-.347.896-.52 1.476-.52.644 0 1.172.211 1.582.633.409.421.614 1.004.614 1.748 0 .603-.09 1.077-.271 1.422a1.92 1.92 0 0 1-.792.805 2.292 2.292 0 0 1-1.132.286c-.657 0-1.188-.21-1.594-.63-.406-.421-.608-1.027-.608-1.817zm.814.002c0 .6.131 1.05.394 1.347.264.299.594.448.994.448.395 0 .724-.149.988-.449.262-.3.394-.757.394-1.371 0-.579-.133-1.018-.397-1.315a1.261 1.261 0 0 0-.985-.448c-.4 0-.73.148-.994.445-.262.297-.394.745-.394 1.344zm4.498 2.346v-6.478h.796V19.3h-.796zm5.231-1.52l.823.109c-.128.478-.368.85-.718 1.114-.35.264-.796.397-1.341.397-.685 0-1.227-.211-1.629-.633-.401-.421-.602-1.013-.602-1.775 0-.787.202-1.399.608-1.834.406-.436.932-.653 1.579-.653.626 0 1.137.213 1.534.639.397.427.596 1.027.596 1.8l-.004.211h-3.497c.03.514.175.909.437 1.182a1.3 1.3 0 0 0 .979.41c.291 0 .54-.077.745-.231.207-.154.369-.4.49-.737zm-2.606-1.276h2.615c-.035-.395-.136-.691-.3-.888a1.216 1.216 0 0 0-.983-.46c-.365 0-.671.122-.92.366-.247.244-.385.572-.412.982zm6.164 2.086l.109.703a2.951 2.951 0 0 1-.599.071c-.288 0-.511-.045-.671-.137-.158-.092-.27-.211-.335-.36s-.097-.463-.097-.941v-2.705h-.588v-.615h.588v-1.161l.796-.478v1.639h.796v.615h-.796v2.751c0 .228.014.374.042.439a.324.324 0 0 0 .136.155.53.53 0 0 0 .271.057l.347-.032zm.487-1.638c0-.867.241-1.509.725-1.927.403-.347.896-.52 1.476-.52.644 0 1.172.211 1.582.633.409.421.614 1.004.614 1.748 0 .603-.09 1.077-.271 1.422a1.92 1.92 0 0 1-.792.805 2.292 2.292 0 0 1-1.132.286c-.657 0-1.188-.21-1.594-.63-.406-.421-.608-1.027-.608-1.817zm.814.002c0 .6.131 1.05.394 1.347.264.299.594.448.994.448.395 0 .724-.149.988-.449.262-.3.394-.757.394-1.371 0-.579-.133-1.018-.397-1.315a1.261 1.261 0 0 0-.985-.448c-.4 0-.73.148-.994.445-.262.297-.394.745-.394 1.344z" fill="#221F1F"/></svg><svg role="img" aria-labelledby="pi-elo" width="38" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 24"><title id="pi-elo">Elo</title><g fill-rule="nonzero" fill="none"><path d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" fill="#000" opacity=".07"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" fill="#FFF"/><g fill="#000"><path d="M13.3 15.5c-.6.6-1.4.9-2.3.9-.6 0-1.2-.2-1.6-.5l-1.2 1.9c.8.6 1.8.9 2.8.9 1.5 0 2.9-.6 3.9-1.6l-1.6-1.6zm-2.1-7.7c-3 0-5.5 2.4-5.5 5.4 0 1.1.3 2.2.9 3.1l9.8-4.2c-.6-2.5-2.7-4.3-5.2-4.3zm-3.3 5.8v-.4c0-1.8 1.5-3.2 3.2-3.2 1 0 1.8.5 2.4 1.1l-5.6 2.5zm11.6-8.3v10.5l1.8.8-.9 2.1-1.8-.8c-.4-.2-.7-.4-.9-.7-.2-.3-.3-.7-.3-1.3V5.3h2.1zM26 10.2c.3-.1.7-.2 1-.2 1.5 0 2.8 1.1 3.1 2.6l2.2-.4c-.5-2.5-2.7-4.4-5.3-4.4-.6 0-1.2.1-1.7.3l.7 2.1zm-2.6 7.1l1.5-1.7c-.7-.6-1.1-1.4-1.1-2.4s.4-1.8 1.1-2.4l-1.5-1.7c-1.1 1-1.8 2.5-1.8 4.1 0 1.7.7 3.1 1.8 4.1zm6.7-3.4c-.3 1.5-1.6 2.6-3.1 2.6-.4 0-.7-.1-1-.2l-.7 2.1c.5.2 1.1.3 1.7.3 2.6 0 4.8-1.9 5.3-4.4l-2.2-.4z"/></g></g></svg><svg role="img" aria-labelledby="pi-hypercard" viewBox="0 0 38 24" width="38" height="24" xmlns="http://www.w3.org/2000/svg"><title id="pi-hypercard">Hypercard</title><g fill="none" fill-rule="evenodd"><path d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" fill="#000" fill-rule="nonzero" opacity=".07"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" fill="#FFF" fill-rule="nonzero"/><path d="M11.9 5.1H8.6c-1.4.1-2.6.6-2.9 1.8-.2.6-.3 1.3-.4 2-.7 3.3-1.3 6.7-2 9.9h25.4c2 0 3.3-.4 3.7-2 .2-.7.3-1.5.5-2.3.6-3.1 1.3-6.2 1.9-9.4H11.9z" fill="#B3131B" fill-rule="nonzero"/><path d="M6.38 9.31h.605v1.827h2.3V9.31h.605v4.421h-.605v-2.067h-2.3v2.067h-.604v-4.42zm4.364 1.213h.551v3.208h-.55v-3.208zm0-1.213h.551v.614h-.55V9.31zm3.36 3.74c.168-.212.252-.528.252-.95 0-.257-.037-.477-.111-.662-.14-.355-.398-.533-.77-.533-.376 0-.633.188-.771.563a2.23 2.23 0 00-.112.765c0 .248.037.46.112.635.14.333.397.5.77.5a.773.773 0 00.63-.318zm-2.032-2.527h.526v.428c.109-.147.227-.26.355-.34.183-.12.398-.181.644-.181.366 0 .676.14.93.42.255.28.383.68.383 1.2 0 .701-.184 1.203-.551 1.504a1.25 1.25 0 01-.813.286c-.242 0-.446-.053-.61-.16a1.408 1.408 0 01-.323-.31v1.646h-.541v-4.493zm5.477.074c.215.107.378.246.49.417.109.162.181.352.217.569.032.148.048.385.048.71h-2.362c.01.327.087.59.232.787.144.197.368.296.67.296.284 0 .51-.093.678-.28a.944.944 0 00.205-.376h.532c-.014.119-.06.25-.14.396a1.432 1.432 0 01-.266.357c-.165.16-.368.268-.61.325a1.873 1.873 0 01-.443.048c-.402 0-.742-.146-1.02-.438-.28-.292-.419-.7-.419-1.227 0-.517.14-.938.421-1.26.281-.324.648-.485 1.102-.485.229 0 .45.054.665.16zm.199 1.265a1.403 1.403 0 00-.154-.562c-.148-.261-.396-.392-.743-.392a.824.824 0 00-.626.27c-.169.18-.258.408-.268.684h1.79zm1.237-1.354h.514v.557c.042-.108.146-.24.31-.396a.804.804 0 01.62-.23l.124.012v.572a.81.81 0 00-.178-.015c-.273 0-.482.088-.629.263a.92.92 0 00-.22.607v1.853h-.541v-3.223zm4.166.172c.228.176.365.48.411.912h-.526a.972.972 0 00-.22-.495c-.115-.132-.298-.198-.55-.198-.346 0-.593.169-.741.506-.097.219-.145.489-.145.81 0 .323.068.594.205.815.136.22.351.331.644.331.225 0 .403-.068.534-.206.132-.137.222-.325.273-.564h.526c-.06.427-.21.74-.451.937-.241.198-.549.297-.924.297-.422 0-.758-.154-1.008-.462-.251-.308-.377-.693-.377-1.154 0-.566.138-1.007.413-1.322a1.332 1.332 0 011.05-.472c.363 0 .659.088.886.265zm1.54 2.564c.114.09.25.135.406.135.19 0 .375-.044.554-.132a.745.745 0 00.451-.72v-.436a.927.927 0 01-.256.106 2.18 2.18 0 01-.307.06l-.328.042a1.255 1.255 0 00-.442.123c-.167.095-.25.245-.25.452 0 .156.057.28.172.37zm1.14-1.466c.125-.016.208-.068.25-.156a.476.476 0 00.036-.208c0-.185-.065-.318-.197-.402-.131-.083-.32-.125-.564-.125-.283 0-.484.077-.602.23a.752.752 0 00-.13.375h-.505c.01-.397.139-.673.387-.829a1.59 1.59 0 01.862-.233c.38 0 .687.072.924.217.235.144.352.369.352.674v1.857c0 .056.012.101.035.135.023.034.071.051.146.051a.824.824 0 00.177-.018v.4c-.084.025-.148.04-.192.046a1.408 1.408 0 01-.181.009c-.187 0-.322-.067-.406-.199a.767.767 0 01-.094-.298c-.11.145-.269.27-.475.376a1.47 1.47 0 01-.683.16c-.3 0-.544-.091-.733-.273a.905.905 0 01-.285-.681c0-.3.094-.531.28-.695.187-.165.432-.266.735-.304l.863-.109zm1.716-1.27h.514v.557c.043-.108.146-.24.31-.396a.804.804 0 01.62-.23l.124.012v.572a.81.81 0 00-.178-.015c-.273 0-.482.088-.629.263a.92.92 0 00-.22.607v1.853h-.541v-3.223zm2.6 2.516c.147.233.381.35.704.35a.745.745 0 00.619-.324c.161-.216.242-.525.242-.929 0-.407-.083-.708-.25-.904a.78.78 0 00-.617-.294.814.814 0 00-.663.313c-.17.21-.255.516-.255.921 0 .345.074.634.22.867zm1.216-2.417c.096.06.206.166.328.316V9.295h.52v4.436h-.487v-.448a1.172 1.172 0 01-.448.43c-.173.089-.37.133-.593.133-.36 0-.67-.151-.933-.453-.263-.302-.394-.704-.394-1.206 0-.469.12-.876.36-1.22.239-.344.582-.516 1.027-.516.247 0 .453.052.62.156z" fill="#FFF"/></g></svg><svg viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-master"><title id="pi-master">Mastercard</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><circle fill="#EB001B" cx="15" cy="12" r="7"/><circle fill="#F79E1B" cx="23" cy="12" r="7"/><path fill="#FF5F00" d="M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z"/></svg><svg viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-visa"><title id="pi-visa">Visa</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path d="M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z" fill="#142688"/></svg></div>
+              </div></safe-sticky>
+        </div>
+      </div>
+    </div></div>
+
+</section>
+<section id="shopify-section-static-text-with-icons" class="shopify-section shopify-section--text-with-icons"></section></main><footer id="shopify-section-footer" class="shopify-section shopify-section--footer"><img loading="lazy" src="https://cdn.shopify.com/s/files/1/0580/6712/4271/files/Wave_Footer.svg?v=1675883211" width="100%" height="100%"><style>
+  @media screen and (min-width: 1000px) {
+    #shopify-section-footer {--footer-block-list-gap: var(--spacing-10);--footer-block-list-justify-content: space-between;
+    }
+  }
+</style><div class="footer">
+  <div class="container">
+    <div class="footer__wrapper"><div class="footer__block-list empty:hidden"><div class="footer__block footer__block--newsletter" ><div class="v-stack gap-6"><p class="h3">Receba dicas, novidades e ofertas!</p><form method="post" action="/contact#footer-newsletter" id="footer-newsletter" accept-charset="UTF-8" class="footer__newsletter-form form"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="contact[tags]" value="newsletter"><div class="form-control" ><input id="input-footer-854372918" class="input is-floating" type="email" dir="ltr" name="contact[email]" placeholder=" " 
+  
+  
+  
+  autocomplete="email"
+  
+  enterkeyhint="send"
+  required
+><label for="input-footer-854372918" class="floating-label">E-mail</label><div class="self-submit-button">
+      <button type="submit" class="circle-chevron hover:colors">
+        <span class="sr-only">Assinar</span><svg role="presentation" focusable="false" width="5" height="8" class="icon icon-chevron-right-small reverse-icon" viewBox="0 0 5 8">
+        <path d="m.75 7 3-3-3-3" fill="none" stroke="currentColor" stroke-width="1.5"></path>
+      </svg></button>
+    </div></div></form></div>
+                </div><div class="footer__block footer__block--menu" ><p class="bold">Ajuda</p><ul class="v-stack gap-3" role="list"><li>
+                          <a href="https://app.expedido.com.br/rastreio/hidratei" class="inline-block link-faded break-all">Rastrear pedido</a>
+                        </li><li>
+                          <a href="/pages/faqs" class="inline-block link-faded break-all">Política de Envio</a>
+                        </li><li>
+                          <a href="/policies/refund-policy" class="inline-block link-faded break-all">Trocas e Devoluções</a>
+                        </li><li>
+                          <a href="https://webforms.pipedrive.com/f/5VDTybFsPk5EQaXk5YBNsJgsDAAuxkbToXmLNNkRYyIgApU2FSW9KSVzPozKrJmGNJ" class="inline-block link-faded break-all">Seja Revendedor</a>
+                        </li></ul>
+                  </div><div class="footer__block footer__block--menu" ><p class="bold">Loja</p><ul class="v-stack gap-3" role="list"><li>
+                          <a href="/blogs/cabelos" class="inline-block link-faded break-all">Blog</a>
+                        </li><li>
+                          <a href="/collections/linha-kids" class="inline-block link-faded break-all">Linha Kids</a>
+                        </li><li>
+                          <a href="/collections/kits-especiais" class="inline-block link-faded break-all">Kits Especiais</a>
+                        </li><li>
+                          <a href="/collections/linha-solidos" class="inline-block link-faded break-all">Linha Sólidos</a>
+                        </li><li>
+                          <a href="/collections/linha-cachos" class="inline-block link-faded break-all">Linhas</a>
+                        </li><li>
+                          <a href="/collections/leave-in" class="inline-block link-faded break-all">Leave -in</a>
+                        </li></ul>
+                  </div><div class="footer__block footer__block--text" ><p class="bold">Fale conosco</p><div class="prose text-subdued"><p>SAC (31) 3191-3107</p><p>suporte@hidratei.com.br</p></div></div></div><div class="footer__aside empty:hidden"><div class="footer__aside-top"><ul class="social-media " role="list"><li>
+      <a href="https://www.facebook.com/Hidratei" class="tap-area" target="_blank" rel="noopener" aria-label="Seguir em Facebook"><svg role="presentation" focusable="false" width="27" height="27" class="icon icon-facebook" viewBox="0 0 24 24">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M10.183 21.85v-8.868H7.2V9.526h2.983V6.982a4.17 4.17 0 0 1 4.44-4.572 22.33 22.33 0 0 1 2.667.144v3.084h-1.83a1.44 1.44 0 0 0-1.713 1.68v2.208h3.423l-.447 3.456h-2.97v8.868h-3.57Z" fill="currentColor"/>
+      </svg></a>
+    </li><li>
+      <a href="https://www.instagram.com/hidratei/" class="tap-area" target="_blank" rel="noopener" aria-label="Seguir em Instagram"><svg role="presentation" focusable="false" width="27" height="27" class="icon icon-instagram" viewBox="0 0 24 24">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.4c-2.607 0-2.934.011-3.958.058-1.022.046-1.72.209-2.33.446a4.705 4.705 0 0 0-1.7 1.107 4.706 4.706 0 0 0-1.108 1.7c-.237.611-.4 1.31-.446 2.331C2.41 9.066 2.4 9.392 2.4 12c0 2.607.011 2.934.058 3.958.046 1.022.209 1.72.446 2.33a4.706 4.706 0 0 0 1.107 1.7c.534.535 1.07.863 1.7 1.108.611.237 1.309.4 2.33.446 1.025.047 1.352.058 3.959.058s2.934-.011 3.958-.058c1.022-.046 1.72-.209 2.33-.446a4.706 4.706 0 0 0 1.7-1.107 4.706 4.706 0 0 0 1.108-1.7c.237-.611.4-1.31.446-2.33.047-1.025.058-1.352.058-3.959s-.011-2.934-.058-3.958c-.047-1.022-.209-1.72-.446-2.33a4.706 4.706 0 0 0-1.107-1.7 4.705 4.705 0 0 0-1.7-1.108c-.611-.237-1.31-.4-2.331-.446C14.934 2.41 14.608 2.4 12 2.4Zm0 1.73c2.563 0 2.867.01 3.88.056.935.042 1.443.199 1.782.33.448.174.768.382 1.104.718.336.336.544.656.718 1.104.131.338.287.847.33 1.783.046 1.012.056 1.316.056 3.879 0 2.563-.01 2.867-.056 3.88-.043.935-.199 1.444-.33 1.782a2.974 2.974 0 0 1-.719 1.104 2.974 2.974 0 0 1-1.103.718c-.339.131-.847.288-1.783.33-1.012.046-1.316.056-3.88.056-2.563 0-2.866-.01-3.878-.056-.936-.042-1.445-.199-1.783-.33a2.974 2.974 0 0 1-1.104-.718 2.974 2.974 0 0 1-.718-1.104c-.131-.338-.288-.847-.33-1.783-.047-1.012-.056-1.316-.056-3.879 0-2.563.01-2.867.056-3.88.042-.935.199-1.443.33-1.782.174-.448.382-.768.718-1.104a2.974 2.974 0 0 1 1.104-.718c.338-.131.847-.288 1.783-.33C9.133 4.14 9.437 4.13 12 4.13Zm0 11.07a3.2 3.2 0 1 1 0-6.4 3.2 3.2 0 0 1 0 6.4Zm0-8.13a4.93 4.93 0 1 0 0 9.86 4.93 4.93 0 0 0 0-9.86Zm6.276-.194a1.152 1.152 0 1 1-2.304 0 1.152 1.152 0 0 1 2.304 0Z" fill="currentColor"/>
+      </svg></a>
+    </li><li>
+      <a href="https://www.youtube.com/channel/UCsEof3sJCzkj5OPNeKv43aA" class="tap-area" target="_blank" rel="noopener" aria-label="Seguir em YouTube"><svg role="presentation" focusable="false" width="27" height="27" class="icon icon-youtube" viewBox="0 0 24 24">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M20.44 5.243c.929.244 1.66.963 1.909 1.876.451 1.654.451 5.106.451 5.106s0 3.452-.451 5.106a2.681 2.681 0 0 1-1.91 1.876c-1.684.443-8.439.443-8.439.443s-6.754 0-8.439-.443a2.682 2.682 0 0 1-1.91-1.876c-.45-1.654-.45-5.106-.45-5.106s0-3.452.45-5.106a2.681 2.681 0 0 1 1.91-1.876c1.685-.443 8.44-.443 8.44-.443s6.754 0 8.438.443Zm-5.004 6.982L9.792 15.36V9.091l5.646 3.134Z" fill="currentColor"/>
+      </svg></a>
+    </li><li>
+      <a href="https://www.tiktok.com/@hidratei?_t=8Vqgi80UAuz&_r=1" class="tap-area" target="_blank" rel="noopener" aria-label="Seguir em TikTok"><svg role="presentation" focusable="false" width="27" height="27" class="icon icon-tiktok" viewBox="0 0 24 24">
+        <path d="M20.027 10.168a5.125 5.125 0 0 1-4.76-2.294v7.893a5.833 5.833 0 1 1-5.834-5.834c.122 0 .241.011.361.019v2.874c-.12-.014-.237-.036-.36-.036a2.977 2.977 0 0 0 0 5.954c1.644 0 3.096-1.295 3.096-2.94L12.56 2.4h2.75a5.122 5.122 0 0 0 4.72 4.573v3.195" fill="currentColor"/>
+      </svg></a>
+    </li></ul></div><div class="badges">
+  <a href="https://shopify.pxf.io/da99oy" target="_blank">
+    <img class="selo" src=//hidratei.com.br/cdn/shop/t/23/assets/vanzak.svg?v=53614811070849735031681255080 height="90" width="90">
+  </a>
+  <a href="https://shopify.pxf.io/da99oy" target="_blank">
+    <img class="selo" src=//hidratei.com.br/cdn/shop/t/23/assets/shopify.svg?v=167473917748364215481681255087 height="90" width="90">
+  </a>
+  <a href="https://pagar.me/blog/pagarme-seguranca/" target="_blank">
+      <img class="selo" src=//hidratei.com.br/cdn/shop/t/23/assets/pagar.me.svg?v=46704523893581529621681256880 height="90" width="90">
+    </a>
+  <a href="https://hidratei.com.br/pages/avaliacoes" target="_blank">
+      <img class="selo" src=//hidratei.com.br/cdn/shop/t/23/assets/reviews.svg?v=142765498126582585781681409904 height="90" width="90">
+  </a>
+  <a href="https://www.reclameaqui.com.br/empresa/hidratei/?utm_source=referral&utm_medium=embbed&utm_campaign=reputacao&utm_term=horizontal" target="_blank">
+      <img class="selo" src=//hidratei.com.br/cdn/shop/t/23/assets/ra1000.svg?v=30191210980192941891681409911 height="90" width="90">
+  </a>
+</div>  
+<div class="footer__aside-bottom"><div class="footer__payment-icons h-stack wrap gap-2"><svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 38 24" width="38" height="24" aria-labelledby="pi-american_express"><title id="pi-american_express">American Express</title><g fill="none"><path fill="#000" d="M35,0 L3,0 C1.3,0 0,1.3 0,3 L0,21 C0,22.7 1.4,24 3,24 L35,24 C36.7,24 38,22.7 38,21 L38,3 C38,1.3 36.6,0 35,0 Z" opacity=".07"/><path fill="#006FCF" d="M35,1 C36.1,1 37,1.9 37,3 L37,21 C37,22.1 36.1,23 35,23 L3,23 C1.9,23 1,22.1 1,21 L1,3 C1,1.9 1.9,1 3,1 L35,1"/><path fill="#FFF" d="M8.971,10.268 L9.745,12.144 L8.203,12.144 L8.971,10.268 Z M25.046,10.346 L22.069,10.346 L22.069,11.173 L24.998,11.173 L24.998,12.412 L22.075,12.412 L22.075,13.334 L25.052,13.334 L25.052,14.073 L27.129,11.828 L25.052,9.488 L25.046,10.346 L25.046,10.346 Z M10.983,8.006 L14.978,8.006 L15.865,9.941 L16.687,8 L27.057,8 L28.135,9.19 L29.25,8 L34.013,8 L30.494,11.852 L33.977,15.68 L29.143,15.68 L28.065,14.49 L26.94,15.68 L10.03,15.68 L9.536,14.49 L8.406,14.49 L7.911,15.68 L4,15.68 L7.286,8 L10.716,8 L10.983,8.006 Z M19.646,9.084 L17.407,9.084 L15.907,12.62 L14.282,9.084 L12.06,9.084 L12.06,13.894 L10,9.084 L8.007,9.084 L5.625,14.596 L7.18,14.596 L7.674,13.406 L10.27,13.406 L10.764,14.596 L13.484,14.596 L13.484,10.661 L15.235,14.602 L16.425,14.602 L18.165,10.673 L18.165,14.603 L19.623,14.603 L19.647,9.083 L19.646,9.084 Z M28.986,11.852 L31.517,9.084 L29.695,9.084 L28.094,10.81 L26.546,9.084 L20.652,9.084 L20.652,14.602 L26.462,14.602 L28.076,12.864 L29.624,14.602 L31.499,14.602 L28.987,11.852 L28.986,11.852 Z"/></g></svg>
+<svg viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-boleto"><title id="pi-boleto">Boleto</title><path fill="#fff" d="M35.7 23.965H2.3a2.307 2.307 0 0 1-2.3-2.3v-19.4C0 1 1.035-.035 2.3-.035h33.4c1.265 0 2.3 1.035 2.3 2.3v19.4c0 1.265-1.035 2.3-2.3 2.3z"/><path fill="#A7A8AB" d="M35.564 23.965H2.436c-1.344 0-2.436-1.077-2.436-2.4v-19.2c0-1.323 1.092-2.4 2.436-2.4h33.128c1.344 0 2.436 1.077 2.436 2.4v19.2c0 1.323-1.092 2.4-2.436 2.4zM2.436.925c-.806 0-1.462.646-1.462 1.44v19.2c0 .794.656 1.44 1.462 1.44h33.128c.806 0 1.462-.646 1.462-1.44v-19.2c0-.794-.656-1.44-1.462-1.44H2.436z" opacity=".25"/><path d="M8.079 4.945h.7v6.298h-.7zm-1.83 0h.7v6.298h-.7zm7.256 0h1.901v6.298h-1.901zm9.715 0h.95v6.298h-.95zm2.324 0h.95v6.298h-.95zm3.804 0h1.221v6.298h-1.221zm-1.375 0h.395v6.298h-.395zm-6.389 0h.395v6.298h-.395zm-.845 0h.395v6.298h-.395zm-2.746 0h.395v6.298h-.395zm-6.31 0h.395v6.298h-.395zm-1.163 0h.733v6.298h-.733zM6.249 19.3v-6.478H8.68c.495 0 .891.065 1.191.196.299.131.532.333.701.606.17.271.255.556.255.855 0 .276-.075.537-.225.781a1.604 1.604 0 0 1-.679.593c.392.115.694.311.903.588.211.276.317.603.317.98 0 .305-.065.587-.193.847a1.644 1.644 0 0 1-.475.603c-.189.14-.425.247-.709.32a4.328 4.328 0 0 1-1.046.109H6.248zm.86-3.755H8.51c.38 0 .653-.026.817-.075a.903.903 0 0 0 .493-.324.936.936 0 0 0 .166-.567 1.03 1.03 0 0 0-.155-.568c-.103-.164-.25-.278-.442-.338s-.52-.09-.985-.09H7.109v1.963zm0 2.995h1.614c.277 0 .472-.011.585-.032.196-.035.362-.094.495-.176a.946.946 0 0 0 .327-.362c.086-.158.128-.341.128-.547 0-.243-.062-.452-.187-.632a.978.978 0 0 0-.516-.377c-.219-.072-.535-.109-.947-.109H7.109v2.235zm4.813-1.588c0-.867.241-1.509.725-1.927.403-.347.896-.52 1.476-.52.644 0 1.172.211 1.582.633.409.421.614 1.004.614 1.748 0 .603-.09 1.077-.271 1.422a1.92 1.92 0 0 1-.792.805 2.292 2.292 0 0 1-1.132.286c-.657 0-1.188-.21-1.594-.63-.406-.421-.608-1.027-.608-1.817zm.814.002c0 .6.131 1.05.394 1.347.264.299.594.448.994.448.395 0 .724-.149.988-.449.262-.3.394-.757.394-1.371 0-.579-.133-1.018-.397-1.315a1.261 1.261 0 0 0-.985-.448c-.4 0-.73.148-.994.445-.262.297-.394.745-.394 1.344zm4.498 2.346v-6.478h.796V19.3h-.796zm5.231-1.52l.823.109c-.128.478-.368.85-.718 1.114-.35.264-.796.397-1.341.397-.685 0-1.227-.211-1.629-.633-.401-.421-.602-1.013-.602-1.775 0-.787.202-1.399.608-1.834.406-.436.932-.653 1.579-.653.626 0 1.137.213 1.534.639.397.427.596 1.027.596 1.8l-.004.211h-3.497c.03.514.175.909.437 1.182a1.3 1.3 0 0 0 .979.41c.291 0 .54-.077.745-.231.207-.154.369-.4.49-.737zm-2.606-1.276h2.615c-.035-.395-.136-.691-.3-.888a1.216 1.216 0 0 0-.983-.46c-.365 0-.671.122-.92.366-.247.244-.385.572-.412.982zm6.164 2.086l.109.703a2.951 2.951 0 0 1-.599.071c-.288 0-.511-.045-.671-.137-.158-.092-.27-.211-.335-.36s-.097-.463-.097-.941v-2.705h-.588v-.615h.588v-1.161l.796-.478v1.639h.796v.615h-.796v2.751c0 .228.014.374.042.439a.324.324 0 0 0 .136.155.53.53 0 0 0 .271.057l.347-.032zm.487-1.638c0-.867.241-1.509.725-1.927.403-.347.896-.52 1.476-.52.644 0 1.172.211 1.582.633.409.421.614 1.004.614 1.748 0 .603-.09 1.077-.271 1.422a1.92 1.92 0 0 1-.792.805 2.292 2.292 0 0 1-1.132.286c-.657 0-1.188-.21-1.594-.63-.406-.421-.608-1.027-.608-1.817zm.814.002c0 .6.131 1.05.394 1.347.264.299.594.448.994.448.395 0 .724-.149.988-.449.262-.3.394-.757.394-1.371 0-.579-.133-1.018-.397-1.315a1.261 1.261 0 0 0-.985-.448c-.4 0-.73.148-.994.445-.262.297-.394.745-.394 1.344z" fill="#221F1F"/></svg><svg role="img" aria-labelledby="pi-elo" width="38" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 24"><title id="pi-elo">Elo</title><g fill-rule="nonzero" fill="none"><path d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" fill="#000" opacity=".07"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" fill="#FFF"/><g fill="#000"><path d="M13.3 15.5c-.6.6-1.4.9-2.3.9-.6 0-1.2-.2-1.6-.5l-1.2 1.9c.8.6 1.8.9 2.8.9 1.5 0 2.9-.6 3.9-1.6l-1.6-1.6zm-2.1-7.7c-3 0-5.5 2.4-5.5 5.4 0 1.1.3 2.2.9 3.1l9.8-4.2c-.6-2.5-2.7-4.3-5.2-4.3zm-3.3 5.8v-.4c0-1.8 1.5-3.2 3.2-3.2 1 0 1.8.5 2.4 1.1l-5.6 2.5zm11.6-8.3v10.5l1.8.8-.9 2.1-1.8-.8c-.4-.2-.7-.4-.9-.7-.2-.3-.3-.7-.3-1.3V5.3h2.1zM26 10.2c.3-.1.7-.2 1-.2 1.5 0 2.8 1.1 3.1 2.6l2.2-.4c-.5-2.5-2.7-4.4-5.3-4.4-.6 0-1.2.1-1.7.3l.7 2.1zm-2.6 7.1l1.5-1.7c-.7-.6-1.1-1.4-1.1-2.4s.4-1.8 1.1-2.4l-1.5-1.7c-1.1 1-1.8 2.5-1.8 4.1 0 1.7.7 3.1 1.8 4.1zm6.7-3.4c-.3 1.5-1.6 2.6-3.1 2.6-.4 0-.7-.1-1-.2l-.7 2.1c.5.2 1.1.3 1.7.3 2.6 0 4.8-1.9 5.3-4.4l-2.2-.4z"/></g></g></svg><svg role="img" aria-labelledby="pi-hypercard" viewBox="0 0 38 24" width="38" height="24" xmlns="http://www.w3.org/2000/svg"><title id="pi-hypercard">Hypercard</title><g fill="none" fill-rule="evenodd"><path d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" fill="#000" fill-rule="nonzero" opacity=".07"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" fill="#FFF" fill-rule="nonzero"/><path d="M11.9 5.1H8.6c-1.4.1-2.6.6-2.9 1.8-.2.6-.3 1.3-.4 2-.7 3.3-1.3 6.7-2 9.9h25.4c2 0 3.3-.4 3.7-2 .2-.7.3-1.5.5-2.3.6-3.1 1.3-6.2 1.9-9.4H11.9z" fill="#B3131B" fill-rule="nonzero"/><path d="M6.38 9.31h.605v1.827h2.3V9.31h.605v4.421h-.605v-2.067h-2.3v2.067h-.604v-4.42zm4.364 1.213h.551v3.208h-.55v-3.208zm0-1.213h.551v.614h-.55V9.31zm3.36 3.74c.168-.212.252-.528.252-.95 0-.257-.037-.477-.111-.662-.14-.355-.398-.533-.77-.533-.376 0-.633.188-.771.563a2.23 2.23 0 00-.112.765c0 .248.037.46.112.635.14.333.397.5.77.5a.773.773 0 00.63-.318zm-2.032-2.527h.526v.428c.109-.147.227-.26.355-.34.183-.12.398-.181.644-.181.366 0 .676.14.93.42.255.28.383.68.383 1.2 0 .701-.184 1.203-.551 1.504a1.25 1.25 0 01-.813.286c-.242 0-.446-.053-.61-.16a1.408 1.408 0 01-.323-.31v1.646h-.541v-4.493zm5.477.074c.215.107.378.246.49.417.109.162.181.352.217.569.032.148.048.385.048.71h-2.362c.01.327.087.59.232.787.144.197.368.296.67.296.284 0 .51-.093.678-.28a.944.944 0 00.205-.376h.532c-.014.119-.06.25-.14.396a1.432 1.432 0 01-.266.357c-.165.16-.368.268-.61.325a1.873 1.873 0 01-.443.048c-.402 0-.742-.146-1.02-.438-.28-.292-.419-.7-.419-1.227 0-.517.14-.938.421-1.26.281-.324.648-.485 1.102-.485.229 0 .45.054.665.16zm.199 1.265a1.403 1.403 0 00-.154-.562c-.148-.261-.396-.392-.743-.392a.824.824 0 00-.626.27c-.169.18-.258.408-.268.684h1.79zm1.237-1.354h.514v.557c.042-.108.146-.24.31-.396a.804.804 0 01.62-.23l.124.012v.572a.81.81 0 00-.178-.015c-.273 0-.482.088-.629.263a.92.92 0 00-.22.607v1.853h-.541v-3.223zm4.166.172c.228.176.365.48.411.912h-.526a.972.972 0 00-.22-.495c-.115-.132-.298-.198-.55-.198-.346 0-.593.169-.741.506-.097.219-.145.489-.145.81 0 .323.068.594.205.815.136.22.351.331.644.331.225 0 .403-.068.534-.206.132-.137.222-.325.273-.564h.526c-.06.427-.21.74-.451.937-.241.198-.549.297-.924.297-.422 0-.758-.154-1.008-.462-.251-.308-.377-.693-.377-1.154 0-.566.138-1.007.413-1.322a1.332 1.332 0 011.05-.472c.363 0 .659.088.886.265zm1.54 2.564c.114.09.25.135.406.135.19 0 .375-.044.554-.132a.745.745 0 00.451-.72v-.436a.927.927 0 01-.256.106 2.18 2.18 0 01-.307.06l-.328.042a1.255 1.255 0 00-.442.123c-.167.095-.25.245-.25.452 0 .156.057.28.172.37zm1.14-1.466c.125-.016.208-.068.25-.156a.476.476 0 00.036-.208c0-.185-.065-.318-.197-.402-.131-.083-.32-.125-.564-.125-.283 0-.484.077-.602.23a.752.752 0 00-.13.375h-.505c.01-.397.139-.673.387-.829a1.59 1.59 0 01.862-.233c.38 0 .687.072.924.217.235.144.352.369.352.674v1.857c0 .056.012.101.035.135.023.034.071.051.146.051a.824.824 0 00.177-.018v.4c-.084.025-.148.04-.192.046a1.408 1.408 0 01-.181.009c-.187 0-.322-.067-.406-.199a.767.767 0 01-.094-.298c-.11.145-.269.27-.475.376a1.47 1.47 0 01-.683.16c-.3 0-.544-.091-.733-.273a.905.905 0 01-.285-.681c0-.3.094-.531.28-.695.187-.165.432-.266.735-.304l.863-.109zm1.716-1.27h.514v.557c.043-.108.146-.24.31-.396a.804.804 0 01.62-.23l.124.012v.572a.81.81 0 00-.178-.015c-.273 0-.482.088-.629.263a.92.92 0 00-.22.607v1.853h-.541v-3.223zm2.6 2.516c.147.233.381.35.704.35a.745.745 0 00.619-.324c.161-.216.242-.525.242-.929 0-.407-.083-.708-.25-.904a.78.78 0 00-.617-.294.814.814 0 00-.663.313c-.17.21-.255.516-.255.921 0 .345.074.634.22.867zm1.216-2.417c.096.06.206.166.328.316V9.295h.52v4.436h-.487v-.448a1.172 1.172 0 01-.448.43c-.173.089-.37.133-.593.133-.36 0-.67-.151-.933-.453-.263-.302-.394-.704-.394-1.206 0-.469.12-.876.36-1.22.239-.344.582-.516 1.027-.516.247 0 .453.052.62.156z" fill="#FFF"/></g></svg><svg viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-master"><title id="pi-master">Mastercard</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><circle fill="#EB001B" cx="15" cy="12" r="7"/><circle fill="#F79E1B" cx="23" cy="12" r="7"/><path fill="#FF5F00" d="M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z"/></svg><svg viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-visa"><title id="pi-visa">Visa</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path d="M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z" fill="#142688"/></svg></div><p class="footer__copyright text-sm text-subdued">© 2023, Hidratei Cosméticos Ltda CNPJ: 41.497.315/0003-35. </br>Rua Sergipe, 1233 - Savassi Belo Horizonte/MG</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div><privacy-bar class="privacy-bar" hidden>
+    <div class="privacy-bar__inner">
+      <button type="button" class="privacy-bar__close" data-action="close">
+        <span class="sr-only">Fechar</span><svg role="presentation" stroke-width="2" focusable="false" width="10" height="10" class="icon icon-delete" viewBox="0 0 10 10">
+        <path d="m.757.757 8.486 8.486m-8.486 0L9.243.757" stroke="currentColor"></path>
+      </svg></button>
+
+      <div class="v-stack gap-4">
+        <div class="v-stack gap-2"><p class="bold">Cookies</p><div class="prose text-xs"><p>Usamos cookies e tecnologias semelhantes para fornecer a melhor experiência em nosso site. Consulte nossa Política de Privacidade para mais informações.</p></div></div>
+
+        <div class="h-stack gap-2">
+          <button type="button" class="button button--sm" data-action="accept">Aceitar</button>
+          <button type="button" class="button button--sm button--subdued" data-action="decline">Rejeitar</button>
+        </div>
+      </div>
+    </div>
+  </privacy-bar></footer><section id="shopify-section-scrolling-text" class="shopify-section shopify-section--scrolling-text"><style>
+  #shopify-section-scrolling-text {
+    --section-background-hash: 094601003003300607700010207601032;
+  }
+
+  #shopify-section-scrolling-text + * {
+    --previous-section-background-hash: 094601003003300607700010207601032;
+  }</style><style>
+    #shopify-section-scrolling-text {
+      --section-spacing-inline: 0;
+      --scrolling-text-font-size: 5rem;
+    }
+
+    @media screen and (min-width: 700px) {
+      #shopify-section-scrolling-text {
+        --scrolling-text-font-size: 8.75rem;
+      }
+    }
+  </style><div class="scrolling-text scrolling-text--auto"><marquee-text scrolling-speed="6" class="scrolling-text__wrapper"><span class="scrolling-text__text heading " ><span class="text-stroke " style="">Cabelo bonito é cabelo Hidratado!</span></span><span class="scrolling-text__text heading motion-reduce:hidden" aria-hidden="true"><span class="text-stroke " style="">Cabelo bonito é cabelo Hidratado!</span></span><span class="scrolling-text__text heading motion-reduce:hidden" aria-hidden="true"><span class="text-stroke " style="">Cabelo bonito é cabelo Hidratado!</span></span><span class="scrolling-text__text heading motion-reduce:hidden" aria-hidden="true"><span class="text-stroke " style="">Cabelo bonito é cabelo Hidratado!</span></span><span class="scrolling-text__text heading motion-reduce:hidden" aria-hidden="true"><span class="text-stroke " style="">Cabelo bonito é cabelo Hidratado!</span></span><span class="scrolling-text__text heading motion-reduce:hidden" aria-hidden="true"><span class="text-stroke " style="">Cabelo bonito é cabelo Hidratado!</span></span><span class="scrolling-text__text heading motion-reduce:hidden" aria-hidden="true"><span class="text-stroke " style="">Cabelo bonito é cabelo Hidratado!</span></span><span class="scrolling-text__text heading motion-reduce:hidden" aria-hidden="true"><span class="text-stroke " style="">Cabelo bonito é cabelo Hidratado!</span></span><span class="scrolling-text__text heading motion-reduce:hidden" aria-hidden="true"><span class="text-stroke " style="">Cabelo bonito é cabelo Hidratado!</span></span><span class="scrolling-text__text heading motion-reduce:hidden" aria-hidden="true"><span class="text-stroke " style="">Cabelo bonito é cabelo Hidratado!</span></span></marquee-text></div>
+  </div></section><script async src="https://loox.io/widget/V1-VzsnWga/loox.1662569459470.js?shop=hidratei-loja.myshopify.com"></script>
+
+  <!-- Google Tag Manager (noscript) -->
+   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PKJ6C4G"
+   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    
+   <!-- Não remova. Checkout Yampi. -->
+     <link rel="preconnect" crossorigin href="https://api.dooki.com.br">
+<link rel="preconnect" crossorigin href="https://api.yampi.io">
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://cdn.yampi.me/shopify/checkout.css">
+<style>
+    .yampi-loader {display: none; position: fixed; width: 100%; height: 100%; background: #fff; left: 0; top: 0; z-index:99999}
+    .yampi-loading{position:fixed;overflow:show;margin:auto;top:0;left:0;bottom:0;right:0;width:50px;height:50px}.yampi-loading:before{content:'';display:block;position:fixed;top:0;left:0;width:100%;height:100%;background-color:rgba(255,255,255,.5)}.yampi-loading:not(:required){font:0/0 a;color:transparent;text-shadow:none;background-color:transparent;border:0}.yampi-loading:not(:required):after{content:'';display:block;font-size:10px;width:50px;height:50px;margin-top:-.5em;border:5px solid #999;border-radius:100%;border-bottom-color:transparent;-webkit-animation:spinner 1s linear 0s infinite;animation:spinner 1s linear 0s infinite}@-webkit-keyframes spinner{0%{-webkit-transform:rotate(0);-moz-transform:rotate(0);-ms-transform:rotate(0);-o-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-ms-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg)}}@-moz-keyframes spinner{0%{-webkit-transform:rotate(0);-moz-transform:rotate(0);-ms-transform:rotate(0);-o-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-ms-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg)}}@-o-keyframes spinner{0%{-webkit-transform:rotate(0);-moz-transform:rotate(0);-ms-transform:rotate(0);-o-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-ms-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes  spinner{0%{-webkit-transform:rotate(0);-moz-transform:rotate(0);-ms-transform:rotate(0);-o-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-ms-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg)}}
+
+</style>
+
+<div class="yampi-loader">
+    <div class="yampi-loading"></div>
+</div>
+
+<script type='text/javascript'>
+
+    var currentPage = 'cart'
+        ,   cartEndpoint = 'https://api.dooki.com.br/v2/public/shopify/cart'
+        ,   statusEndpoint = 'https://api.dooki.com.br/v2/public/shopify/status'
+        ,   shop = 'https://hidratei.com.br'
+        ,   shopifyInternalUrl = 'hidratei-loja.myshopify.com'
+        ,   ymp_hasUrlSupport = 'undefined' !== typeof URL && 'undefined' !== typeof URLSearchParams
+        ,   ymp_utmCookieName = 'utmsTrack';
+
+    window.yampiCheckoutUrl = '';
+
+    var checkoutBtncss = '<style id="ymp-btn-style" type="text/css"> body .ymp-CrtpageMainFrm input[type="submit"]:not([name="update"]), body .ymp-CrtpageMainFrm button[type="submit"]:not([name="update"]), body .ymp_check_mainBtn[name="checkout"]:not([class*="ymp_elem_"]):not([name="update"]), body input.ymp_check_mainBtn:not([class*="ymp_elem_"]):not([name="update"]) { display: none !important; }body .ymp-CrtpageMainFrm .ymp_check_mainBtn.ymp_elem_mainBtn[type="submit"]:not(.bold_hidden){ display: inline-block !important; } </style>';
+
+    function showYampiLoader() {
+        var el = document.querySelector('.yampi-loader');
+        el.style.display = 'block';
+    }
+
+    function hideYampiLoader() {
+        var el = document.querySelector('.yampi-loader');
+        el.style.display = 'none';
+    }
+
+    // Cart
+    if (currentPage == 'cart') {
+        showYampiLoader();
+
+        getAjax('/cart.json', function (response) {
+            var cartPayload = JSON.parse(response);
+
+            var data = {
+                shop: window.location.host,
+                shopify_internal_domain: shopifyInternalUrl,
+                cart_payload: cartPayload
+            };
+
+            postAjax(cartEndpoint, JSON.stringify(data), function (response) {
+                var resp = JSON.parse(response);
+
+                if (!resp.active) {
+                    hideYampiLoader();
+                } else {
+
+                    var otherButtons = document.getElementsByClassName('cartX_check_mainBtn');
+
+                    for (var i = 0; i < otherButtons.length; i ++) {
+                        otherButtons[i].setAttribute('style', 'display: none !important');
+                    }
+
+                    window.yampiCheckoutUrl = resp.checkout_direct_url;
+
+                    if (resp.skip_cart && resp.checkout_direct_url != '') {
+                        // Limpa o carrinho do Shopify
+                        if (resp.fb_fallback && isAndroid() && isFacebookBrowser()) {
+                            window.location = ymp_getUrlWithUtms(resp.checkout_direct_url);
+
+                            setTimeout(function () {
+                                showYampiPurchaseConfirmation(resp.checkout_direct_url);
+                            }, 500);
+                        } else {
+                            postAjax('/cart/clear.js', JSON.stringify({}), function () {
+                                window.location = ymp_getUrlWithUtms(resp.checkout_direct_url);
+                            });
+                        }
+
+                    } else {
+                        hideYampiLoader();
+
+                        var getHead = document.getElementsByTagName('head')[0];
+                        getHead.insertAdjacentHTML('beforeend', checkoutBtncss);
+                        var getForm = document.getElementsByTagName('form'); var cartFrmId,getCheckoutBtn;
+
+                        for (var i = 0; i < getForm.length; i++) {
+                            var formAction = getForm[i].action;  formAction = formAction.split(shop);
+
+                            if (formAction.includes('/cart') == true || formAction[0].includes('/cart') == true) {
+                                if (getForm[i].getAttribute('id')){
+                                    cartFrmId = getForm[i].getAttribute('id');
+                                } else {
+                                    getForm[i].setAttribute('id','ymp-CrtpageMainFrm'); cartFrmId = getForm[i].getAttribute('id');
+                                }
+                                getForm[i].classList.add('ymp-CrtpageMainFrm');
+                                getCheckoutBtn = getForm[i].elements['checkout'] || document.querySelector('a[href="/checkout"]') || document.querySelector('form[action="/cart"] input[type="submit"]');
+
+                                if (getCheckoutBtn.length == undefined) {
+                                    var buttonValue = getCheckoutBtn.value ? getCheckoutBtn.value : getCheckoutBtn.textContent;
+                                } else {
+                                    var lastBtnID = getCheckoutBtn.length - 1;
+                                    var buttonValue = getCheckoutBtn[lastBtnID].value ? getCheckoutBtn[lastBtnID].value : getCheckoutBtn[lastBtnID].textContent;
+                                }
+                                var getSubBtnId = getCheckoutBtn.id;
+                                if (getSubBtnId) {
+                                    getSubBtnId = getSubBtnId+'ympButton';
+                                } else {
+                                    getSubBtnId = 'ympBtn';
+                                }
+
+                                if (getCheckoutBtn.length == undefined) {
+                                    var inptBtn = `<button type='submit' class='`+getCheckoutBtn.className+` ymp_check_mainBtn ymp_elem_mainBtn' id='`+getSubBtnId+`'>`+buttonValue+`</button>`;
+                                    getCheckoutBtn.insertAdjacentHTML('afterEnd', inptBtn);
+                                } else {
+                                    var inptBtn = `<button type='submit' class='`+getCheckoutBtn[getCheckoutBtn.length - 1].className+` ymp_check_mainBtn ymp_elem_mainBtn' id='`+getSubBtnId+`'>`+buttonValue+`</button>`;
+                                    getCheckoutBtn[getCheckoutBtn.length - 1].insertAdjacentHTML('afterEnd', inptBtn);
+                                }
+
+                                document.getElementById(getSubBtnId).addEventListener('click', fakeClick);
+                            }
+                        }
+
+                        // Tratamento com links dentro do carrinho.
+                        if (window.$ || window.jQuery) {
+                            var btns = $('a.btn-checkout[href="/checkout"]').not('.ymp_elem_mainBtn');
+                            btns.hide();
+                        }
+                    }
+                }
+            });
+
+        });
+    }
+
+    function showYampiPurchaseConfirmation(purchaseUrl) {
+        var element = document.getElementById('yampiPurchaseConfirmationWrapper');
+        element.setAttribute('class', 'active');
+
+        var button = document.getElementById('yampiPurchaseConfirmationButton');
+
+        hideYampiLoader();
+    }
+
+    function getAjax(url, success) {
+        var xhr = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');
+        xhr.open('GET', url);
+        xhr.onreadystatechange = function() {
+            if (xhr.readyState > 3 && xhr.status==200) success(xhr.responseText);
+        };
+        xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+        xhr.send();
+        return xhr;
+    }
+
+    function postAjax(url, data, success) {
+        var params = typeof data == 'string' ? data : Object.keys(data).map(
+                function(k){ return encodeURIComponent(k) + '=' + encodeURIComponent(data[k]) }
+            ).join('&');
+
+        var xhr = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP");
+
+        xhr.open('POST', url);
+        xhr.onreadystatechange = function() {
+            if (xhr.readyState > 3 && xhr.status == 200) { success(xhr.responseText); }
+        };
+        xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+        xhr.setRequestHeader('Content-Type', 'application/json');
+        xhr.send(params);
+
+        return xhr;
+    }
+
+    // Product
+    var ympData = '';
+
+    if (window.$ || window.jQuery) {
+
+        var checkoutButtons = $('.btn-checkout');
+        checkoutButtons.each(function () {
+            var t = $(this);
+
+            if (t.attr('onclick') == "window.location='/checkout'") {
+                t.attr('onclick', "window.location='/cart'");
+            }
+        });
+
+        if (currentPage == 'product' || currentPage == 'index') {
+            var ympSelectors = $('input[name="add"] , button[name=\'add\'], #add-to-cart, .add-to-cart, #AddToCartText ,#AddToCart, .ProductForm__AddToCart');
+            ympSelectors.attr('disabled', true);
+
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function() {
+                if (this.readyState == 4 && this.status == 200) {
+                    ympData = JSON.parse(this.response);
+                    if (ympData && ympData.data.active) {
+                        ympSelectors = $('input[name="add"] , button[name=\'add\'], #add-to-cart, .add-to-cart, #AddToCartText ,#AddToCart, .ProductForm__AddToCart');
+                        ympSelectors.addClass("ymp_mainBtn ymp_elem_0");
+                        ympSelectors.removeAttr("disabled");
+
+                        $('.ymp_mainBtn').on('click', function(event){
+                            event.preventDefault();
+                            var form = $(this).parents('form[action="/cart/add"]');
+                            var xhr = new XMLHttpRequest();
+                            xhr.open('POST', '/cart/add.js', true);
+                            xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+                            xhr.onreadystatechange = function() {
+                                if (this.readyState === XMLHttpRequest.DONE && this.status === 200) {
+                                    window.location.href = '/cart?ref=yampi_buy_button'
+                                }
+                            }
+
+                            xhr.send($(form).serialize());
+                        });
+                    } else {
+                        ympSelectors.removeAttr('disabled');
+                    }
+                }
+            };
+            xhttp.open('GET','https://api.dooki.com.br/v2/public/shopify/status?shop=' + window.location.host);
+            xhttp.send();
+        }
+    }
+
+    function fakeClick(event) {
+        event.preventDefault();
+
+        showYampiLoader();
+
+        getAjax('/cart.json', function (response) {
+            var cartPayload = JSON.parse(response);
+
+            var data = {
+                shop: window.location.host,
+                cart_payload: cartPayload
+            };
+
+            postAjax(cartEndpoint, JSON.stringify(data), function (response) {
+                var resp = JSON.parse(response);
+
+                window.location.href = ymp_getUrlWithUtms(resp.checkout_direct_url);
+            });
+        });
+    }
+
+    function yampiClick() {
+
+        showYampiLoader();
+
+        getAjax('/cart.json', function (response) {
+            var cartPayload = JSON.parse(response);
+
+            var data = {
+                shop: window.location.host,
+                cart_payload: cartPayload
+            };
+
+            postAjax(cartEndpoint, JSON.stringify(data), function (response) {
+                var resp = JSON.parse(response);
+
+                window.location.href = ymp_getUrlWithUtms(resp.checkout_direct_url);
+            });
+        });
+    }
+
+  	function getNewCheckoutURL() {
+        getAjax('/cart.json', function (response) {
+            var cartPayload = JSON.parse(response);
+
+            var data = {
+                shop: window.location.host,
+                cart_payload: cartPayload
+            };
+
+            postAjax(cartEndpoint, JSON.stringify(data), function (response) {
+                var resp = JSON.parse(response);
+
+                postAjax('/cart/clear.js', JSON.stringify({}), function () {
+                    window.location.href = ymp_getUrlWithUtms(resp.checkout_direct_url);
+                });
+            });
+        });
+    }
+
+    // Verifica se existem botões redirecionando para /a/checkout
+    if (window.$ || window.jQuery) {
+        var oldLinks = $('a[href="/a/checkout"]').not('.yampi-btn-finalize').addClass('yampi-btn-finalize-single');
+
+        $('.yampi-btn-finalize-single').on('click', function (e) {
+            e.preventDefault();
+
+            if (currentPage == 'cart') {
+                window.location.href = ymp_getUrlWithUtms(window.yampiCheckoutUrl);
+            } else {
+                window.location = '/cart';
+            }
+
+        });
+    }
+
+    function isFacebookBrowser() {
+      var ua = navigator.userAgent || navigator.vendor || window.opera;
+      return (ua.indexOf("FBAN") > -1) || (ua.indexOf("FBAV") > -1);
+    }
+
+    function isAndroid() {
+      var ua = navigator.userAgent.toLowerCase();
+      return ua.indexOf("android") > -1;
+    }
+
+    if (ymp_hasUrlSupport) {
+        var ymp_terms = ['utm_source', 'utm_campaign', 'utm_term', 'utm_medium', 'utm_content'],
+            ymp_currentUrl = new URL(window.location.href),
+            ymp_urlParams = ymp_currentUrl.searchParams;
+
+        ymp_terms.forEach(function(term) {
+            if (ymp_urlParams.has(term)) {
+                ymp_setUtm(term, ymp_urlParams.get(term));
+            }
+        });
+    }
+
+    function ymp_getUrlWithUtms(url) {
+        if (!ymp_hasUrlSupport || !url) {
+            return url;
+        }
+
+        var currentUrl = new URL(url),
+            _ga = ymp_getCookie('_ga'),
+            cookiesUtms = ymp_getUtms();
+
+        cookiesUtms.forEach(function(value, key) {
+            currentUrl.searchParams.set(key, value);
+        });
+
+        if (_ga) {
+            currentUrl.searchParams.set('_ga', _ga);
+        }
+
+        return currentUrl.href;
+    }
+
+    function ymp_setUtm(term, value) {
+        var params = ymp_getUtms();
+
+        params.set(term, value);
+        ymp_setCookie(ymp_utmCookieName, params.toString(), 30);
+    }
+
+    function ymp_getUtms() {
+        var currentUtms = ymp_getCookie(ymp_utmCookieName);
+
+        if (currentUtms) {
+            return new URLSearchParams(currentUtms);
+        }
+
+        return new URLSearchParams();
+    }
+
+    function ymp_setCookie(name, value, days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + (value || "") + expires + "; path=/";
+    }
+
+    function ymp_getCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+</script>
+
+<div id="yampiPurchaseConfirmationWrapper"><div><p class="yampi_purchase_title">✔️ Produto adicionado com sucesso.</p><button type="button" onclick="getNewCheckoutURL()" id="yampiPurchaseConfirmationButton" class="yampi_purchase_confirmation_btn">Finalizar compra</button></div></div>
+ 
+   <!-- Não remova. Checkout Yampi. --> 
+
+   <!-- INSTANTPAGE -->
+   <script src="//instant.page/5.2.0" type="module" integrity="sha384-jnZyxPjiipYXnSU0ygqeac2q7CVYMbh84q0uHVRRxEtvFPiQYbXWUorga2aqZJ0z" type="module"></script>
+   <!-- INSTANTPAGE -->
+   <!-- CRITEO START -->
+<script type="text/javascript">
+  (function(){
+    var deviceType = /iPad/.test(navigator.userAgent) ? "t" : /Mobile|iP(hone|od)|Android|BlackBerry|IEMobile|Silk/.test(navigator.userAgent) ? "m" : "d";
+    window.criteo_q = window.criteo_q || [];
+    window.criteo_q.push(
+      { event: "setAccount", account: 105893 },
+      
+        { event: "setEmail", email: "", hash_method: "none"},
+      
+      { event: "setSiteType", type: deviceType },
+      { event: "setZipcode", zipcode: "" },
+        
+        
+        
+        
+          { event: "viewBasket", ecpplugin: "shopify-cg", item: [{ id: "shopify_BR_7131345748015_41269727035439", price: (typeof(6990) != "number") ? 6990 : (6990/100), quantity: 1 }, { id: "shopify_BR_7131346501679_41269727789103", price: (typeof(4990) != "number") ? 4990 : (4990/100), quantity: 1 }, { id: "shopify_BR_8445584998717_45702855754045", price: (typeof(0) != "number") ? 0 : (0/100), quantity: 1 }, { id: "shopify_BR_7131345879087_41269727166511", price: (typeof(14700) != "number") ? 14700 : (14700/100), quantity: 4 }, { id: "shopify_BR_8459047469373_45769180381501", price: (typeof(25500) != "number") ? 25500 : (25500/100), quantity: 2 }]}
+            
+        
+        
+    );
+    window.addEventListener('load', function() {
+      // ajax request catching
+      (function(open) {
+        XMLHttpRequest.prototype.open = function(method, url, async, user, pass) {
+          this.addEventListener("readystatechange", function() {
+            if (this.readyState == 4 && this._url.includes("/add.js") && "" != "") {
+              try {
+                $.getJSON("/cart.js", function(data) {
+                  var basketData = [];
+                  var item;
+                  if (!data.items || !data.items.length) return;
+                  for (var i = 0; i < data.items.length; i++) {
+                    item = data.items[i];
+                    if (item.product_id == "") {
+                      basketData.push({
+                        id: item.product_id,
+                        price: (typeof(item.price) != "number") ? item.price : (item.price/100),
+                        quantity: item.quantity
+                      });
+                    }
+                  }
+                  window.criteo_q.push({
+                    event: "addToCart",
+                    ecpplugin: "shopify-cg",
+                    product: basketData 
+                  });
+                });
+              } catch (err) {
+                // do nothing
+              }
+            }
+          }, false);
+          open.apply(this, arguments);
+        };
+      })(XMLHttpRequest.prototype.open);
+
+      // fetch request catching
+      const crtoMock = window.fetch;
+      window.fetch = function() {
+        return new Promise((resolve, reject) => {
+          crtoMock.apply(this, arguments)
+            .then((response) => {
+              if(response.url.includes("/add.js") && response.type != "cors" && "" != ""){
+                try {
+                  $.getJSON("/cart.js", function(data) {
+                    var basketData = [];
+                    var item;
+                    if (!data.items || !data.items.length) return;
+                    for (var i = 0; i < data.items.length; i++) {
+                      item = data.items[i];
+                      if (item.product_id == "") {
+                        basketData.push({
+                          id: item.product_id,
+                          price: (typeof(item.price) != "number") ? item.price : (item.price/100),
+                          quantity: item.quantity
+                        });
+                      }
+                    }
+                    window.criteo_q.push({
+                      event: "addToCart",
+                      ecpplugin: "shopify-cg",
+                      product: basketData 
+                    });
+                  });
+                } catch (err) {
+                  // do nothing
+                }
+              }
+              resolve(response);
+            })
+            .catch((error) => {
+              reject(error);
+            })
+        });
+      }
+    }, false);
+  })();
+</script>
+<!-- CRITEO END -->
+<div id="shopify-block-12440966767595914869" class="shopify-block shopify-app-block"><!-- BEGIN app snippet: configs --><script type="text/javascript">
+    var sm_theme_app_extension_in_use = true;
+    
+    
+    
+    
+
+    //var sm_quantity_selector_attr = 'id';
+    var sm_translations_labels = {"gift_already_in_cart":"Brinde GIFT_NAME está no seu carrinho","remove_from_cart":"Remover do carrinho?","add_to_cart":"Adicionar ao carrinho","add_product_to_cart_and_get_gift":"Adicione PRODUCT_NAME ao carrinho para ganhar um brinde","add_multiple_products_to_cart_and_get_gift":"Add any product from collection(s) TYPE_VALUES to cart and get free gift","pick_free_gift_for_multiple_products":"You added to cart product from collection(s) TYPE_VALUES, you can pick free gift","pick_free_gift_for_product":"Você pode escolher um brinde para PRODUCT_NAME","buy_for_more_and_get_gift":"Nas compras acima de  ORDER_MINIMUM (TO_SPEND ou mais), você recebe um brinde grátis","buy_for_more_and_get_gift_with_conditions":"If you spend ORDER_MINIMUM (TO_SPEND more) for products CONDITIONAL_PRODUCTS, you will get free gift","pick_free_gift_for_order":"Você ganhou um brinde","active_until":"Válido até UNTIL_DATE","until_date_format":2,"gift_cart_property_label":"Brinde Grátis"};
+    var sm_desing_settings = {"changeGiftVariantsInCart":0,"showGiftOldPriceInGiftBox":0,"removeGiftsLinks":1,"disableUnavailableGifts":0,"canChangeGiftsQuantity":0,"selectedGiftIcon":2,"giftIconColor":{"hue":120,"saturation":0,"brightness":0.75,"alpha":1},"giftIconTextValue":"Free Gift","selectedGiftBoxPosition":1,"backgroundColorOfGiftBox":{"hue":1,"saturation":0,"brightness":1},"backgroundColorOfGiftBoxIcon":{"hue":1,"saturation":0,"brightness":1},"giftBoxIconIsPulsed":1,"hideGiftBox":0,"showProgressBar":1,"progressBarColor":{"hue":111,"saturation":0.2391,"brightness":0.902},"addGiftToCartAutomaticallyOnlyFirstTime":0};
+    var sm_products_gifts = [];
+    var sm_orders_gifts = [{"id":26312,"order_minimum":300,"startDate":null,"endDate":null,"automaticallyAddToCart":1,"gifts":[{"id_gift":"8445584998717","url":"brinde-solida-mascara-hidratei1-1","original_url":"brinde-solida-mascara-hidratei1"}],"filterConditionType":"anyone","filterConditions":[],"canAddMoreGifts":0}];
+    var sm_multiple_products_gifts = [];
+    var sm_pro_version_settings = {"limit_gift_value":0,"can_cumulate_order_total_value_offers":1,"auto_gift_box_open_value":"if_reach_threshold_first_time","adapt_to_currency":0};
+    var sm_money_with_currency_format = "R$ {{amount_with_comma_separator}} ";
+    var sm_money_format = "R$ @@amount_with_comma_separator&&";
+    var sm_override_checkout_button = true;
+    var sm_is_cart_page = false;
+    
+        sm_is_cart_page = true;
+    
+
+    
+    var sm_collections_products_ids = {};
+    
+    
+
+    
+    var sm_order_offers_conditions_products_ids = {};
+    
+    
+</script>
+<!-- END app snippet -->
+<!-- BEGIN app snippet: styles --><style>
+    #gift_container, #gift_container .giftContainerContent, #smProductDetailGiftWrapper {
+        all: unset;
+    }
+
+    #gift_container .giftContainerContent *, #smProductDetailGiftWrapper * {
+        all: unset;
+    }
+
+    #sticky_gift_icon.stickyGartRight {
+        right: 20px;
+        bottom: 20px;
+    }
+    #sticky_gift_icon {
+        position: fixed;
+        bottom: 200px;
+        right: 15px;
+        z-index: 9999;
+    }
+    #sticky_gift_icon a {
+        text-decoration: none;
+        font-size: 20px;
+        color: #34495e;
+    }
+    #sticky_gift_icon span {
+        display: block;
+        -webkit-border-radius: 40px;
+        -moz-border-radius: 40px;
+        border-radius: 40px;
+        background-color: rgba(255,255,255,.9);
+        -webkit-box-shadow: 1px 1px 5px grey;
+        -moz-box-shadow: 1px 1px 5px grey;
+        box-shadow: 1px 1px 5px grey;
+        padding: 10px;
+        width: 40px;
+        height: 40px;
+        margin: 0 auto;
+        line-height: 40px !important;
+        text-align: center;
+        text-align: -moz-center;
+        text-align: -webkit-center;
+        position: relative;
+        box-sizing: content-box !important;
+        z-index: 1;
+    }
+    #sticky_gift_icon mark {
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        border-radius: 20px;
+        border: 2px solid #FFF;
+        width: 20px;
+        height: 20px;
+        background-color: #FF6B6B;
+        position: absolute;
+        top: -5px;
+        left: -10px;
+        font-size: 10px;
+        line-height: 20px;
+        font-family: Roboto,sans-serif;
+        color: #FFF;
+        font-weight: 700;
+        box-sizing: content-box !important;
+    }
+    #sticky_gift_icon svg.showGifts {
+        height: 30px;
+        width: 30px;
+        margin-top: 3px;
+        vertical-align: inherit;
+    }
+    #sticky_gift_icon svg.hideGifts {
+        height: 25px;
+        width: 25px;
+        margin-top: 8px;
+        display: none;
+        vertical-align: inherit;
+    }
+
+    #gift_container {
+        color:black;
+        position: fixed;
+        z-index: 9999999;
+        bottom: 95px;
+        right: 20px;
+        max-height: 80%;
+        overflow-y: scroll;
+        overflow-x: hidden;
+        -webkit-box-shadow: rgba(0, 0, 0, 0.16) 0px 5px 40px, rgb(0, 0, 0) 0px 5px 0px 0px inset !important;
+        -moz-box-shadow: rgba(0, 0, 0, 0.16) 0px 5px 40px, rgb(0, 0, 0) 0px 5px 0px 0px inset !important;
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 5px 40px, rgb(0, 0, 0) 0px 5px 0px 0px inset !important;
+        -moz-border-radius: 8px;
+        -webkit-border-radius: 8px;
+        border-radius: 8px;
+        font-size: 13px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+
+    #gift_container .giftContainerContent {
+        float: right;
+        background: white;
+        width: 320px;
+        position: relative;
+        padding: 10px 10px 0px 10px;
+        display:none;
+    }
+
+    #gift_container .giftContainerContent .giftWrapper {
+        color: black;
+        padding: 5px;
+        margin: 0px 0px 10px;
+        background:rgb(255, 255, 255) none repeat scroll 0% 0%;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 15px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+        -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 15px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+        box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 15px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+        position: relative;
+        display: block;
+    }
+
+    #gift_container .giftContainerContent .orderGiftsTitle, #gift_container .giftContainerContent .productsToOfferGiftsTitle {
+        text-align: center;
+        padding: 5px;
+        margin: 0 auto;
+        font-weight: bold;
+        display: block;
+        border-bottom: 1px solid gray;
+        width: 95%;
+    }
+
+    #gift_container .giftContainerContent ul {
+        display: inline;
+    }
+    #gift_container .giftContainerContent li{
+        padding: 10px 20px;
+        display: block;
+    }
+    #gift_container .giftContainerContent li img{
+        width: 22%;
+        float: left;
+        display: block;
+    }
+    #gift_container .giftContainerContent .smItems{
+        width: 70%;
+        display: block;
+        float: left;
+        margin-left: 5%;
+    }
+
+    #gift_container .giftContainerContent .giftWrapper a {
+        display: inline;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+
+    #gift_container.removeLinks .giftContainerContent .giftWrapper .smItems a, #gift_container.removeLinks .giftContainerContent .giftWrapper .alreadyInCartGiftTitle a {
+        cursor: inherit;
+        text-decoration: none;
+    }
+
+    #gift_container .giftContainerContent .smAddGiftToCart {
+        padding: 4px 10px;
+        margin-top: 4px;
+        background:rgba(168, 168, 168, 0.46) none repeat scroll 0% 0%;
+        border-radius: 2px;
+        position: relative;
+        display: block;
+        font-weight: bold;
+        cursor: pointer;
+    }
+
+    #gift_container .giftContainerContent .giftAlreadyInCart, #gift_container .giftContainerContent .giftLineAlreadyInCart {
+        padding: 5px 20px;
+        display: block;
+        text-align: center;
+    }
+
+    #gift_container .giftContainerContent .giftAlreadyInCart a, #gift_container .giftContainerContent .giftLineAlreadyInCart a {
+        font-weight: bold;
+    }
+    #gift_container .giftContainerContent .removeFromCart {
+        display: block;
+        margin-top: 10px;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+
+
+    #gift_container .giftContainerContent .item-variants select {
+        display: block;
+        color: #444;
+        padding: .3em 1.0em .3em .3em;
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+        margin-top: 2px;
+        border: 1px solid #aaa;
+        -moz-border-radius: .2em;
+        -webkit-border-radius: .2em;
+        border-radius: .2em;
+        -moz-appearance: none;
+        -webkit-appearance: none;
+        appearance: none;
+        background-color: #fff;
+        background-image: url('data:image/svg+xml;charset=US-ASCII,<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 width="292.362px" height="292.362px" viewBox="0 0 292.362 292.362" style="enable-background:new 0 0 292.362 292.362;"	 xml:space="preserve"><g>	<path d="M286.935,69.377c-3.614-3.617-7.898-5.424-12.848-5.424H18.274c-4.952,0-9.233,1.807-12.85,5.424		C1.807,72.998,0,77.279,0,82.228c0,4.948,1.807,9.229,5.424,12.847l127.907,127.907c3.621,3.617,7.902,5.428,12.85,5.428		s9.233-1.811,12.847-5.428L286.935,95.074c3.613-3.617,5.427-7.898,5.427-12.847C292.362,77.279,290.548,72.998,286.935,69.377z"/></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>'), linear-gradient(to bottom, #ffffff 0%,#e5e5e5 100%);
+        background-repeat: no-repeat, repeat;
+        background-position: right .7em top 50%, 0 0;
+        background-size: .65em auto, 100%;
+    }
+    #gift_container .giftContainerContent .item-variants select::-ms-expand {
+        display: none;
+    }
+    #gift_container .giftContainerContent .item-variants select:hover {
+        border-color: #888;
+    }
+    #gift_container .giftContainerContent .item-variants select:focus {
+        border-color: #aaa;
+        -moz-box-shadow: 0 0 1px 3px rgba(59, 153, 252, .7);
+        -webkit-box-shadow: 0 0 1px 3px rgba(59, 153, 252, .7);
+        box-shadow: 0 0 1px 3px rgba(59, 153, 252, .7);
+        -moz-box-shadow: 0 0 0 3px -moz-mac-focusring;
+        -webkit-box-shadow: 0 0 0 3px -moz-mac-focusring;
+        box-shadow: 0 0 0 3px -moz-mac-focusring;
+        color: #222;
+        outline: none;
+    }
+    #gift_container .giftContainerContent .item-variants select option {
+        font-weight:normal;
+    }
+
+    *[dir="rtl"] #gift_container .giftContainerContent .item-variants select, :root:lang(ar) #gift_container .giftContainerContent .item-variants select, :root:lang(iw) #gift_container .giftContainerContent .item-variants select {
+        background-position: left .7em top 50%, 0 0;
+        padding: .6em .8em .5em 1.4em;
+    }
+
+    #gift_container .giftContainerContent .item-variants select:disabled, #gift_container .giftContainerContent .item-variants select[aria-disabled=true] {
+        color: graytext;
+        background-image: url('data:image/svg+xml;charset=US-ASCII,<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 width="292.362px" height="292.362px" viewBox="0 0 292.362 292.362" style="enable-background:new 0 0 292.362 292.362;"	 xml:space="preserve"><g>	<path d="M286.935,69.377c-3.614-3.617-7.898-5.424-12.848-5.424H18.274c-4.952,0-9.233,1.807-12.85,5.424		C1.807,72.998,0,77.279,0,82.228c0,4.948,1.807,9.229,5.424,12.847l127.907,127.907c3.621,3.617,7.902,5.428,12.85,5.428		s9.233-1.811,12.847-5.428L286.935,95.074c3.613-3.617,5.427-7.898,5.427-12.847C292.362,77.279,290.548,72.998,286.935,69.377z"/></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>'),linear-gradient(to bottom, #ffffff 0%,#e5e5e5 100%);
+    }
+    #gift_container .giftContainerContent .item-variants select:disabled:hover, #gift_container .giftContainerContent .item-variants select[aria-disabled=true] {
+        border-color: #aaa;
+    }
+    #gift_container .giftContainerContent:after {
+        bottom: 100%;
+        left: 89%;
+        border: solid transparent;
+        content: " ";
+        height: 0;
+        width: 0;
+        position: absolute;
+        pointer-events: none;
+        border-bottom-color: white;
+        border-width: 8px;
+        margin-left: -8px;
+    }
+
+    #gift_container .button {
+        background: #6394F8;
+        color: white;
+        text-align: center;
+        padding: 12px;
+        text-decoration: none;
+        display: block;
+        border-radius: 3px;
+        font-size: 16px;
+        margin: 25px 0 15px 0;
+    }
+    #gift_container .button:hover {
+        background: #729ef9;
+    }
+
+    #gift_container .clearfix:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    #gift_container #overlaySection {
+        display: none;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: white;
+        opacity: 0.6;
+        z-index: 99;
+    }
+
+
+    #smProductDetailGiftWrapper {
+        position: relative;
+        font-size: 13px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        line-height: 1;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        color: #000;
+        padding: 10px;
+        margin: 20px 0px 50px;
+        background:rgb(255, 255, 255) none repeat scroll 0% 0%;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+        -webkit-box-shadow:rgba(0, 0, 0, 0.1) 0px 1px 1px 0px,rgba(0, 0, 0, 0.1) 0px 1px 1px 1px;
+        -moz-box-shadow:rgba(0, 0, 0, 0.1) 0px 1px 1px 0px,rgba(0, 0, 0, 0.1) 0px 1px 1px 1px;
+        box-shadow:rgba(0, 0, 0, 0.1) 0px 1px 1px 0px,rgba(0, 0, 0, 0.1) 0px 1px 1px 1px;
+        display: block;
+        clear:both;
+    }
+
+    #smProductDetailGiftWrapper.alreadyInCart {
+        border: 1px solid #00800070;
+        background: rgb(245, 251, 244);
+    }
+
+    #smProductDetailGiftWrapper .alreadyInCartProductTitle {
+        display: block;
+        text-align: center;
+    }
+    #smProductDetailGiftWrapper .alreadyInCartProductTitle a {
+        cursor: pointer;
+        text-decoration: underline;
+        font-weight: bold;
+    }
+
+    #smProductDetailGiftMainWrapper.removeLinks .alreadyInCartProductTitle a {
+        cursor: inherit;
+        text-decoration: none;
+    }
+
+    #smProductDetailGiftWrapper .removeFromCart {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+
+
+    #smProductDetailGiftWrapper li {
+        padding: 10px 20px;
+        display: inline-block;
+    }
+
+    #smProductDetailGiftWrapper li img {
+        width: 22%;
+        float: left;
+        display: block;
+    }
+    #smProductDetailGiftWrapper .smItems {
+        width: 70%;
+        display: block;
+        float: left;
+        margin-left: 5%;
+    }
+    #smProductDetailGiftWrapper .giftWrapper a, #smProductDetailGiftWrapper .giftLineAlreadyInCart a {
+        display: inline;
+        cursor: pointer;
+    }
+    #smProductDetailGiftWrapper .item-variants select {
+        display: block;
+        color:#444;
+        padding: .5em 1.0em .3em .3em;
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+        margin-top: 6px;
+        border: 1px solid #aaa;
+        -moz-border-radius: .2em;
+        -webkit-border-radius: .2em;
+        border-radius: .2em;
+        -moz-appearance: none;
+        -webkit-appearance: none;
+        appearance: none;
+        background-color:#fff;
+        background-image: url('data:image/svg+xml;charset=US-ASCII,<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="292.362px" height="292.362px" viewBox="0 0 292.362 292.362" style="enable-background:new 0 0 292.362 292.362;" xml:space="preserve"><g> <path d="M286.935,69.377c-3.614-3.617-7.898-5.424-12.848-5.424H18.274c-4.952,0-9.233,1.807-12.85,5.424 C1.807,72.998,0,77.279,0,82.228c0,4.948,1.807,9.229,5.424,12.847l127.907,127.907c3.621,3.617,7.902,5.428,12.85,5.428 s9.233-1.811,12.847-5.428L286.935,95.074c3.613-3.617,5.427-7.898,5.427-12.847C292.362,77.279,290.548,72.998,286.935,69.377z"/></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>'), linear-gradient(to bottom,#ffffff 0%,#e5e5e5 100%);
+        background-repeat: no-repeat, repeat;
+        background-position: right .7em top 50%, 0 0;
+        background-size: .65em auto, 100%;
+        text-align: left;
+    }
+
+    #smProductDetailGiftWrapper .item-name {
+        display: block;
+        cursor: pointer;
+        text-decoration: underline;
+        text-align: left;
+    }
+
+    #smProductDetailGiftMainWrapper.removeLinks .item-name, #smProductDetailGiftMainWrapper.removeLinks .alreadyInCartGiftTitle a, #smProductDetailGiftWrapper.removeLinks .item-name {
+        cursor: inherit;
+        text-decoration: none;
+    }
+
+    #smProductDetailGiftMainWrapper li.isInCart {
+        padding: 10px 5px !important;
+    }
+    #smProductDetailGiftMainWrapper li.isInCart .giftLineAlreadyInCart img {
+        margin-right: 15px !important;
+    }
+
+    #smProductDetailGiftWrapper .item-variants select option {
+        font-weight: normal;
+    }
+    #smProductDetailGiftWrapper .smAddGiftToCart {
+        padding: 8px 8px;
+        margin-top: 6px;
+        background: rgba(168, 168, 168, 0.46) none repeat scroll 0% 0%;
+        -moz-border-radius: 2px;
+        -webkit-border-radius: 2px;
+        border-radius: 2px;
+        position: relative;
+        display: block;
+        font-weight: bold;
+        cursor: pointer;
+    }
+
+    #smProductDetailGiftWrapper .giftLineAlreadyInCart {
+        padding: 15px !important;
+        display: block;
+        text-align: center;
+    }
+
+    #smProductDetailGiftWrapper .giftLineAlreadyInCart a {
+        font-weight: bold;
+    }
+    #smProductDetailGiftWrapper .removeFromCart {
+        display: block;
+        margin-top: 10px;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+
+    #smProductDetailGiftWrapper .productsToOfferGiftsTitle {
+        text-align: center;
+        padding: 5px;
+        margin: 0 auto;
+        font-weight: bold;
+        display: block;
+        border-bottom: 1px solid gray;
+        width: 95%;
+        margin-bottom: 20px;
+        line-height: 20px;
+    }
+    #smProductDetailGiftWrapper .productsToOfferGiftsTitle a {
+        cursor: pointer;
+        text-decoration: underline;
+    }
+
+    #gift_container  .offerGiftsUntilDate, #smProductDetailGiftWrapper .offerGiftsUntilDate {
+        display: block;
+        margin-top: 5px;
+        text-align: center;
+        border-top: 1px solid black;
+        padding: 10px;
+    }
+
+    #gift_container  .offerGiftsUntilDateIcon, #smProductDetailGiftWrapper .offerGiftsUntilDateIcon {
+        padding: 0 1.0em .3em .3em;
+        background-color: #fff;
+        background-image: url('data:image/svg+xml;charset=US-ASCII,<svg height="512pt" viewBox="0 0 512 512" width="512pt" xmlns="http://www.w3.org/2000/svg"><path d="m482 292.25v-246.25c0-8.285156-6.714844-15-15-15h-76v-16c0-8.285156-6.714844-15-15-15s-15 6.714844-15 15v16h-60v-16c0-8.285156-6.714844-15-15-15s-15 6.714844-15 15v16h-60v-16c0-8.285156-6.714844-15-15-15s-15 6.714844-15 15v16h-60v-16c0-8.285156-6.714844-15-15-15s-15 6.714844-15 15v16h-76c-8.285156 0-15 6.714844-15 15v391c0 8.285156 6.714844 15 15 15h249.804688c24.25 36.152344 65.488281 60 112.195312 60 74.4375 0 135-60.5625 135-135 0-32.070312-11.25-61.5625-30-84.75zm-391-231.25v15c0 8.285156 6.714844 15 15 15s15-6.714844 15-15v-15h60v15c0 8.285156 6.714844 15 15 15s15-6.714844 15-15v-15h60v15c0 8.285156 6.714844 15 15 15s15-6.714844 15-15v-15h60v15c0 8.285156 6.714844 15 15 15s15-6.714844 15-15v-15h61v60h-422v-60zm-61 361v-271h422v113.804688c-21.464844-14.394532-47.269531-22.804688-75-22.804688-47.398438 0-89.164062 24.558594-113.257812 61.613281-2.027344-1.023437-4.3125-1.613281-6.742188-1.613281h-30c-8.285156 0-15 6.714844-15 15s6.714844 15 15 15h22.722656c-3.386718 9.554688-5.730468 19.601562-6.882812 30h-15.839844c-8.285156 0-15 6.714844-15 15s6.714844 15 15 15h15.839844c1.152344 10.398438 3.492187 20.445312 6.882812 30zm347 60c-57.898438 0-105-47.101562-105-105s47.101562-105 105-105 105 47.101562 105 105-47.101562 105-105 105zm0 0"/><path d="m437 362h-45v-45c0-8.285156-6.714844-15-15-15s-15 6.714844-15 15v60c0 8.285156 6.714844 15 15 15h60c8.285156 0 15-6.714844 15-15s-6.714844-15-15-15zm0 0"/><path d="m136 182h-30c-8.285156 0-15 6.714844-15 15s6.714844 15 15 15h30c8.285156 0 15-6.714844 15-15s-6.714844-15-15-15zm0 0"/><path d="m136 242h-30c-8.285156 0-15 6.714844-15 15s6.714844 15 15 15h30c8.285156 0 15-6.714844 15-15s-6.714844-15-15-15zm0 0"/><path d="m136 302h-30c-8.285156 0-15 6.714844-15 15s6.714844 15 15 15h30c8.285156 0 15-6.714844 15-15s-6.714844-15-15-15zm0 0"/><path d="m227 212h30c8.285156 0 15-6.714844 15-15s-6.714844-15-15-15h-30c-8.285156 0-15 6.714844-15 15s6.714844 15 15 15zm0 0"/><path d="m227 272h30c8.285156 0 15-6.714844 15-15s-6.714844-15-15-15h-30c-8.285156 0-15 6.714844-15 15s6.714844 15 15 15zm0 0"/><path d="m136 362h-30c-8.285156 0-15 6.714844-15 15s6.714844 15 15 15h30c8.285156 0 15-6.714844 15-15s-6.714844-15-15-15zm0 0"/><path d="m347 212h30c8.285156 0 15-6.714844 15-15s-6.714844-15-15-15h-30c-8.285156 0-15 6.714844-15 15s6.714844 15 15 15zm0 0"/></svg>');
+        background-repeat: no-repeat, repeat;
+        background-size: 16px auto;
+    }
+
+    .productGiftIcon {
+        position: absolute !important;
+        top: 10px !important;
+        right: 10px !important;
+        width: 15% !important;
+        z-index: 1 !important;
+        height: 15% !important;
+        left: auto !important;
+    }
+    .svgTextValue {
+        display: inline-block;
+        position: absolute;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-50%);
+        left: 0;
+        right: 0;
+        margin: auto;
+        text-align: center;
+        color: black;
+    }
+    .smGiftInCartVariants {
+        display: block;
+        margin-top: 5px;
+        color: #444;
+        padding: .3em 1.0em .3em .3em;
+        box-sizing: border-box;
+        border: 1px solid #aaa;
+        background-color: #fff;
+    }
+    #smProductDetailGiftMainWrapper .item-original-price {
+        margin-top: 5px;
+    }
+    #smProductDetailGiftWrapper .item-original-price {
+        margin-top: 5px;
+    }
+</style>
+
+
+
+
+    <style>
+        .giftBoxPulse {
+            margin:100px;
+            display: block;
+            width: 22px;
+            height: 22px;
+            border-radius: 50%;
+            background: #d02e2e;
+            cursor: pointer;
+            box-shadow: 1px 1px 5px grey;
+            -moz-box-shadow: 1px 1px 5px grey;
+            -webkit-box-box-shadow: 1px 1px 5px grey;
+            animation: giftBoxPulse 2s infinite;
+            -moz-animation: giftBoxPulse 2s infinite;
+            -webkit-animation: giftBoxPulse 2s infinite;
+            border: 0.5px solid #d3d3d38a;
+        }
+        @-webkit-keyframes giftBoxPulse {
+            0% {
+                -webkit-box-shadow: 0 0 0 0 lightgray;
+            } 70% {
+                  -webkit-box-shadow: 0 0 0 10px rgba(204,169,44, 0);
+              } 100% {
+                    -webkit-box-shadow: 0 0 0 0 rgba(204,169,44, 0);
+                }
+        }
+        @keyframes giftBoxPulse {
+            0% {
+                -moz-box-shadow: 0 0 0 0 lightgray;
+                box-shadow: 0 0 0 0 lightgray;
+            } 70% {
+                  -moz-box-shadow: 0 0 0 10px rgba(204,169,44, 0);
+                  box-shadow: 0 0 0 10px rgba(204,169,44, 0);
+              } 100% {
+                    -moz-box-shadow: 0 0 0 0 rgba(204,169,44, 0);
+                    box-shadow: 0 0 0 0 rgba(204,169,44, 0);
+                }
+        }
+    </style>
+
+<!-- END app snippet -->
+<!-- BEGIN app snippet: gift-box --><div style="display:none" id="sticky_gift_icon" class="stickyGartRight">
+    <a href="#">
+    <span style="background-size: 30px;background-repeat: no-repeat;background-position: center; background-color:#ffffff">
+        <svg class="showGifts" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+            <g>
+                <g>
+                    <path d="M32,271.692v192c0,17.664,14.368,32,32,32h160v-224H32z"></path>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <path d="M480,143.692H378.752c7.264-4.96,13.504-9.888,17.856-14.304c25.824-25.952,25.824-68.192,0-94.144
+                        c-25.088-25.28-68.8-25.216-93.856,0c-13.888,13.92-50.688,70.592-45.6,108.448h-2.304c5.056-37.856-31.744-94.528-45.6-108.448
+                        c-25.088-25.216-68.8-25.216-93.856,0C89.6,61.196,89.6,103.436,115.36,129.388c4.384,4.416,10.624,9.344,17.888,14.304H32
+                        c-17.632,0-32,14.368-32,32v48c0,8.832,7.168,16,16,16h208v-64h64v64h208c8.832,0,16-7.168,16-16v-48
+                        C512,158.06,497.664,143.692,480,143.692z M222.112,142.636c0,0-1.344,1.056-5.92,1.056c-22.112,0-64.32-22.976-78.112-36.864
+                        c-13.408-13.504-13.408-35.52,0-49.024c6.496-6.528,15.104-10.112,24.256-10.112c9.12,0,17.728,3.584,24.224,10.112
+                        C208.128,79.5,229.568,134.924,222.112,142.636z M295.776,143.692c-4.544,0-5.888-1.024-5.888-1.056
+                        c-7.456-7.712,13.984-63.136,35.552-84.832c12.896-13.024,35.456-13.088,48.48,0c13.44,13.504,13.44,35.52,0,49.024
+                        C360.128,120.716,317.92,143.692,295.776,143.692z"></path>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <path d="M288,271.692v224h160c17.664,0,32-14.336,32-32v-192H288z"></path>
+                </g>
+        	</g>
+        </svg>
+      	<svg class="hideGifts" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 492 492" style="enable-background:new 0 0 492 492;" xml:space="preserve">
+            <g>
+                <g>
+                    <path d="M300.188,246L484.14,62.04c5.06-5.064,7.852-11.82,7.86-19.024c0-7.208-2.792-13.972-7.86-19.028L468.02,7.872
+                        c-5.068-5.076-11.824-7.856-19.036-7.856c-7.2,0-13.956,2.78-19.024,7.856L246.008,191.82L62.048,7.872
+                        c-5.06-5.076-11.82-7.856-19.028-7.856c-7.2,0-13.96,2.78-19.02,7.856L7.872,23.988c-10.496,10.496-10.496,27.568,0,38.052
+                        L191.828,246L7.872,429.952c-5.064,5.072-7.852,11.828-7.852,19.032c0,7.204,2.788,13.96,7.852,19.028l16.124,16.116
+                        c5.06,5.072,11.824,7.856,19.02,7.856c7.208,0,13.968-2.784,19.028-7.856l183.96-183.952l183.952,183.952
+                        c5.068,5.072,11.824,7.856,19.024,7.856h0.008c7.204,0,13.96-2.784,19.028-7.856l16.12-16.116
+                        c5.06-5.064,7.852-11.824,7.852-19.028c0-7.204-2.792-13.96-7.852-19.028L300.188,246z"/>
+                </g>
+            </g>
+        </svg>
+      	<mark class="giftsCount" style="background-color:#ff6b6b">0</mark>
+    </span>
+    </a>
+</div>
+
+
+<div id="gift_container">
+    <div class="giftContainerContent">
+    </div>
+    <div id="overlaySection" style="display: none;">
+        <div class="overlaySectionWrapper">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: 10px auto; background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%; display: block; shape-rendering: auto;" width="100px" height="100px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+                <circle cx="50" cy="50" fill="none" stroke="#6a6a6a" stroke-width="6" r="35" stroke-dasharray="164.93361431346415 56.97787143782138">
+                    <animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" dur="1s" values="0 50 50;360 50 50" keyTimes="0;1"></animateTransform>
+                </circle>
+            </svg>
+        </div>
+    </div>
+</div>
+
+<div id="smGiftIcon1" style="display:none">
+    <svg height="100%" viewBox="0 0 423334 423334" width="100%"><g>
+            <circle class="svgBackground" cx="211667" cy="211667" r="211667" style="fill: rgb(0, 255, 0);" /><g><path class="fil1" style="fill: white" d="M119059 155901l185216 0c2805,0 5080,2275 5080,5080l0 41401c0,2805 -2275,5080 -5080,5080l-185216 0c-2805,0 -5080,-2275 -5080,-5080l0 -41401c0,-2805 2275,-5080 5080,-5080zm180136 10160l-175056 0 0 31241 175056 0 0 -31241z" />
+                <path class="fil1" style="fill: white" d="M296643 220462l0 104671c0,2805 -2275,5080 -5080,5080l-159792 0c-2805,0 -5080,-2275 -5080,-5080l0 -104671c0,-2797 2282,-5079 5079,-5079l2 0c2797,0 5079,2289 5079,5079l0 99591 149632 0 0 -99591c0,-2797 2282,-5079 5079,-5079l2 0c2797,0 5079,2289 5079,5079z" />
+                <path class="fil1" style="fill: white" d="M193635 161672c0,-2805 2275,-5080 5080,-5080 2805,0 5080,2275 5080,5080l0 163461c0,2805 -2275,5080 -5080,5080 -2805,0 -5080,-2275 -5080,-5080l0 -163461z" />
+                <path class="fil1" style="fill: white" d="M219539 161672c0,-2805 2275,-5080 5080,-5080 2805,0 5080,2275 5080,5080l0 163461c0,2805 -2275,5080 -5080,5080 -2805,0 -5080,-2275 -5080,-5080l0 -163461z" />
+                <path class="fil1" style="fill: white" d="M209789 163399c-2587,-2281 -68864,-61052 -31914,-69713 33612,-7880 40371,65311 40391,65520 262,2783 -1781,5254 -4564,5516 -1491,140 -2893,-381 -3913,-1323zm-29612 -59831c-13041,3056 11194,28506 26055,42753 -3158,-17890 -10654,-46364 -26055,-42753z" />
+                <path class="fil1" style="fill: white" d="M221711 142929c11236,-11089 24112,-25587 18671,-29124 -5427,-3528 -13257,14265 -18671,29124zm24187 -37618c19846,12904 -28410,55572 -31713,58458 -1268,1217 -3135,1739 -4942,1208 -2685,-789 -4222,-3606 -3433,-6291 56,-189 19543,-66734 40088,-53375z" /></g></g>
+    </svg>
+</div>
+<div id="smGiftIcon2" style="display:none">
+    <svg height="100%" width="100%" viewBox="0 0 64 64">
+        <g>
+            <path class="svgBackground"
+                  d="M56.8,19.4c-2.4,0.3-4.2,1.8-5.7,3.7c0.4,0.5,0.8,0.8,1.1,1.2c0,1.3,0,2.6,0,4.4c1.1,0.6,2.5,1.7,4.2,2.3   c0.9,0.3,2.3,0,3.1-0.6c1.1-0.7,0.8-2,0.2-3.1c-0.7-1.4-0.8-2.9-0.2-4.5C60.4,20.7,59.1,19,56.8,19.4z M56.9,23   c-0.8,0.6-1.9,0.8-2.9,0.9c-0.3,0-1.6,0-1.7,0.3c0.5-1.2,1.8-2.3,2.9-2.9c0.4-0.2,0.7-0.4,1.1-0.4c0.4,0,0.8,0.1,1.1,0.4   C57.9,21.9,57.5,22.5,56.9,23z"/>
+            <path class="svgBackground"
+                  d="M47.8,22.8c-1.5-1.9-3.2-3.4-5.7-3.7c-2.3-0.3-3.6,1.3-2.7,3.5c0.7,1.6,0.5,3-0.2,4.5   c-0.6,1.1-0.8,2.4,0.2,3.1c0.8,0.6,2.2,0.9,3.1,0.6c1.6-0.6,3-1.6,4.2-2.3c0-1.8,0-3.1,0-4.4C47.1,23.6,47.4,23.3,47.8,22.8z    M44.4,23.5c-1-0.2-2-0.5-2.8-1.1c-0.1-0.1-0.2-0.2-0.3-0.3c-0.5-0.5-0.9-1.4,0-1.7c0.8-0.3,1.9,0.3,2.6,0.7c1.1,0.7,2,1.6,2.6,2.7   C46.4,23.6,44.8,23.6,44.4,23.5z"/>
+            <path class="svgBackground"
+                  d="M49.4,23.5c-1.3,0-2.4,1.1-2.4,2.4c0,1.3,1.1,2.4,2.4,2.4c1.3,0,2.4-1.1,2.4-2.4   C51.8,24.6,50.7,23.5,49.4,23.5z"/>
+            <path class="svgBackground"
+                  d="M58.8,12.3h-7.2v7.2c1.3-1.1,2.9-2,4.9-2.3c1.9-0.3,3.5,0.3,4.5,1.6c1,1.3,1.1,3,0.4,4.7   c0,0.1-0.1,0.2-0.1,0.3h1.5v-7.5C62.9,14.1,61.1,12.3,58.8,12.3z"/>
+            <path class="svgBackground"
+                  d="M37.6,23.2c-0.7-1.7-0.6-3.5,0.4-4.7c1-1.3,2.6-1.9,4.5-1.6c2.1,0.3,3.8,1.3,5,2.4v-7H5.2   c-2.3,0-4.1,1.8-4.1,4.1v7.5h36.7C37.7,23.6,37.7,23.4,37.6,23.2z"/>
+            <path class="svgBackground"
+                  d="M43.3,32.5c-0.5,0.2-1,0.2-1.5,0.2c-1.3,0-2.6-0.4-3.5-1c-0.5-0.4-1.9-1.5-1.6-3.7H1.1v19.8   c0,2.3,1.8,4.1,4.1,4.1h42.4V30.2c-0.2,0.1-0.4,0.2-0.6,0.4C45.9,31.2,44.7,32,43.3,32.5z"/>
+            <path class="svgBackground"
+                  d="M60.7,32c-0.9,0.6-2.2,1-3.5,1c-0.5,0-1-0.1-1.5-0.2c-1.4-0.5-2.6-1.3-3.6-1.9c-0.2-0.1-0.3-0.2-0.5-0.3v21.1   h7.2c2.3,0,4.1-1.8,4.1-4.1V27.9h-0.7C62.7,30.3,61.2,31.6,60.7,32z"/>
+        </g>
+    </svg>
+</div>
+<div id="smGiftIcon3" style="display:none">
+    <svg height="100%" width="100%" viewBox="0 0 64 64">
+        <circle cx="50%" cy="50%" r="50%" fill="red" class="svgBackground" />
+        <switch>
+            <foreignObject x="10" y="4" width="70%" height="85%" style="line-height: normal; text-align:center;">
+                <div>
+                    <p xmlns="http://www.w3.org/1999/xhtml" class="svgTextValue" style="color: black; font-family: Arial; font-size: 14px; text-align: center; line-height: normal; font-weight: bold"></p>
+                </div>
+            </foreignObject>
+        </switch>
+    </svg>
+</div>
+
+<img alt="smNoImage" style="display:none" class="smNoImage" src="https://cdn.shopify.com/extensions/2807be0f-8bc2-4572-89f8-cf4ae9050c81/1.8.0/assets/noimage.png" width="100" height="100" />
+<!-- END app snippet -->
+<!-- BEGIN app snippet: scripts -->
+
+    <script src='https://cdn.shopify.com/extensions/2807be0f-8bc2-4572-89f8-cf4ae9050c81/1.8.0/assets/main_pro_v6.js' defer></script>
+
+
+<!-- END app snippet -->
+
+
+</div></body>
+</html>
